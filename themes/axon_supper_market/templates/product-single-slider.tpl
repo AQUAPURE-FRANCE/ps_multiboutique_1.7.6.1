@@ -30,6 +30,7 @@
  <div class="row">
             {foreach from=$nodecontent.products item="product"}
             <div class="row single-product {$product.category}">
+	            <div>nouvelle modif avec publication</div>
 	            {block name='page_content_container'}
 	                {block name='page_content'}
 	                    {block name='product_flags'}
