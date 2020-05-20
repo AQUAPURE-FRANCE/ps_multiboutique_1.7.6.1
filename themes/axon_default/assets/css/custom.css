@@ -6567,9 +6567,25 @@ li.nav-item a[data-toggle="tab"] .title_tab span {
     font-weight: 600;
 }
 
-.title-menu em {font-family: 'aquafont'; font-style: normal!important; font-weight: 100;}
+.title-menu em, .logo-font em {
+	font-family: 'aquafont';
+	font-style: normal!important;
+	font-weight: 100;
+    line-height: 27px;
+}
 
-.title-menu span {font-family: 'Open sans', sans-serif; font-weight: 100;}
+.title-menu span, .logo-font span {
+	font-family: 'Open sans', sans-serif;
+	font-weight: 100;
+}
+.logo-font {
+	color: var(--grey_AP);
+	font-style: normal;
+	font-size: 20px;
+	font-family: "Open sans";
+	font-weight: 600;
+	cursor: pointer;
+}
 
 /************************************
             CUSTOM NOS VALEURS
