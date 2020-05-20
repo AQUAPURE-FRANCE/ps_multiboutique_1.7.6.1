@@ -39,3 +39,4 @@ vendor
 
 !.gitignore
 !themes/axon_supper_market
+!themes/axon_default
