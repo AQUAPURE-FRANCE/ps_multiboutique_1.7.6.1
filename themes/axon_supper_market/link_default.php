@@ -1,3 +1,3 @@
-<?php
-$link_default='/axon2/home3/';
+<?php
+$link_default='/axon2/home3/';
 ?>

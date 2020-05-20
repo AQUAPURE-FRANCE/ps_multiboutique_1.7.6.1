@@ -31,7 +31,7 @@ init.php
 INSTALL.txt
 robots.txt
 LICENSES
-
+.DS_Store
 /app/
 vendor
 /vendor/
