@@ -20,7 +20,6 @@
                     {include file="catalog/_partials/miniatures/product_cms.tpl" product=$product}
                 {/foreach}
             </div>
-            <div>I changed something for third time</div>
         </section>
     {else}
         <p class="alert alert-warning">{l s='Feed of products is not available.' d='Modules.CmsProducts.Shop'} {l s='Module:' d='Modules.CmsProducts.Shop'} <a href="{if $module=="Related Products Pro"}https://mypresta.eu/modules/front-office-features/related-products-pro.html{elseif $module=="Homepage Products Pro"}https://mypresta.eu/modules/front-office-features/homepage-products-pro.html{/if}" target="_blank">{$module}</a> {l s='not found or version of this module is too old'  d='Modules.CmsProducts.Shop'}</p>
