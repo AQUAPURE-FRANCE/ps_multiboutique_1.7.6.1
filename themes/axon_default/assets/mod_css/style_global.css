@@ -13678,7 +13678,7 @@ body > .ui-widget-content.ui-autocomplete > .ui-menu-item{
 	font-weight: normal;
 	font-style: normal;
 }
-[class^="af-"], [class*=" af-"] {
+[class^="af"], [class^="af-"], [class*=" af-"]{
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'aquafont' !important;
   -webkit-font-smoothing: antialiased;
