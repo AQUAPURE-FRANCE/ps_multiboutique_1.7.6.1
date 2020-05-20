@@ -30,5 +30,5 @@ On database
 
 On backoffice
 ---
-- Disable `URL simplifiée` in `CONFIGURER|Trafic et SEO`. Then Save
-- Enable `URL simplifiée` in `CONFIGURER|Trafic et SEO`. Then Save
+- Disable `URL simplifiée` in `CONFIGURER|Trafic et SEO`. Then Save.
+- Enable `URL simplifiée` in `CONFIGURER|Trafic et SEO`. Then Save.
