@@ -5,7 +5,7 @@
             {if isset($nodecontent.legend) && $nodecontent.legend != ''}<div class="content_title">{/if}
             <h4 class="title_block title_font">
                 <a class="title_text" href="{$nodecontent.href}">
-                    {$nodecontent.title} 
+                    {$nodecontent.title nofilter} 
                 </a>
             </h4>
             {if isset($nodecontent.legend) && $nodecontent.legend != ''}
@@ -16,7 +16,7 @@
             {if isset($nodecontent.legend) && $nodecontent.legend != ''}<div class="content_title">{/if}
             <h4 class="title_block title_font">
                 <span class="title_text">
-                    {$nodecontent.title} 
+                    {$nodecontent.title nofilter} 
                 </span>
             </h4>
             {if isset($nodecontent.legend) && $nodecontent.legend != ''}
