@@ -1,0 +1,1104 @@
+/**
+* 2007-2014 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2014 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*
+* Don't forget to prefix your containers with your own identifier
+* to avoid any conflicts with others containers.
+*/
+
+
+.grid_editors{
+  margin: 0;
+}
+#nrtfootereditors{
+
+  margin-top: 40px !important;
+}
+
+#module-nrtfootereditors-Editor .columns-container{
+  overflow: hidden;
+}
+.modal-open{
+  overflow: auto !important;
+}
+#nrtfootereditors .menu_row{
+background: none;
+padding: 0px;
+min-height: 80px;
+}
+#nrtfootereditors .menu_row > .dragger-handle{
+  display: none;
+}
+.dragger-handle{
+  font-size: 8px !important;
+  width: 23px;
+  top: -20px;
+  padding: 4px 8px;
+  font-size: 0px !important;
+}
+.dragger-handle .icon-arrows {
+    font-size: 10px !important;
+        line-height: 13px;
+}
+.menu_column >.dragger-handle, .menu_column > .action-buttons-container, .width-selector-wrapper{
+  background: #B5860A !important;
+  color: #fff !important;
+  border: none !important;
+  z-index: 3;       
+}
+
+#module-nrtfootereditors-Editor #nrtfootereditors .tab-content .tab-pane{
+  margin-top: 0px;
+}
+
+#nrtfootereditors .width-selector-wrapper select{
+  height: 17px;
+}
+#nrtfootereditors .width-selector-wrapper{
+      height: 20px;
+    padding: 2px 4px;
+}
+#nrtfootereditors .width-selector-wrapper i{
+  font-size: 14px;
+  width: 14px;
+}
+
+
+.dragger-handle, .action-buttons-container{
+  height: 20px !important;
+}
+.action-buttons-container .btn{
+  border: none !important;
+  padding: 0px 6px;
+  margin: 0px;
+  border-left: 1px solid rgba(255, 255, 255, 0.3) !important;
+  border-radius: none !important;
+}
+.action-buttons-container .btn-danger{
+    padding: 0px 4px;
+    border-none: !important;
+}
+
+.action-buttons-container .btn i{
+  margin: 0px;
+  width: auto;
+}
+.action-buttons-container .btn-default{
+    color: inherit;
+}
+.action-buttons-container .btn-default:hover{
+background-color: rgba(255, 255, 255, 0.23) !important;
+}
+
+.menu_row >.dragger-handle, .menu_row > .action-buttons-container{
+    color: #ffffff !important;
+    background: #552A72 !important;
+    border: none !important;
+    z-index: 2;
+       
+}
+
+
+#nrtfootereditors .menu_column > .action-buttons-container{
+    left: 23px;
+    top: -20px; 
+       right: auto;
+    display: none;
+      padding: 1px 3px;
+}
+#nrtfootereditors .menu_row > .action-buttons-container{
+       left: 23px;
+       right: auto;
+       top: -20px; 
+    display: none;
+      padding: 1px 3px;
+}
+.menu_column .width-selector-wrapper{
+  right: 10px;
+  top: -20px;
+}
+#nrtfootereditors  .modal .alert-info{
+      float: none !important;
+    padding: 10px;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+#nrtfootereditors .menu_row .menu_column .menu_row .dragger-handle, #nrtfootereditors .menu_row .menu_column .menu_row .action-buttons-container, #nrtfootereditors .menu_row .menu_column .menu_row .menu_column .width-selector-wrapper{
+  top: 0px;
+}
+
+#nrtfootereditors .menu_row .menu_column  .width-selector-wrapper{
+display: none;
+}
+#nrtfootereditors .menu_row .menu_column:hover .width-selector-wrapper{
+display: block;
+  }
+
+#nrtfootereditors .menu_row .menu_column .menu_row .menu_column .width-selector-wrapper{
+display: none;
+}
+#nrtfootereditors .menu_row .menu_column .menu_row .menu_column:hover .width-selector-wrapper{
+display: block;
+  }
+
+.width-selector-wrapper:hover{
+  width: 95px;
+  height: auto !important;
+}
+
+#nrtfootereditors .menu_row:hover{
+outline: 1px dotted #552A72;
+}
+#nrtfootereditors .menu_row:hover > .action-buttons-container, #nrtfootereditors .menu_row:hover > .dragger-handle{
+  display: block;
+}
+#buttons-sample .action-buttons-container{
+  height: auto !important;
+}
+.module-nrtfootereditors-Editor  #nrtfootereditors .empty-column:hover .nrtfootcontent-column-inner > .nrtfootcontent_row{
+  margin-top: 0px;
+}
+#nrtfootereditors .menu_row .menu_column{
+background: none;
+min-height: 80px;
+padding-top: 0px;
+padding-bottom: 0px;
+border: none;
+}
+#nrtfootereditors .menu_tabe > .dragger-handle{
+display: none !important;
+}
+#nrtfootereditors .menu_tabe > .action-buttons-container{
+left: 0px;
+padding-left: 0px;
+}
+#nrtfootereditors .menu_tabe:hover{
+  padding-top: 70px;
+}
+#nrtfootereditors .menu_tabe > .menu-tab-content{
+  display: none;
+}
+
+#nrtfootereditors .menu_tabe .menu-tab-content .tabinliner, #nrtfootereditors .menu_tabe .menu-tab-content .translatable-field {
+  position: static;
+}
+.modal-body .form-group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.modal-body .translatable-field .col-lg-2{
+float: left;
+}
+#nrtfootereditors .dropdown-menu{
+    left: 100%;
+    top: 0px;
+}
+#nrtfootereditors .menu_tabe:hover > .menu-tab-content{
+top: 26px;
+    left: 0px;
+    display: block;
+
+}
+#nrtfootereditors .menu_row  .menu_column:hover{
+outline: 1px dotted #B5860A;
+}
+.column-content-info{
+  display: none !important;
+}
+#nrtfootereditors .menu_column > .action-buttons-container, #nrtfootereditors .menu_column > .menu-column-content > .edit-btn-wrapper, #nrtfootereditors .menu_column > .dragger-handle{
+    display: none ;
+}
+#nrtfootereditors .menu_column:hover > .action-buttons-container, #nrtfootereditors .menu_column:hover > .menu-column-content > .edit-btn-wrapper, #nrtfootereditors .menu_column:hover > .dragger-handle{
+    display: block ;
+}
+
+#module-nrtfootereditors-Editor .breadcrumb{
+  display: none;
+}
+
+.edit-btn-wrapper >.btn {
+background: #fff !important;
+}
+.edit-btn-wrapper{
+      position: absolute;
+    z-index: 22;
+        padding: 0px;
+    margin: 0px;
+    top: 50%;
+    margin-top: -15px;
+    left: 0;
+    right: 0;
+}
+
+.modal-open {
+  overflow: hidden;
+}
+.modal {
+  display: none;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1050;
+  -webkit-overflow-scrolling: touch;
+  outline: 0;
+}
+.modal.fade .modal-dialog {
+  -webkit-transform: translate(0, -25%);
+  -ms-transform: translate(0, -25%);
+  -o-transform: translate(0, -25%);
+  transform: translate(0, -25%);
+  -webkit-transition: -webkit-transform 0.3s ease-out;
+  -o-transition: -o-transform 0.3s ease-out;
+  transition: transform 0.3s ease-out;
+}
+.modal.in .modal-dialog {
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+.modal-open .modal {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.modal-dialog {
+  position: relative;
+  width: auto;
+  margin: 10px;
+}
+.modal-content {
+  position: relative;
+  background-color: #ffffff;
+  border: 1px solid #999999;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+  outline: 0;
+}
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1040;
+  background-color: #000000;
+}
+.modal-backdrop.fade {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.modal-backdrop.in {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+.modal-header {
+  padding: 15px;
+  border-bottom: 1px solid #e5e5e5;
+  min-height: 16.42857143px;
+}
+.modal-header .close {
+  margin-top: -2px;
+}
+.modal-title {
+  margin: 0;
+  line-height: 1.42857143;
+}
+.modal-body {
+  position: relative;
+  padding: 15px;
+}
+.modal-footer {
+  padding: 15px;
+  clear: both;
+  text-align: right;
+  border-top: 1px solid #e5e5e5;
+}
+.modal-footer .btn + .btn {
+  margin-left: 5px;
+  margin-bottom: 0;
+}
+.modal-footer .btn-group .btn + .btn {
+  margin-left: -1px;
+}
+.modal-footer .btn-block + .btn-block {
+  margin-left: 0;
+}
+.modal-scrollbar-measure {
+  position: absolute;
+  top: -9999px;
+  width: 50px;
+  height: 50px;
+  overflow: scroll;
+}
+@media (min-width: 768px) {
+  .modal-dialog {
+    width: 600px;
+    margin: 30px auto;
+  }
+  .modal-content {
+    -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  }
+  .modal-sm {
+    width: 300px;
+  }
+}
+@media (min-width: 992px) {
+  .modal-lg {
+    width: 900px;
+  }
+}
+.clearfix:before,
+.clearfix:after,
+.modal-footer:before,
+.modal-footer:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after,
+.modal-footer:after {
+  clear: both;
+}
+
+#module-nrtfootereditors-Editor #header{
+	z-index: 1000;
+}
+
+
+
+#nrtfootereditors fieldset {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    min-width: 0
+}
+#nrtfootereditors legend {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 17px;
+    font-size: 18px;
+    line-height: inherit;
+    color: #333;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5
+}
+#nrtfootereditors label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold
+}
+#nrtfootereditors input[type="search"] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+#nrtfootereditors input[type="radio"],
+#nrtfootereditors input[type="checkbox"] {
+    margin: 4px 0 0;
+    margin-top: 1px \9;
+    line-height: normal
+}
+#nrtfootereditors input[type="file"] {
+    display: block
+}
+#nrtfootereditors input[type="range"] {
+    display: block;
+    width: 100%
+}
+#nrtfootereditors select[multiple],
+#nrtfootereditors select[size] {
+    height: auto
+}
+#nrtfootereditors input[type="file"]:focus,
+#nrtfootereditors input[type="radio"]:focus,
+#nrtfootereditors input[type="checkbox"]:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px
+}
+#nrtfootereditors output {
+    display: block;
+    padding-top: 5px;
+    font-size: 12px;
+    line-height: 1.42857;
+    color: #555
+}
+#nrtfootereditors .form-control,
+#nrtfootereditors input[type="text"],
+#nrtfootereditors input[type="search"],
+#nrtfootereditors input[type="password"],
+#nrtfootereditors textarea,
+#nrtfootereditors select {
+    display: block;
+    height: 27px;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1.42857;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s
+}
+#nrtfootereditors .form-control:focus,
+#nrtfootereditors input[type="text"]:focus,
+#nrtfootereditors input[type="search"]:focus,
+#nrtfootereditors input[type="password"]:focus,
+#nrtfootereditors textarea:focus,
+#nrtfootereditors select:focus {
+    border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6)
+}
+#nrtfootereditors .form-control::-moz-placeholder,
+#nrtfootereditors input[type="text"]::-moz-placeholder,
+#nrtfootereditors input[type="search"]::-moz-placeholder,
+#nrtfootereditors input[type="password"]::-moz-placeholder,
+#nrtfootereditors textarea::-moz-placeholder,
+#nrtfootereditors select::-moz-placeholder {
+    color: #999;
+    opacity: 1
+}
+#nrtfootereditors .form-control:-ms-input-placeholder,
+#nrtfootereditors input[type="text"]:-ms-input-placeholder,
+#nrtfootereditors input[type="search"]:-ms-input-placeholder,
+#nrtfootereditors input[type="password"]:-ms-input-placeholder,
+#nrtfootereditors textarea:-ms-input-placeholder,
+#nrtfootereditors select:-ms-input-placeholder {
+    color: #999
+}
+#nrtfootereditors .form-control::-webkit-input-placeholder,
+#nrtfootereditors input[type="text"]::-webkit-input-placeholder,
+#nrtfootereditors input[type="search"]::-webkit-input-placeholder,
+#nrtfootereditors input[type="password"]::-webkit-input-placeholder,
+#nrtfootereditors textarea::-webkit-input-placeholder,
+#nrtfootereditors select::-webkit-input-placeholder {
+    color: #999
+}
+#nrtfootereditors .form-control[disabled],
+#nrtfootereditors input[disabled][type="text"],
+#nrtfootereditors input[disabled][type="search"],
+#nrtfootereditors input[disabled][type="password"],
+#nrtfootereditors textarea[disabled],
+#nrtfootereditors select[disabled],
+#nrtfootereditors .form-control[readonly],
+#nrtfootereditors input[readonly][type="text"],
+#nrtfootereditors input[readonly][type="search"],
+#nrtfootereditors input[readonly][type="password"],
+#nrtfootereditors textarea[readonly],
+#nrtfootereditors select[readonly],
+fieldset[disabled] #nrtfootereditors .form-control,
+fieldset[disabled] #nrtfootereditors input[type="text"],
+fieldset[disabled] #nrtfootereditors input[type="search"],
+fieldset[disabled] #nrtfootereditors input[type="password"],
+fieldset[disabled] #nrtfootereditors textarea,
+fieldset[disabled] #nrtfootereditors select {
+    cursor: not-allowed;
+    background-color: #eee;
+    opacity: 1
+}
+#nrtfootereditors textarea.form-control,
+#nrtfootereditors textarea {
+    height: auto
+}
+#nrtfootereditors input[type="search"] {
+    -webkit-appearance: none
+}
+#nrtfootereditors input[type="date"],
+#nrtfootereditors input[type="time"],
+#nrtfootereditors input[type="datetime-local"],
+#nrtfootereditors input[type="month"] {
+    line-height: 27px;
+    line-height: 1.42857 \0
+}
+#nrtfootereditors input[type="date"].input-sm,
+#nrtfootereditors .input-group-sm>input[type="date"].form-control,
+#nrtfootereditors .input-group-sm>input[type="date"][type="text"],
+#nrtfootereditors .input-group-sm>input[type="date"][type="search"],
+#nrtfootereditors .input-group-sm>input[type="date"][type="password"],
+#nrtfootereditors .input-group-sm>input[type="date"].input-group-addon,
+#nrtfootereditors .input-group-sm>.input-group-btn>input[type="date"].btn,
+#nrtfootereditors input[type="time"].input-sm,
+#nrtfootereditors .input-group-sm>input[type="time"].form-control,
+#nrtfootereditors .input-group-sm>input[type="time"][type="text"],
+#nrtfootereditors .input-group-sm>input[type="time"][type="search"],
+#nrtfootereditors .input-group-sm>input[type="time"][type="password"],
+#nrtfootereditors .input-group-sm>input[type="time"].input-group-addon,
+#nrtfootereditors .input-group-sm>.input-group-btn>input[type="time"].btn,
+#nrtfootereditors input[type="datetime-local"].input-sm,
+#nrtfootereditors .input-group-sm>input[type="datetime-local"].form-control,
+#nrtfootereditors .input-group-sm>input[type="datetime-local"][type="text"],
+#nrtfootereditors .input-group-sm>input[type="datetime-local"][type="search"],
+#nrtfootereditors .input-group-sm>input[type="datetime-local"][type="password"],
+#nrtfootereditors .input-group-sm>input[type="datetime-local"].input-group-addon,
+#nrtfootereditors .input-group-sm>.input-group-btn>input[type="datetime-local"].btn,
+#nrtfootereditors input[type="month"].input-sm,
+#nrtfootereditors .input-group-sm>input[type="month"].form-control,
+#nrtfootereditors .input-group-sm>input[type="month"][type="text"],
+#nrtfootereditors .input-group-sm>input[type="month"][type="search"],
+#nrtfootereditors .input-group-sm>input[type="month"][type="password"],
+#nrtfootereditors .input-group-sm>input[type="month"].input-group-addon,
+#nrtfootereditors .input-group-sm>.input-group-btn>input[type="month"].btn {
+    line-height: 28px
+}
+#nrtfootereditors input[type="date"].input-lg,
+#nrtfootereditors .input-group-lg>input[type="date"].form-control,
+#nrtfootereditors .input-group-lg>input[type="date"][type="text"],
+#nrtfootereditors .input-group-lg>input[type="date"][type="search"],
+#nrtfootereditors .input-group-lg>input[type="date"][type="password"],
+#nrtfootereditors .input-group-lg>input[type="date"].input-group-addon,
+#nrtfootereditors .input-group-lg>.input-group-btn>input[type="date"].btn,
+#nrtfootereditors input[type="time"].input-lg,
+#nrtfootereditors .input-group-lg>input[type="time"].form-control,
+#nrtfootereditors .input-group-lg>input[type="time"][type="text"],
+#nrtfootereditors .input-group-lg>input[type="time"][type="search"],
+#nrtfootereditors .input-group-lg>input[type="time"][type="password"],
+#nrtfootereditors .input-group-lg>input[type="time"].input-group-addon,
+#nrtfootereditors .input-group-lg>.input-group-btn>input[type="time"].btn,
+#nrtfootereditors input[type="datetime-local"].input-lg,
+#nrtfootereditors .input-group-lg>input[type="datetime-local"].form-control,
+#nrtfootereditors .input-group-lg>input[type="datetime-local"][type="text"],
+#nrtfootereditors .input-group-lg>input[type="datetime-local"][type="search"],
+#nrtfootereditors .input-group-lg>input[type="datetime-local"][type="password"],
+#nrtfootereditors .input-group-lg>input[type="datetime-local"].input-group-addon,
+#nrtfootereditors .input-group-lg>.input-group-btn>input[type="datetime-local"].btn,
+#nrtfootereditors input[type="month"].input-lg,
+#nrtfootereditors .input-group-lg>input[type="month"].form-control,
+#nrtfootereditors .input-group-lg>input[type="month"][type="text"],
+#nrtfootereditors .input-group-lg>input[type="month"][type="search"],
+#nrtfootereditors .input-group-lg>input[type="month"][type="password"],
+#nrtfootereditors .input-group-lg>input[type="month"].input-group-addon,
+#nrtfootereditors .input-group-lg>.input-group-btn>input[type="month"].btn {
+    line-height: 42px
+}
+#nrtfootereditors .form-group {
+    margin-bottom: 10px;
+    font-size: 12px !important;
+}
+#nrtfootereditors .i-upload-input{
+  display: inline-block !important;
+}
+#nrtfootereditors .modal .col-lg-9{
+padding-left: 0px;
+}
+#nrtfootereditors .sp-replacer{
+  margin-left: 10px;
+}
+#nrtfootereditors .help-block {
+font-style: italic;
+font-size: 10px;
+}
+#nrtfootereditors .sp-preview{
+  width: 50px;
+}
+#nrtfootereditors .checker{
+  display: inline-block;
+}
+#nrtfootereditors  .translatable-field .caret{
+  display: none;
+}
+#nrtfootereditors .translatable-field .col-lg-7{
+  padding-left: 0px;
+}
+#nrtfootereditors .translatable-field .col-lg-7 input{
+  width: 100%;
+}
+#nrtfootereditors .style-wrapper .col-md-offset-3{float: none !important;} 
+
+#nrtfootereditors .style-wrapper .col-lg-3 {
+  padding: 0px;
+}
+#nrtfootereditors .style-wrapper .sp-replacer{
+  margin-left: 1px;
+}
+#nrtfootereditors  .col-lg-9 select, #nrtfootereditors  .col-xs-3 select, #nrtfootereditors  .col-xs-6 select{
+ width: 100%; 
+}
+#nrtfootereditors .column-content-modal .form-group .form-group{
+  margin-bottom: 0px !important;
+}
+#nrtfootereditors .style-wrapper div.col-lg-3{
+  width: 15%;
+}
+#nrtfootereditors .modal .col-lg-3{
+  width: 25%;
+  float: left;
+}
+#nrtfootereditors .modal .col-lg-6{
+  width: 50%; float: left;
+}
+#nrtfootereditors .modal .col-lg-9{
+  width: 75%;  float: left;
+}
+#nrtfootereditors .modal .col-lg-7{width: 58.33333%; float: left;}
+#nrtfootereditors .radio,
+#nrtfootereditors .checkbox {
+    display: block;
+    min-height: 17px;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+#nrtfootereditors .radio label,
+#nrtfootereditors .checkbox label {
+    padding-left: 20px;
+    margin-bottom: 0;
+    font-weight: normal;
+    cursor: pointer
+}
+#nrtfootereditors .radio input[type="radio"],
+#nrtfootereditors .radio-inline input[type="radio"],
+#nrtfootereditors .checkbox input[type="checkbox"],
+#nrtfootereditors .checkbox-inline input[type="checkbox"] {
+    float: left;
+    margin-left: -20px
+}
+#nrtfootereditors .radio+.radio,
+#nrtfootereditors .checkbox+.checkbox {
+    margin-top: -5px
+}
+#nrtfootereditors .radio-inline,
+#nrtfootereditors .checkbox-inline {
+    display: inline-block;
+    padding-left: 20px;
+    margin-bottom: 0;
+    vertical-align: middle;
+    font-weight: normal;
+    cursor: pointer
+}
+#nrtfootereditors .radio-inline+.radio-inline,
+#nrtfootereditors .checkbox-inline+.checkbox-inline {
+    margin-top: 0;
+    margin-left: 10px
+}
+#nrtfootereditors input[type="radio"][disabled],
+fieldset[disabled] #nrtfootereditors input[type="radio"],
+#nrtfootereditors input[type="checkbox"][disabled],
+fieldset[disabled] #nrtfootereditors input[type="checkbox"],
+#nrtfootereditors .radio[disabled],
+fieldset[disabled] #nrtfootereditors .radio,
+#nrtfootereditors .radio-inline[disabled],
+fieldset[disabled] #nrtfootereditors .radio-inline,
+#nrtfootereditors .checkbox[disabled],
+fieldset[disabled] #nrtfootereditors .checkbox,
+#nrtfootereditors .checkbox-inline[disabled],
+fieldset[disabled] #nrtfootereditors .checkbox-inline {
+    cursor: not-allowed
+}
+#nrtfootereditors .input-sm,
+#nrtfootereditors .input-group-sm>.form-control,
+#nrtfootereditors .input-group-sm>input[type="text"],
+#nrtfootereditors .input-group-sm>input[type="search"],
+#nrtfootereditors .input-group-sm>input[type="password"],
+#nrtfootereditors .input-group-sm>textarea,
+#nrtfootereditors .input-group-sm>select,
+#nrtfootereditors .input-group-sm>.input-group-addon,
+#nrtfootereditors .input-group-sm>.input-group-btn>.btn {
+    height: 28px;
+    padding: 5px 10px;
+    font-size: 11px;
+    line-height: 1.5;
+    border-radius: 3px
+}
+#nrtfootereditors select.input-sm,
+#nrtfootereditors .input-group-sm>select.form-control,
+#nrtfootereditors .input-group-sm>select,
+#nrtfootereditors .input-group-sm>select.input-group-addon,
+#nrtfootereditors .input-group-sm>.input-group-btn>select.btn {
+    height: 28px;
+    line-height: 28px
+}
+#nrtfootereditors textarea.input-sm,
+#nrtfootereditors .input-group-sm>textarea.form-control,
+#nrtfootereditors .input-group-sm>textarea,
+#nrtfootereditors .input-group-sm>textarea.input-group-addon,
+#nrtfootereditors .input-group-sm>.input-group-btn>textarea.btn,
+#nrtfootereditors select[multiple].input-sm,
+#nrtfootereditors .input-group-sm>select[multiple],
+#nrtfootereditors .input-group-sm>.input-group-btn>select[multiple].btn {
+    height: auto
+}
+#nrtfootereditors .input-lg,
+#nrtfootereditors .input-group-lg>.form-control,
+#nrtfootereditors .input-group-lg>input[type="text"],
+#nrtfootereditors .input-group-lg>input[type="search"],
+#nrtfootereditors .input-group-lg>input[type="password"],
+#nrtfootereditors .input-group-lg>textarea,
+#nrtfootereditors .input-group-lg>select,
+#nrtfootereditors .input-group-lg>.input-group-addon,
+#nrtfootereditors .input-group-lg>.input-group-btn>.btn {
+    height: 42px;
+    padding: 10px 16px;
+    font-size: 15px;
+    line-height: 1.33;
+    border-radius: 6px
+}
+#nrtfootereditors select.input-lg,
+#nrtfootereditors .input-group-lg>select.form-control,
+#nrtfootereditors .input-group-lg>select,
+#nrtfootereditors .input-group-lg>select.input-group-addon,
+#nrtfootereditors .input-group-lg>.input-group-btn>select.btn {
+    height: 42px;
+    line-height: 42px
+}
+#nrtfootereditors textarea.input-lg,
+#nrtfootereditors .input-group-lg>textarea.form-control,
+#nrtfootereditors .input-group-lg>textarea,
+#nrtfootereditors .input-group-lg>textarea.input-group-addon,
+#nrtfootereditors .input-group-lg>.input-group-btn>textarea.btn,
+#nrtfootereditors select[multiple].input-lg,
+#nrtfootereditors .input-group-lg>select[multiple],
+#nrtfootereditors .input-group-lg>.input-group-btn>select[multiple].btn {
+    height: auto
+}
+#nrtfootereditors .has-feedback {
+    position: relative
+}
+#nrtfootereditors .has-feedback .form-control,
+#nrtfootereditors .has-feedback input[type="text"],
+#nrtfootereditors .has-feedback input[type="search"],
+#nrtfootereditors .has-feedback input[type="password"],
+#nrtfootereditors .has-feedback textarea,
+#nrtfootereditors .has-feedback select {
+    padding-right: 33.75px
+}
+#nrtfootereditors .form-control-feedback {
+    position: absolute;
+    top: 22px;
+    right: 0;
+    z-index: 2;
+    display: block;
+    width: 27px;
+    height: 27px;
+    line-height: 27px;
+    text-align: center
+}
+#nrtfootereditors .input-lg+.form-control-feedback,
+#nrtfootereditors .input-group-lg>.form-control+.form-control-feedback,
+#nrtfootereditors .input-group-lg>input[type="text"]+.form-control-feedback,
+#nrtfootereditors .input-group-lg>input[type="search"]+.form-control-feedback,
+#nrtfootereditors .input-group-lg>input[type="password"]+.form-control-feedback,
+#nrtfootereditors .input-group-lg>textarea+.form-control-feedback,
+#nrtfootereditors .input-group-lg>select+.form-control-feedback,
+#nrtfootereditors .input-group-lg>.input-group-addon+.form-control-feedback,
+#nrtfootereditors .input-group-lg>.input-group-btn>.btn+.form-control-feedback {
+    width: 42px;
+    height: 42px;
+    line-height: 42px
+}
+#nrtfootereditors .input-sm+.form-control-feedback,
+#nrtfootereditors .input-group-sm>.form-control+.form-control-feedback,
+#nrtfootereditors .input-group-sm>input[type="text"]+.form-control-feedback,
+#nrtfootereditors .input-group-sm>input[type="search"]+.form-control-feedback,
+#nrtfootereditors .input-group-sm>input[type="password"]+.form-control-feedback,
+#nrtfootereditors .input-group-sm>textarea+.form-control-feedback,
+#nrtfootereditors .input-group-sm>select+.form-control-feedback,
+#nrtfootereditors .input-group-sm>.input-group-addon+.form-control-feedback,
+#nrtfootereditors .input-group-sm>.input-group-btn>.btn+.form-control-feedback {
+    width: 28px;
+    height: 28px;
+    line-height: 28px
+}
+#nrtfootereditors .has-success .help-block,
+#nrtfootereditors .has-success .control-label,
+#nrtfootereditors .has-success .radio,
+#nrtfootereditors .has-success .checkbox,
+#nrtfootereditors .has-success .radio-inline,
+#nrtfootereditors .has-success .checkbox-inline {
+    color: #3c763d
+}
+#nrtfootereditors .has-success .form-control,
+#nrtfootereditors .has-success input[type="text"],
+#nrtfootereditors .has-success input[type="search"],
+#nrtfootereditors .has-success input[type="password"],
+#nrtfootereditors .has-success textarea,
+#nrtfootereditors .has-success select {
+    border-color: #3c763d;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075)
+}
+#nrtfootereditors .has-success .form-control:focus,
+#nrtfootereditors .has-success input[type="text"]:focus,
+#nrtfootereditors .has-success input[type="search"]:focus,
+#nrtfootereditors .has-success input[type="password"]:focus,
+#nrtfootereditors .has-success textarea:focus,
+#nrtfootereditors .has-success select:focus {
+    border-color: #2b542c;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #67b168;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #67b168
+}
+#nrtfootereditors .has-success .input-group-addon {
+    color: #3c763d;
+    border-color: #3c763d;
+    background-color: #dff0d8
+}
+#nrtfootereditors .has-success .form-control-feedback {
+    color: #3c763d
+}
+#nrtfootereditors .has-warning .help-block,
+#nrtfootereditors .has-warning .control-label,
+#nrtfootereditors .has-warning .radio,
+#nrtfootereditors .has-warning .checkbox,
+#nrtfootereditors .has-warning .radio-inline,
+#nrtfootereditors .has-warning .checkbox-inline {
+    color: #8a6d3b
+}
+#nrtfootereditors .has-warning .form-control,
+#nrtfootereditors .has-warning input[type="text"],
+#nrtfootereditors .has-warning input[type="search"],
+#nrtfootereditors .has-warning input[type="password"],
+#nrtfootereditors .has-warning textarea,
+#nrtfootereditors .has-warning select {
+    border-color: #8a6d3b;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075)
+}
+#nrtfootereditors .has-warning .form-control:focus,
+#nrtfootereditors .has-warning input[type="text"]:focus,
+#nrtfootereditors .has-warning input[type="search"]:focus,
+#nrtfootereditors .has-warning input[type="password"]:focus,
+#nrtfootereditors .has-warning textarea:focus,
+#nrtfootereditors .has-warning select:focus {
+    border-color: #66512c;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #c0a16b;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #c0a16b
+}
+#nrtfootereditors .has-warning .input-group-addon {
+    color: #8a6d3b;
+    border-color: #8a6d3b;
+    background-color: #fcf8e3
+}
+#nrtfootereditors .has-warning .form-control-feedback {
+    color: #8a6d3b
+}
+#nrtfootereditors .has-error .help-block,
+#nrtfootereditors .has-error .control-label,
+#nrtfootereditors .has-error .radio,
+#nrtfootereditors .has-error .checkbox,
+#nrtfootereditors .has-error .radio-inline,
+#nrtfootereditors .has-error .checkbox-inline {
+    color: #a94442
+}
+#nrtfootereditors .has-error .form-control,
+#nrtfootereditors .has-error input[type="text"],
+#nrtfootereditors .has-error input[type="search"],
+#nrtfootereditors .has-error input[type="password"],
+#nrtfootereditors .has-error textarea,
+#nrtfootereditors .has-error select {
+    border-color: #a94442;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075)
+}
+#nrtfootereditors .has-error .form-control:focus,
+#nrtfootereditors .has-error input[type="text"]:focus,
+#nrtfootereditors .has-error input[type="search"]:focus,
+#nrtfootereditors .has-error input[type="password"]:focus,
+#nrtfootereditors .has-error textarea:focus,
+#nrtfootereditors .has-error select:focus {
+    border-color: #843534;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ce8483;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ce8483
+}
+#nrtfootereditors .has-error .input-group-addon {
+    color: #a94442;
+    border-color: #a94442;
+    background-color: #f2dede
+}
+#nrtfootereditors .has-error .form-control-feedback {
+    color: #a94442
+}
+#nrtfootereditors .form-control-static {
+    margin-bottom: 0
+}
+#nrtfootereditors .help-block {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #959595
+}
+@media (min-width: 768px) {
+    #nrtfootereditors .form-inline .form-group,
+    #nrtfootereditors .navbar-form .form-group {
+        display: inline-block;
+        margin-bottom: 0;
+        vertical-align: middle
+    }
+    #nrtfootereditors .form-inline .form-control,
+    #nrtfootereditors .navbar-form .form-control,
+    #nrtfootereditors .form-inline input[type="text"],
+    #nrtfootereditors .navbar-form input[type="text"],
+    #nrtfootereditors .form-inline input[type="search"],
+    #nrtfootereditors .navbar-form input[type="search"],
+    #nrtfootereditors .form-inline input[type="password"],
+    #nrtfootereditors .navbar-form input[type="password"],
+    #nrtfootereditors .form-inline textarea,
+    #nrtfootereditors .navbar-form textarea,
+    #nrtfootereditors .form-inline select,
+    #nrtfootereditors .navbar-form select {
+        display: inline-block;
+        width: auto;
+        vertical-align: middle
+    }
+    #nrtfootereditors .form-inline .input-group,
+    #nrtfootereditors .navbar-form .input-group {
+        display: inline-table;
+        vertical-align: middle
+    }
+    #nrtfootereditors .form-inline .input-group .input-group-addon,
+    #nrtfootereditors .navbar-form .input-group .input-group-addon,
+    #nrtfootereditors .form-inline .input-group .input-group-btn,
+    #nrtfootereditors .navbar-form .input-group .input-group-btn,
+    #nrtfootereditors .form-inline .input-group .form-control,
+    #nrtfootereditors .navbar-form .input-group .form-control,
+    #nrtfootereditors .form-inline .input-group input[type="text"],
+    #nrtfootereditors .navbar-form .input-group input[type="text"],
+    #nrtfootereditors .form-inline .input-group input[type="search"],
+    #nrtfootereditors .navbar-form .input-group input[type="search"],
+    #nrtfootereditors .form-inline .input-group input[type="password"],
+    #nrtfootereditors .navbar-form .input-group input[type="password"],
+    #nrtfootereditors .form-inline .input-group textarea,
+    #nrtfootereditors .navbar-form .input-group textarea,
+    #nrtfootereditors .form-inline .input-group select,
+    #nrtfootereditors .navbar-form .input-group select {
+        width: auto
+    }
+    #nrtfootereditors .form-inline .input-group>.form-control,
+    #nrtfootereditors .navbar-form .input-group>.form-control,
+    #nrtfootereditors .form-inline .input-group>input[type="text"],
+    #nrtfootereditors .navbar-form .input-group>input[type="text"],
+    #nrtfootereditors .form-inline .input-group>input[type="search"],
+    #nrtfootereditors .navbar-form .input-group>input[type="search"],
+    #nrtfootereditors .form-inline .input-group>input[type="password"],
+    #nrtfootereditors .navbar-form .input-group>input[type="password"],
+    #nrtfootereditors .form-inline .input-group>textarea,
+    #nrtfootereditors .navbar-form .input-group>textarea,
+    #nrtfootereditors .form-inline .input-group>select,
+    #nrtfootereditors .navbar-form .input-group>select {
+        width: 100%
+    }
+    #nrtfootereditors .form-inline .control-label,
+    #nrtfootereditors .navbar-form .control-label {
+        margin-bottom: 0;
+        vertical-align: middle
+    }
+    #nrtfootereditors .form-inline .radio,
+    #nrtfootereditors .navbar-form .radio,
+    #nrtfootereditors .form-inline .checkbox,
+    #nrtfootereditors .navbar-form .checkbox {
+        display: inline-block;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-left: 0;
+        vertical-align: middle
+    }
+    #nrtfootereditors .form-inline .radio input[type="radio"],
+    #nrtfootereditors .navbar-form .radio input[type="radio"],
+    #nrtfootereditors .form-inline .checkbox input[type="checkbox"],
+    #nrtfootereditors .navbar-form .checkbox input[type="checkbox"] {
+        float: none;
+        margin-left: 0
+    }
+    #nrtfootereditors .form-inline .has-feedback .form-control-feedback,
+    #nrtfootereditors .navbar-form .has-feedback .form-control-feedback {
+        top: 0
+    }
+}
+#nrtfootereditors .form-horizontal .radio,
+#nrtfootereditors .form-horizontal .checkbox,
+#nrtfootereditors .form-horizontal .radio-inline,
+#nrtfootereditors .form-horizontal .checkbox-inline {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5px
+}
+#nrtfootereditors .form-horizontal .radio,
+#nrtfootereditors .form-horizontal .checkbox {
+    min-height: 22px
+}
+#nrtfootereditors .form-horizontal .form-group {
+    margin-left: -5px;
+    margin-right: -5px
+}
+#nrtfootereditors .form-horizontal .form-group:before,
+#nrtfootereditors .form-horizontal .form-group:after {
+    content: " ";
+    display: table
+}
+#nrtfootereditors .form-horizontal .form-group:after {
+    clear: both
+}
+#nrtfootereditors .form-horizontal .form-control-static {
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+@media (min-width: 768px) {
+    #nrtfootereditors .form-horizontal .control-label {
+        text-align: right;
+        margin-bottom: 0;
+        padding-top: 5px
+    }
+}
+#nrtfootereditors .form-horizontal .has-feedback .form-control-feedback {
+    top: 0;
+    right: 5px
+}
+
+
+#module-nrtfootereditors-Editor.force-guides {
+
+}
+
+#module-nrtfootereditors-Editor.force-guides .action-buttons-container,
+#module-nrtfootereditors-Editor.force-guides .menu_column > .dragger-handle,
+#module-nrtfootereditors-Editor.force-guides .menu_row  > .dragger-handle,
+#module-nrtfootereditors-Editor.force-guides .menu_column .width-selector-wrapper {
+display: block !important;
+}
+#module-nrtfootereditors-Editor.force-guides .menu_tabe > .dragger-handle {
+display: none !important;
+}
+
+#module-nrtfootereditors-Editor.force-guides .menu_row .menu_column{
+  outline: 1px dotted #B5860A;
+}
+
+#module-nrtfootereditors-Editor.force-guides .menu_row{
+   outline: 1px dotted #552A72;
+}

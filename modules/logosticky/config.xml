@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>logosticky</name>
+	<displayName><![CDATA[logo Sticky Menu]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Add a secondary logo for the sticky menu in the front office]]></description>
+	<author><![CDATA[Aquapure]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

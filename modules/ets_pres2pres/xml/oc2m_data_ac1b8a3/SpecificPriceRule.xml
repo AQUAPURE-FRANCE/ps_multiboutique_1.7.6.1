@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<specific_price_rule><id_specific_price_rule><![CDATA[1]]></id_specific_price_rule>
+<name><![CDATA[Quantité 10]]></name>
+<id_shop><![CDATA[1]]></id_shop>
+<id_country><![CDATA[0]]></id_country>
+<id_currency><![CDATA[0]]></id_currency>
+<id_group><![CDATA[9]]></id_group>
+<from_quantity><![CDATA[10]]></from_quantity>
+<price><![CDATA[-1.000000]]></price>
+<reduction><![CDATA[15.000000]]></reduction>
+<reduction_tax><![CDATA[0]]></reduction_tax>
+<reduction_type><![CDATA[percentage]]></reduction_type>
+<from><![CDATA[0000-00-00 00:00:00]]></from>
+<to><![CDATA[0000-00-00 00:00:00]]></to>
+</specific_price_rule>
+<specific_price_rule><id_specific_price_rule><![CDATA[2]]></id_specific_price_rule>
+<name><![CDATA[Quantité 25]]></name>
+<id_shop><![CDATA[1]]></id_shop>
+<id_country><![CDATA[0]]></id_country>
+<id_currency><![CDATA[0]]></id_currency>
+<id_group><![CDATA[9]]></id_group>
+<from_quantity><![CDATA[25]]></from_quantity>
+<price><![CDATA[-1.000000]]></price>
+<reduction><![CDATA[17.500000]]></reduction>
+<reduction_tax><![CDATA[0]]></reduction_tax>
+<reduction_type><![CDATA[percentage]]></reduction_type>
+<from><![CDATA[0000-00-00 00:00:00]]></from>
+<to><![CDATA[0000-00-00 00:00:00]]></to>
+</specific_price_rule>
+<specific_price_rule><id_specific_price_rule><![CDATA[3]]></id_specific_price_rule>
+<name><![CDATA[Quantité 75]]></name>
+<id_shop><![CDATA[1]]></id_shop>
+<id_country><![CDATA[0]]></id_country>
+<id_currency><![CDATA[0]]></id_currency>
+<id_group><![CDATA[9]]></id_group>
+<from_quantity><![CDATA[75]]></from_quantity>
+<price><![CDATA[-1.000000]]></price>
+<reduction><![CDATA[20.000000]]></reduction>
+<reduction_tax><![CDATA[0]]></reduction_tax>
+<reduction_type><![CDATA[percentage]]></reduction_type>
+<from><![CDATA[0000-00-00 00:00:00]]></from>
+<to><![CDATA[0000-00-00 00:00:00]]></to>
+</specific_price_rule>
+<specific_price_rule><id_specific_price_rule><![CDATA[4]]></id_specific_price_rule>
+<name><![CDATA[Quantité 150]]></name>
+<id_shop><![CDATA[1]]></id_shop>
+<id_country><![CDATA[0]]></id_country>
+<id_currency><![CDATA[0]]></id_currency>
+<id_group><![CDATA[9]]></id_group>
+<from_quantity><![CDATA[150]]></from_quantity>
+<price><![CDATA[-1.000000]]></price>
+<reduction><![CDATA[30.000000]]></reduction>
+<reduction_tax><![CDATA[0]]></reduction_tax>
+<reduction_type><![CDATA[percentage]]></reduction_type>
+<from><![CDATA[0000-00-00 00:00:00]]></from>
+<to><![CDATA[0000-00-00 00:00:00]]></to>
+</specific_price_rule>
+</entity_profile>

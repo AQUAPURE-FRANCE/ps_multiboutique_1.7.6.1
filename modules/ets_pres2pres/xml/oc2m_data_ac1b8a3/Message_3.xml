@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<message><id_message><![CDATA[1004]]></id_message>
+<message><![CDATA[Paiement réalisé avec succès (00). Transaction approuvée ou traitée avec succès (00). Le paiement est garanti (YES).
+Marque de carte par défaut utilisée.
+Authentification 3DS : OUI
+Certificat 3DS : AAABAJR0EAAAAZJQQXQQAAAAAAA=
+Source de l'IPN : PAY]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[998]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2020-01-28 17:03:34]]></date_add>
+</message>
+<message><id_message><![CDATA[1005]]></id_message>
+<message><![CDATA[Paiement réalisé avec succès (00). Transaction approuvée ou traitée avec succès (00). Le paiement est garanti (YES).
+Marque de carte par défaut utilisée.
+Authentification 3DS : OUI
+Certificat 3DS : AAABADJlFQAAIjJQQWUVAAAAAAA=
+Source de l'IPN : PAY]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[999]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2020-01-29 15:01:59]]></date_add>
+</message>
+<message><id_message><![CDATA[1006]]></id_message>
+<message><![CDATA[Commande manuelle - Employé M. de Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[1000]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2020-01-30 16:20:39]]></date_add>
+</message>
+<message><id_message><![CDATA[1007]]></id_message>
+<message><![CDATA[Commande créée depuis le devis numéro: 279]]></message>
+<id_cart><![CDATA[10201]]></id_cart>
+<id_order><![CDATA[1000]]></id_order>
+<id_customer><![CDATA[839]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2020-01-30 16:20:40]]></date_add>
+</message>
+<message><id_message><![CDATA[1008]]></id_message>
+<message><![CDATA[Paiement réalisé avec succès (00). Transaction approuvée ou traitée avec succès (00). Le paiement est garanti (YES).
+Marque de carte par défaut utilisée.
+Authentification 3DS : OUI
+Certificat 3DS : jHBDU34Q6mh2CBEzkGQ5BRYAAAA=
+Source de l'IPN : PAY]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[1001]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2020-02-01 14:51:15]]></date_add>
+</message>
+<message><id_message><![CDATA[1009]]></id_message>
+<message><![CDATA[Paiement réalisé avec succès (00). Transaction approuvée ou traitée avec succès (00). Le paiement est garanti (YES).
+Marque de carte par défaut utilisée.
+Authentification 3DS : OUI
+Certificat 3DS : AAACCJJiRgAAFkJQSWJGAAAAAAA=
+Source de l'IPN : PAY]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[1002]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2020-02-01 20:44:11]]></date_add>
+</message>
+<message><id_message><![CDATA[1010]]></id_message>
+<message><![CDATA[Paiement réalisé avec succès (00). Transaction approuvée ou traitée avec succès (00). Le paiement est garanti (YES).
+Marque de carte par défaut utilisée.
+Authentification 3DS : OUI
+Certificat 3DS : AAAACXFxAQAAGHJQRXEBAAAAAAA=
+Source de l'IPN : PAY]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[1003]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2020-02-02 16:25:05]]></date_add>
+</message>
+<message><id_message><![CDATA[1011]]></id_message>
+<message><![CDATA[Paiement réalisé avec succès (00). Transaction approuvée ou traitée avec succès (00). Le paiement est garanti (YES).
+Marque de carte par défaut utilisée.
+Authentification 3DS : OUI
+Certificat 3DS : jHBDU34Q6mh2ABVeOpfrh/wak9c=
+Source de l'IPN : PAY]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[1004]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2020-02-05 11:24:49]]></date_add>
+</message>
+<message><id_message><![CDATA[1012]]></id_message>
+<message><![CDATA[Paiement réalisé avec succès (00). Transaction approuvée ou traitée avec succès (00). Le paiement est garanti (YES).
+Marque de carte par défaut utilisée.
+Authentification 3DS : OUI
+Certificat 3DS : AAACAjQiYwAAEFJQQSJjAAAAAAA=
+Source de l'IPN : PAY]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[1005]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2020-02-05 15:17:51]]></date_add>
+</message>
+</entity_profile>

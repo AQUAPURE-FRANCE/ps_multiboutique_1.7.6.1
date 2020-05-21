@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<supplier><id_supplier><![CDATA[1]]></id_supplier>
+<name><![CDATA[AppleStore]]></name>
+<active><![CDATA[1]]></active>
+<date_add><![CDATA[2012-01-31 21:51:39]]></date_add>
+<date_upd><![CDATA[2012-01-31 21:51:39]]></date_upd>
+<link_image><![CDATA[https://3.0.aquapure.fr/img/su/1.jpg]]></link_image>
+<datalanguage iso_code="ca" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="de" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="en" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="es" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="fr" default="1" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="gb" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="gl" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="it" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="2"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="5"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+<datashop id_shop="8"></datashop>
+</supplier>
+<supplier><id_supplier><![CDATA[2]]></id_supplier>
+<name><![CDATA[Shure Online Store]]></name>
+<active><![CDATA[1]]></active>
+<date_add><![CDATA[2012-01-31 21:51:39]]></date_add>
+<date_upd><![CDATA[2012-01-31 21:51:39]]></date_upd>
+<link_image><![CDATA[https://3.0.aquapure.fr/img/su/2.jpg]]></link_image>
+<datalanguage iso_code="ca" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="de" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="en" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="es" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="fr" default="1" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="gb" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="gl" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datalanguage iso_code="it" >
+<description><![CDATA[]]></description>
+<meta_title><![CDATA[]]></meta_title>
+<meta_description><![CDATA[]]></meta_description>
+<meta_keywords><![CDATA[]]></meta_keywords>
+</datalanguage>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="2"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="5"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+<datashop id_shop="8"></datashop>
+</supplier>
+</entity_profile>

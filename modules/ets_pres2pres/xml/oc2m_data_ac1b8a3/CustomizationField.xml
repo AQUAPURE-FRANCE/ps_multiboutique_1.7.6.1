@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<customization_field><id_customization_field><![CDATA[1]]></id_customization_field>
+<id_product><![CDATA[130]]></id_product>
+<type><![CDATA[0]]></type>
+<required><![CDATA[0]]></required>
+<datalanguage iso_code="fr" default="1">
+<id_shop><![CDATA[1]]></id_shop>
+<name><![CDATA[Téléchargez votre fichiers de personnalisation]]></name>
+</datalanguage>
+<datalanguage iso_code="es">
+<id_shop><![CDATA[1]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="de">
+<id_shop><![CDATA[1]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="it">
+<id_shop><![CDATA[1]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gb">
+<id_shop><![CDATA[1]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="en">
+<id_shop><![CDATA[1]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="ca">
+<id_shop><![CDATA[1]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gl">
+<id_shop><![CDATA[1]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="fr" default="1">
+<id_shop><![CDATA[2]]></id_shop>
+<name><![CDATA[Téléchargez votre fichiers de personnalisation]]></name>
+</datalanguage>
+<datalanguage iso_code="es">
+<id_shop><![CDATA[2]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="de">
+<id_shop><![CDATA[2]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="it">
+<id_shop><![CDATA[2]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gb">
+<id_shop><![CDATA[2]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="en">
+<id_shop><![CDATA[2]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="ca">
+<id_shop><![CDATA[2]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gl">
+<id_shop><![CDATA[2]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="fr" default="1">
+<id_shop><![CDATA[3]]></id_shop>
+<name><![CDATA[Téléchargez votre fichiers de personnalisation]]></name>
+</datalanguage>
+<datalanguage iso_code="es">
+<id_shop><![CDATA[3]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="de">
+<id_shop><![CDATA[3]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="it">
+<id_shop><![CDATA[3]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gb">
+<id_shop><![CDATA[3]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="en">
+<id_shop><![CDATA[3]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="ca">
+<id_shop><![CDATA[3]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gl">
+<id_shop><![CDATA[3]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="fr" default="1">
+<id_shop><![CDATA[4]]></id_shop>
+<name><![CDATA[Téléchargez votre fichiers de personnalisation]]></name>
+</datalanguage>
+<datalanguage iso_code="es">
+<id_shop><![CDATA[4]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="de">
+<id_shop><![CDATA[4]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="it">
+<id_shop><![CDATA[4]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gb">
+<id_shop><![CDATA[4]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="en">
+<id_shop><![CDATA[4]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="ca">
+<id_shop><![CDATA[4]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gl">
+<id_shop><![CDATA[4]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="fr" default="1">
+<id_shop><![CDATA[5]]></id_shop>
+<name><![CDATA[Téléchargez votre fichiers de personnalisation]]></name>
+</datalanguage>
+<datalanguage iso_code="es">
+<id_shop><![CDATA[5]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="de">
+<id_shop><![CDATA[5]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="it">
+<id_shop><![CDATA[5]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gb">
+<id_shop><![CDATA[5]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="en">
+<id_shop><![CDATA[5]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="ca">
+<id_shop><![CDATA[5]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gl">
+<id_shop><![CDATA[5]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="fr" default="1">
+<id_shop><![CDATA[6]]></id_shop>
+<name><![CDATA[Téléchargez votre fichiers de personnalisation]]></name>
+</datalanguage>
+<datalanguage iso_code="es">
+<id_shop><![CDATA[6]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="de">
+<id_shop><![CDATA[6]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="it">
+<id_shop><![CDATA[6]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gb">
+<id_shop><![CDATA[6]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="en">
+<id_shop><![CDATA[6]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="ca">
+<id_shop><![CDATA[6]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gl">
+<id_shop><![CDATA[6]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="fr" default="1">
+<id_shop><![CDATA[7]]></id_shop>
+<name><![CDATA[Téléchargez votre fichiers de personnalisation]]></name>
+</datalanguage>
+<datalanguage iso_code="es">
+<id_shop><![CDATA[7]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="de">
+<id_shop><![CDATA[7]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="it">
+<id_shop><![CDATA[7]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gb">
+<id_shop><![CDATA[7]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="en">
+<id_shop><![CDATA[7]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="ca">
+<id_shop><![CDATA[7]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gl">
+<id_shop><![CDATA[7]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="fr" default="1">
+<id_shop><![CDATA[8]]></id_shop>
+<name><![CDATA[Téléchargez votre fichiers de personnalisation]]></name>
+</datalanguage>
+<datalanguage iso_code="es">
+<id_shop><![CDATA[8]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="de">
+<id_shop><![CDATA[8]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="it">
+<id_shop><![CDATA[8]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gb">
+<id_shop><![CDATA[8]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="en">
+<id_shop><![CDATA[8]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="ca">
+<id_shop><![CDATA[8]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+<datalanguage iso_code="gl">
+<id_shop><![CDATA[8]]></id_shop>
+<name><![CDATA[]]></name>
+</datalanguage>
+</customization_field>
+</entity_profile>

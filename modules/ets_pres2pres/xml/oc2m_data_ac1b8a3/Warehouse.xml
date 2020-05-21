@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<warehouse><id_warehouse><![CDATA[1]]></id_warehouse>
+<id_address><![CDATA[164]]></id_address>
+<reference><![CDATA[SJB]]></reference>
+<name><![CDATA[Saint Jean de Braye]]></name>
+<id_employee><![CDATA[1]]></id_employee>
+<management_type><![CDATA[WA]]></management_type>
+<id_currency><![CDATA[1]]></id_currency>
+<deleted><![CDATA[0]]></deleted>
+</warehouse>
+<warehouse><id_warehouse><![CDATA[2]]></id_warehouse>
+<id_address><![CDATA[421]]></id_address>
+<reference><![CDATA[BUR]]></reference>
+<name><![CDATA[Bureau]]></name>
+<id_employee><![CDATA[1]]></id_employee>
+<management_type><![CDATA[WA]]></management_type>
+<id_currency><![CDATA[1]]></id_currency>
+<deleted><![CDATA[1]]></deleted>
+</warehouse>
+<warehouse><id_warehouse><![CDATA[3]]></id_warehouse>
+<id_address><![CDATA[580]]></id_address>
+<reference><![CDATA[SJdB]]></reference>
+<name><![CDATA[Saint-Jean-de Braye]]></name>
+<id_employee><![CDATA[1]]></id_employee>
+<management_type><![CDATA[WA]]></management_type>
+<id_currency><![CDATA[1]]></id_currency>
+<deleted><![CDATA[1]]></deleted>
+</warehouse>
+<warehouse><id_warehouse><![CDATA[4]]></id_warehouse>
+<id_address><![CDATA[744]]></id_address>
+<reference><![CDATA[LAB'O]]></reference>
+<name><![CDATA[HOME BOX]]></name>
+<id_employee><![CDATA[1]]></id_employee>
+<management_type><![CDATA[LIFO]]></management_type>
+<id_currency><![CDATA[1]]></id_currency>
+<deleted><![CDATA[0]]></deleted>
+</warehouse>
+</entity_profile>

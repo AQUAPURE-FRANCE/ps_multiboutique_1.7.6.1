@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<employee><id_employee><![CDATA[1]]></id_employee>
+<lastname><![CDATA[FRANCE]]></lastname>
+<firstname><![CDATA[AQUAPURE]]></firstname>
+<email><![CDATA[panier@aquapure.fr]]></email>
+<id_lang><![CDATA[2]]></id_lang>
+<passwd><![CDATA[0b49e33fa48f2ab6c51fccd34da96bcc]]></passwd>
+<last_passwd_gen><![CDATA[2020-02-06 11:04:00]]></last_passwd_gen>
+<active><![CDATA[1]]></active>
+<optin><![CDATA[1]]></optin>
+<id_profile><![CDATA[1]]></id_profile>
+<bo_color><![CDATA[]]></bo_color>
+<default_tab><![CDATA[88]]></default_tab>
+<bo_theme><![CDATA[default]]></bo_theme>
+<bo_css><![CDATA[admin-theme.css]]></bo_css>
+<bo_width><![CDATA[0]]></bo_width>
+<bo_menu><![CDATA[1]]></bo_menu>
+<stats_date_from><![CDATA[2020-02-01]]></stats_date_from>
+<stats_date_to><![CDATA[2020-02-06]]></stats_date_to>
+<stats_compare_from><![CDATA[0000-00-00]]></stats_compare_from>
+<stats_compare_to><![CDATA[0000-00-00]]></stats_compare_to>
+<stats_compare_option><![CDATA[1]]></stats_compare_option>
+<preselect_date_range><![CDATA[month]]></preselect_date_range>
+<id_last_order><![CDATA[1004]]></id_last_order>
+<id_last_customer_message><![CDATA[8334]]></id_last_customer_message>
+<id_last_customer><![CDATA[844]]></id_last_customer>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="2"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="5"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+<datashop id_shop="8"></datashop>
+</employee>
+<employee><id_employee><![CDATA[2]]></id_employee>
+<lastname><![CDATA[de Rochefort]]></lastname>
+<firstname><![CDATA[Manuela]]></firstname>
+<email><![CDATA[manuela@aquapure.fr]]></email>
+<id_lang><![CDATA[2]]></id_lang>
+<passwd><![CDATA[c4de4f6b0988f1bc8bc2b9f7cbf7ffd2]]></passwd>
+<last_passwd_gen><![CDATA[2012-02-17 08:53:34]]></last_passwd_gen>
+<active><![CDATA[1]]></active>
+<optin><![CDATA[1]]></optin>
+<id_profile><![CDATA[1]]></id_profile>
+<bo_color><![CDATA[#f47cff]]></bo_color>
+<default_tab><![CDATA[3]]></default_tab>
+<bo_theme><![CDATA[default]]></bo_theme>
+<bo_css><![CDATA[admin-theme.css]]></bo_css>
+<bo_width><![CDATA[0]]></bo_width>
+<bo_menu><![CDATA[1]]></bo_menu>
+<stats_date_from><![CDATA[2020-02-01]]></stats_date_from>
+<stats_date_to><![CDATA[2020-02-05]]></stats_date_to>
+<stats_compare_from><![CDATA[0000-00-00]]></stats_compare_from>
+<stats_compare_to><![CDATA[0000-00-00]]></stats_compare_to>
+<stats_compare_option><![CDATA[1]]></stats_compare_option>
+<preselect_date_range><![CDATA[]]></preselect_date_range>
+<id_last_order><![CDATA[1003]]></id_last_order>
+<id_last_customer_message><![CDATA[8334]]></id_last_customer_message>
+<id_last_customer><![CDATA[844]]></id_last_customer>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="2"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="5"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+<datashop id_shop="8"></datashop>
+</employee>
+<employee><id_employee><![CDATA[4]]></id_employee>
+<lastname><![CDATA[de ROCHEFORT]]></lastname>
+<firstname><![CDATA[Olivier]]></firstname>
+<email><![CDATA[impots@aquapure.fr]]></email>
+<id_lang><![CDATA[2]]></id_lang>
+<passwd><![CDATA[ea91441e1ce5d44d5b27eaf43e582567]]></passwd>
+<last_passwd_gen><![CDATA[2014-03-12 12:28:36]]></last_passwd_gen>
+<active><![CDATA[1]]></active>
+<optin><![CDATA[1]]></optin>
+<id_profile><![CDATA[5]]></id_profile>
+<bo_color><![CDATA[]]></bo_color>
+<default_tab><![CDATA[3]]></default_tab>
+<bo_theme><![CDATA[default]]></bo_theme>
+<bo_css><![CDATA[admin-theme.css]]></bo_css>
+<bo_width><![CDATA[0]]></bo_width>
+<bo_menu><![CDATA[1]]></bo_menu>
+<stats_date_from><![CDATA[2014-03-12]]></stats_date_from>
+<stats_date_to><![CDATA[2014-03-12]]></stats_date_to>
+<stats_compare_from><![CDATA[0000-00-00]]></stats_compare_from>
+<stats_compare_to><![CDATA[0000-00-00]]></stats_compare_to>
+<stats_compare_option><![CDATA[1]]></stats_compare_option>
+<preselect_date_range><![CDATA[]]></preselect_date_range>
+<id_last_order><![CDATA[694]]></id_last_order>
+<id_last_customer_message><![CDATA[1249]]></id_last_customer_message>
+<id_last_customer><![CDATA[610]]></id_last_customer>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="2"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="5"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+<datashop id_shop="8"></datashop>
+</employee>
+<employee><id_employee><![CDATA[5]]></id_employee>
+<lastname><![CDATA[de ROCHEFORT]]></lastname>
+<firstname><![CDATA[Geoffroy]]></firstname>
+<email><![CDATA[geoffroy.de.rochefort@gmail.com]]></email>
+<id_lang><![CDATA[2]]></id_lang>
+<passwd><![CDATA[5302797ec9bd18d537e2b98e55203a16]]></passwd>
+<last_passwd_gen><![CDATA[2016-04-28 04:26:28]]></last_passwd_gen>
+<active><![CDATA[1]]></active>
+<optin><![CDATA[1]]></optin>
+<id_profile><![CDATA[4]]></id_profile>
+<bo_color><![CDATA[]]></bo_color>
+<default_tab><![CDATA[3]]></default_tab>
+<bo_theme><![CDATA[default]]></bo_theme>
+<bo_css><![CDATA[admin-theme.css]]></bo_css>
+<bo_width><![CDATA[0]]></bo_width>
+<bo_menu><![CDATA[1]]></bo_menu>
+<stats_date_from><![CDATA[2016-03-28]]></stats_date_from>
+<stats_date_to><![CDATA[2016-04-28]]></stats_date_to>
+<stats_compare_from><![CDATA[0000-00-00]]></stats_compare_from>
+<stats_compare_to><![CDATA[0000-00-00]]></stats_compare_to>
+<stats_compare_option><![CDATA[1]]></stats_compare_option>
+<preselect_date_range><![CDATA[]]></preselect_date_range>
+<id_last_order><![CDATA[429]]></id_last_order>
+<id_last_customer_message><![CDATA[380]]></id_last_customer_message>
+<id_last_customer><![CDATA[399]]></id_last_customer>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+</employee>
+<employee><id_employee><![CDATA[7]]></id_employee>
+<lastname><![CDATA[AUGIS]]></lastname>
+<firstname><![CDATA[Tiffany]]></firstname>
+<email><![CDATA[tiffany@aquapure.fr]]></email>
+<id_lang><![CDATA[2]]></id_lang>
+<passwd><![CDATA[a9f40ce4623f708973c4011d8f996178]]></passwd>
+<last_passwd_gen><![CDATA[2017-09-12 06:31:40]]></last_passwd_gen>
+<active><![CDATA[1]]></active>
+<optin><![CDATA[1]]></optin>
+<id_profile><![CDATA[1]]></id_profile>
+<bo_color><![CDATA[]]></bo_color>
+<default_tab><![CDATA[88]]></default_tab>
+<bo_theme><![CDATA[default]]></bo_theme>
+<bo_css><![CDATA[admin-theme.css]]></bo_css>
+<bo_width><![CDATA[0]]></bo_width>
+<bo_menu><![CDATA[1]]></bo_menu>
+<stats_date_from><![CDATA[2020-02-01]]></stats_date_from>
+<stats_date_to><![CDATA[2020-02-06]]></stats_date_to>
+<stats_compare_from><![CDATA[0000-00-00]]></stats_compare_from>
+<stats_compare_to><![CDATA[0000-00-00]]></stats_compare_to>
+<stats_compare_option><![CDATA[1]]></stats_compare_option>
+<preselect_date_range><![CDATA[month]]></preselect_date_range>
+<id_last_order><![CDATA[1005]]></id_last_order>
+<id_last_customer_message><![CDATA[8334]]></id_last_customer_message>
+<id_last_customer><![CDATA[844]]></id_last_customer>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="2"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="5"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+<datashop id_shop="8"></datashop>
+</employee>
+<employee><id_employee><![CDATA[10]]></id_employee>
+<lastname><![CDATA[Avenue]]></lastname>
+<firstname><![CDATA[Mag]]></firstname>
+<email><![CDATA[mag@avenue.com]]></email>
+<id_lang><![CDATA[2]]></id_lang>
+<passwd><![CDATA[1affb81ba7d7dc4d07a037f22d989eee]]></passwd>
+<last_passwd_gen><![CDATA[2019-01-21 12:58:48]]></last_passwd_gen>
+<active><![CDATA[1]]></active>
+<optin><![CDATA[1]]></optin>
+<id_profile><![CDATA[6]]></id_profile>
+<bo_color><![CDATA[]]></bo_color>
+<default_tab><![CDATA[7]]></default_tab>
+<bo_theme><![CDATA[default]]></bo_theme>
+<bo_css><![CDATA[admin-theme.css]]></bo_css>
+<bo_width><![CDATA[0]]></bo_width>
+<bo_menu><![CDATA[1]]></bo_menu>
+<stats_date_from><![CDATA[2018-12-21]]></stats_date_from>
+<stats_date_to><![CDATA[2019-01-21]]></stats_date_to>
+<stats_compare_from><![CDATA[0000-00-00]]></stats_compare_from>
+<stats_compare_to><![CDATA[0000-00-00]]></stats_compare_to>
+<stats_compare_option><![CDATA[1]]></stats_compare_option>
+<preselect_date_range><![CDATA[]]></preselect_date_range>
+<id_last_order><![CDATA[821]]></id_last_order>
+<id_last_customer_message><![CDATA[3502]]></id_last_customer_message>
+<id_last_customer><![CDATA[732]]></id_last_customer>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="2"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+<datashop id_shop="8"></datashop>
+</employee>
+<employee><id_employee><![CDATA[11]]></id_employee>
+<lastname><![CDATA[VIVANT]]></lastname>
+<firstname><![CDATA[Billy]]></firstname>
+<email><![CDATA[billy@aquapure.fr]]></email>
+<id_lang><![CDATA[2]]></id_lang>
+<passwd><![CDATA[f2728f31bd416ed320fe5b1f76fd4683]]></passwd>
+<last_passwd_gen><![CDATA[2019-07-08 06:00:45]]></last_passwd_gen>
+<active><![CDATA[1]]></active>
+<optin><![CDATA[1]]></optin>
+<id_profile><![CDATA[1]]></id_profile>
+<bo_color><![CDATA[]]></bo_color>
+<default_tab><![CDATA[88]]></default_tab>
+<bo_theme><![CDATA[default]]></bo_theme>
+<bo_css><![CDATA[admin-theme.css]]></bo_css>
+<bo_width><![CDATA[0]]></bo_width>
+<bo_menu><![CDATA[1]]></bo_menu>
+<stats_date_from><![CDATA[2019-10-01]]></stats_date_from>
+<stats_date_to><![CDATA[2019-10-11]]></stats_date_to>
+<stats_compare_from><![CDATA[0000-00-00]]></stats_compare_from>
+<stats_compare_to><![CDATA[0000-00-00]]></stats_compare_to>
+<stats_compare_option><![CDATA[1]]></stats_compare_option>
+<preselect_date_range><![CDATA[]]></preselect_date_range>
+<id_last_order><![CDATA[940]]></id_last_order>
+<id_last_customer_message><![CDATA[6287]]></id_last_customer_message>
+<id_last_customer><![CDATA[816]]></id_last_customer>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="2"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+<datashop id_shop="8"></datashop>
+</employee>
+</entity_profile>

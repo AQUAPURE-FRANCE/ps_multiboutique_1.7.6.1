@@ -1,0 +1,2291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<customer_thread><id_customer_thread><![CDATA[7963]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[jean-marie@conicom.org]]></email>
+<token><![CDATA[E0yQgvILwTVA]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:17]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7964]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[feedback@slack.com]]></email>
+<token><![CDATA[yTCjhsDS1gdB]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:17]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7965]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[feedback@slack.com]]></email>
+<token><![CDATA[vjPZLt15ovaS]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:17]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7966]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[no-reply@slack.com]]></email>
+<token><![CDATA[sr2xjtSkI6FQ]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:17]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7967]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@vhols3.com]]></email>
+<token><![CDATA[beTascGhhrHp]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:17]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7968]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[veronique.cros@fr.ttiinc.com]]></email>
+<token><![CDATA[WwY8RS8rVxiW]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:17]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7969]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[acct@plusdedevis.com]]></email>
+<token><![CDATA[j2ZvC6rF2Yeo]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:17]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7970]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[romain.herault99@gmail.com]]></email>
+<token><![CDATA[3KzNUaCC3F0W]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:17]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7971]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[rolier.nicolas@gmail.com]]></email>
+<token><![CDATA[daBmjWcyQZiG]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:17]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7972]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[valentin.gimonnet@etu.univ-orleans.fr]]></email>
+<token><![CDATA[x4aPK3Cf5VLj]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7973]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[celine.calmet@nekoe.fr]]></email>
+<token><![CDATA[5HHWXzp6Tqj2]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7974]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[no-reply@slack.com]]></email>
+<token><![CDATA[upP9VStfEVR4]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7975]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@berry1544.click]]></email>
+<token><![CDATA[A1zcWcdwuN0x]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7976]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[tvledtv2@163.com]]></email>
+<token><![CDATA[9BOTvKi48ZbT]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7977]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@cool.com]]></email>
+<token><![CDATA[vwVSe7FqOdPA]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7978]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@societegenerale.fr]]></email>
+<token><![CDATA[QsxUYYnYAVLN]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7979]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@cool.com]]></email>
+<token><![CDATA[Vaq0NVCEprVM]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7980]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[appros@catamaran-outremer.com]]></email>
+<token><![CDATA[kny45gPP0Nbc]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7981]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[information-enligne@getresponse.com]]></email>
+<token><![CDATA[RpKTyLM8neZy]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7982]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@bti-thierry-viollin.com]]></email>
+<token><![CDATA[vRGOwrkReg9f]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7983]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[catherine.moriniere@chu-guadeloupe.fr]]></email>
+<token><![CDATA[QZabDzWFZkWt]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7984]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[chapon.killian@gmail.com]]></email>
+<token><![CDATA[PH1JfMPKEwEN]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7985]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@sarongpraha.cz]]></email>
+<token><![CDATA[AoEYQ6tt0UUU]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7986]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[enquiry@filter-concept.com]]></email>
+<token><![CDATA[kfW0FFxaZkoS]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7987]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[marketing@borgandoverstrom.com]]></email>
+<token><![CDATA[gE96n3JKZW2c]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7988]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[enquiry@filter-concept.com]]></email>
+<token><![CDATA[kbrzE7jomoFk]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7989]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@hubspot.com]]></email>
+<token><![CDATA[c2NNfKd5IK9A]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7990]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@hubspot.com]]></email>
+<token><![CDATA[L4oxTmjH4t3n]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7991]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@hubspot.com]]></email>
+<token><![CDATA[nWFYvBU0w2EV]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7992]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[773]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[bruno@alter6.com]]></email>
+<token><![CDATA[8hijLE6TM7tk]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7993]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[post@softfutur.fr]]></email>
+<token><![CDATA[WTvXkX6iCGB2]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7994]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[stephane@dynabuy-regioncentre.fr]]></email>
+<token><![CDATA[kGm3HCLknbKv]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7995]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[samir.boundaoui@prio.pro]]></email>
+<token><![CDATA[68Cz9QkOfZeX]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7996]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[ne_pas_repondre@bnpparibas.fr]]></email>
+<token><![CDATA[kdWMY1p0E8cw]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7997]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[post@softfutur.fr]]></email>
+<token><![CDATA[hixi4Py0XntA]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7998]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[news@france-isoler-ma-maison.fr]]></email>
+<token><![CDATA[hY5K8fkZSWMW]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[7999]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@marinox.fr]]></email>
+<token><![CDATA[52VDfKA9u0Jd]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8000]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[Newsletter@news.communication-materiel-informatique.com]]></email>
+<token><![CDATA[wgQKfzaiRIEL]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8001]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[post@softfutur.fr]]></email>
+<token><![CDATA[vqMX4BdoUmX3]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:50:18]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:50:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8002]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[nepasrepondre@acirubber.fr]]></email>
+<token><![CDATA[3vD9nQen8FDr]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-09 08:52:05]]></date_add>
+<date_upd><![CDATA[2020-01-09 08:52:05]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8003]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[835]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[beatriced@tdip.fr]]></email>
+<token><![CDATA[abpQAk3BQBhA]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-10 12:32:08]]></date_add>
+<date_upd><![CDATA[2020-01-10 12:32:08]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8004]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[0]]></id_contact>
+<id_shop><![CDATA[4]]></id_shop>
+<id_customer><![CDATA[35]]></id_customer>
+<id_order><![CDATA[996]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[michel.pierre@lagoon.nc]]></email>
+<token><![CDATA[oAEQMJ9w4yrd]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-01-28 10:11:55]]></date_add>
+<date_upd><![CDATA[2020-01-28 10:11:55]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8005]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[2]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[jerome.devaud@lilo.org]]></email>
+<token><![CDATA[hHkx7atRg26L]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-01 00:44:54]]></date_add>
+<date_upd><![CDATA[2020-02-01 00:44:54]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8006]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[2]]></id_contact>
+<id_shop><![CDATA[3]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[paci.ap@orange.fr]]></email>
+<token><![CDATA[fGtN3BDu45pC]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-01 18:28:35]]></date_add>
+<date_upd><![CDATA[2020-02-01 18:28:35]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8007]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[773]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[bruno@alter6.com]]></email>
+<token><![CDATA[GkxvB3GEKJUu]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:15]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:15]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8008]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[support@bnpparibas.com]]></email>
+<token><![CDATA[Dtd728XwMYgh]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:15]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:15]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8009]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[jean-marie@conicom.org]]></email>
+<token><![CDATA[NGVccyISqPnL]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:15]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:15]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8010]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[newsletter@newsletter.fresher-malin.fr]]></email>
+<token><![CDATA[2xC1YrropTaZ]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:15]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:15]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8011]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[trista@sysno1.com]]></email>
+<token><![CDATA[N9sLg5yGtoOm]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:15]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:15]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8012]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[guillaume.richier@skydome.eu]]></email>
+<token><![CDATA[Uu9ANAUZfZ74]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:15]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:15]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8013]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[newsletter@axmail01.net]]></email>
+<token><![CDATA[Hd1hU8M0JVBC]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:15]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:15]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8014]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[376]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[pierre@catamaran-outremer.com]]></email>
+<token><![CDATA[3oWK34e6Mtt4]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:15]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:15]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8015]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[376]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[pierre@catamaran-outremer.com]]></email>
+<token><![CDATA[FHeuC4vQed2a]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8016]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[ajoubert@dynabuy.fr]]></email>
+<token><![CDATA[XZV5SST2UAj8]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8017]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[sk810@skfirm.com]]></email>
+<token><![CDATA[RbMVrhQ9YELH]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8018]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[sk803@springking.cn]]></email>
+<token><![CDATA[rhiU26jFHVku]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8019]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[c.lievre@apro-ouest.com]]></email>
+<token><![CDATA[ioeI8LMW76bv]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8020]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[direccion@eucov.com]]></email>
+<token><![CDATA[wUeheFaHp7d4]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8021]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[Jordan@hubspot.com]]></email>
+<token><![CDATA[KUY1J9bQZ9Sb]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8022]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[jennifer.benwaiche@plassonfrance.fr]]></email>
+<token><![CDATA[6dHBnk1XamN9]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8023]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[newsletter@newsletter.fresher-malin.fr]]></email>
+<token><![CDATA[fkEMoDrge9B3]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8024]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[support-technique-groupbnpcontact@bnpparibas.fr]]></email>
+<token><![CDATA[FAUO3SfCEHrC]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8025]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@appartement-angers.com]]></email>
+<token><![CDATA[J6P9zPfcF9ap]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8026]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[sandy@ro-hid.com]]></email>
+<token><![CDATA[xhrrpFnGUXO0]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:16]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:16]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8027]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@top2aut2.com]]></email>
+<token><![CDATA[E0A8j8iXms0r]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8028]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[beril.akad@borgandoverstrom.com]]></email>
+<token><![CDATA[sH3m5ke2KBCX]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8029]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@la-super-news.fr]]></email>
+<token><![CDATA[VdXisgKcPByX]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8030]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[newsletter@newsletter.fresher-malin.fr]]></email>
+<token><![CDATA[SgTVPBYMqxVF]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8031]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[aterrier@groupe-atlantic.com]]></email>
+<token><![CDATA[VccPRhD58CLY]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8032]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[infos@finder.de]]></email>
+<token><![CDATA[QQsH9ra7IoDH]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8033]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[laetitia.baou@tecxell-interim.com]]></email>
+<token><![CDATA[ArcLrxKiShAz]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8034]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[bnpparibas.banque.en.ligne.bnpparibas@ligne-en-ligne.fr]]></email>
+<token><![CDATA[rG5kLfjzOVsw]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8035]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[infos@finder.de]]></email>
+<token><![CDATA[T4hBuSQnWKCe]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8036]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@mpconsulting-france.com]]></email>
+<token><![CDATA[ojAgyR5Lsiky]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8037]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[bnpparibas.banque.en.ligne.bnpparibas@ligne-en-ligne.fr]]></email>
+<token><![CDATA[dDiCAVXysIz9]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8038]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[773]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[bruno@alter6.com]]></email>
+<token><![CDATA[Xqi6C72PCxNY]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8039]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[stephen@boxia.co]]></email>
+<token><![CDATA[HcheAPffPi1i]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8040]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@top2aut2.com]]></email>
+<token><![CDATA[Gbids8z6zKJd]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8041]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[infasso45@gmail.com]]></email>
+<token><![CDATA[2Fzs3KNo5mnx]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8042]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@la-super-news.fr]]></email>
+<token><![CDATA[6vdtTQJPA5M6]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:17]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:17]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8043]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[aterrier@groupe-atlantic.com]]></email>
+<token><![CDATA[m8GyhcUXtOV1]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8044]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@grege1528.xyz]]></email>
+<token><![CDATA[kb8B0nbH3SA8]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8045]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[Econtact-webnpgroupe-notifications@bnp-paribas.fr]]></email>
+<token><![CDATA[Tm8LsLeWOStF]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8046]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[Econtact-webnpgroupe-notifications@bnp-paribas.fr]]></email>
+<token><![CDATA[o0P0i5obFysX]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8047]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@top2aut2.com]]></email>
+<token><![CDATA[dTpjfjSUtv05]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8048]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@or1523.click]]></email>
+<token><![CDATA[Y5nxORBbmL1v]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8049]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[773]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[bruno@alter6.com]]></email>
+<token><![CDATA[EMcqHEEgg7km]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8050]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[sepem.industries@a-p-c-t.fr]]></email>
+<token><![CDATA[ELMnQjgrFihX]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8051]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@la-super-news.fr]]></email>
+<token><![CDATA[Df2pIkcBU9cG]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8052]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[dejaegere41@gmail.com]]></email>
+<token><![CDATA[r7XCkuOrRIkt]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8053]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[pbiache52@gmail.com]]></email>
+<token><![CDATA[TwxvqyHmPPSJ]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8054]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[support-technique-bnpgroupe@bnpparibas.fr]]></email>
+<token><![CDATA[KV5kEyMRh6W4]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8055]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[stephane@dynabuy-regioncentre.fr]]></email>
+<token><![CDATA[wF9fcFU5u3sL]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8056]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[Flo95@free.fr]]></email>
+<token><![CDATA[cQVXmscrwspb]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8057]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[773]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[bruno@alter6.com]]></email>
+<token><![CDATA[w6vurwF1piJa]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8058]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[raphael.pierrot@catamaran-outremer.com]]></email>
+<token><![CDATA[7s4waQ5niOvb]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8059]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[mattregnault6@gmail.com]]></email>
+<token><![CDATA[BLnny7Ny5m5V]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:18]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:18]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8060]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[jean-marie@conicom.org]]></email>
+<token><![CDATA[5fj5y2DOYYM6]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8061]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[feedback@slack.com]]></email>
+<token><![CDATA[pDDw3UrA6FU8]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8062]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[feedback@slack.com]]></email>
+<token><![CDATA[gm0v6H5vj6N7]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8063]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[no-reply@slack.com]]></email>
+<token><![CDATA[8dAMy3stkngY]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8064]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@vhols3.com]]></email>
+<token><![CDATA[XC1FQH7cAFhf]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8065]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[veronique.cros@fr.ttiinc.com]]></email>
+<token><![CDATA[SGZtiOgozjdo]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8066]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[acct@plusdedevis.com]]></email>
+<token><![CDATA[aTcgGveN6wP9]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8067]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[romain.herault99@gmail.com]]></email>
+<token><![CDATA[Zen6r6w1RNVG]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8068]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[rolier.nicolas@gmail.com]]></email>
+<token><![CDATA[Urbqk5SPN809]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8069]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[valentin.gimonnet@etu.univ-orleans.fr]]></email>
+<token><![CDATA[8VwYOC5ueTft]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8070]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[celine.calmet@nekoe.fr]]></email>
+<token><![CDATA[RXHf9RXi05D8]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8071]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[no-reply@slack.com]]></email>
+<token><![CDATA[1o7703btIU0s]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8072]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@berry1544.click]]></email>
+<token><![CDATA[KNITZ5pmbXA5]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8073]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[tvledtv2@163.com]]></email>
+<token><![CDATA[NM2DQAdGihv6]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8074]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@cool.com]]></email>
+<token><![CDATA[uYQapRygbohV]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8075]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@societegenerale.fr]]></email>
+<token><![CDATA[QxoxqcXZJQh6]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8076]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@cool.com]]></email>
+<token><![CDATA[4hpT8fWvP3oR]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8077]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[appros@catamaran-outremer.com]]></email>
+<token><![CDATA[pn94HQZbm7Uj]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8078]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[information-enligne@getresponse.com]]></email>
+<token><![CDATA[c7RvuPBcWeK6]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8079]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@bti-thierry-viollin.com]]></email>
+<token><![CDATA[SZcm66XJwM4R]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:19]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:19]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8080]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[catherine.moriniere@chu-guadeloupe.fr]]></email>
+<token><![CDATA[7Whh9zH2tFC2]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8081]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[chapon.killian@gmail.com]]></email>
+<token><![CDATA[2hqKRLLAcvZk]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8082]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[info@sarongpraha.cz]]></email>
+<token><![CDATA[wO8Zu5oqmvfN]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8083]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[enquiry@filter-concept.com]]></email>
+<token><![CDATA[d8FH3PVZTOZ6]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8084]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[marketing@borgandoverstrom.com]]></email>
+<token><![CDATA[OV33N4UsqScQ]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8085]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[enquiry@filter-concept.com]]></email>
+<token><![CDATA[IKPedw7TxwsR]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8086]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@hubspot.com]]></email>
+<token><![CDATA[jagswLr9Wx6i]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8087]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@hubspot.com]]></email>
+<token><![CDATA[kvWrHbnphwzZ]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8088]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@hubspot.com]]></email>
+<token><![CDATA[OEhRnxdfXizz]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8089]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[773]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[bruno@alter6.com]]></email>
+<token><![CDATA[VJrTExM6Pb9t]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8090]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[post@softfutur.fr]]></email>
+<token><![CDATA[BYaw1Li12NY1]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8091]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[stephane@dynabuy-regioncentre.fr]]></email>
+<token><![CDATA[7BARsPUVbQRf]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8092]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[35]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[michel.pierre@lagoon.nc]]></email>
+<token><![CDATA[ztiXUcxbvKLQ]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8093]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[835]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[beatriced@tdip.fr]]></email>
+<token><![CDATA[mk4ssZ7YGuuw]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8094]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[c.lievre@apro-ouest.com]]></email>
+<token><![CDATA[Br0wroH0iLK9]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8095]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[elie.bosq@grandlargeservices.com]]></email>
+<token><![CDATA[qE04MLo59FjH]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8096]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[mickael@conicom.org]]></email>
+<token><![CDATA[P35dL6N6B0UV]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8097]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[baptiste.peron@hotmail.fr]]></email>
+<token><![CDATA[JmML4WaMPd31]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:20]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:20]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8098]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[mariejo.heymes@acteam-pro.fr]]></email>
+<token><![CDATA[HnfVUbLZ53eD]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8099]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[746]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[jean_pfoumf@yahoo.fr]]></email>
+<token><![CDATA[auz4aPxo7Kdt]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8100]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[stephane@dynabuy-regioncentre.fr]]></email>
+<token><![CDATA[ovuKms3Sx12q]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8101]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[662]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[galaad_demessence@hotmail.fr]]></email>
+<token><![CDATA[6yp9vHsNbhMZ]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8102]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@carte-de-voeux.info]]></email>
+<token><![CDATA[rONQntuvgMuZ]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8103]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[mickael.de-sousa1@etu.univ-orleans.fr]]></email>
+<token><![CDATA[Axno0wpHUwxX]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8104]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@niviere-subventions.net]]></email>
+<token><![CDATA[WKsbDa9ftXbo]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8105]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[noreply@cloudovh.com]]></email>
+<token><![CDATA[rIiXuJAWDby0]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8106]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[news@e1-nomadays.ovh]]></email>
+<token><![CDATA[mjVkspEMaKhZ]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8107]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@alumarine.fr]]></email>
+<token><![CDATA[89kKvPh2ZSOb]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8108]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@bti-thierry-viollin.com]]></email>
+<token><![CDATA[qYxnBIDSw8KC]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8109]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[662]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[galaad_demessence@hotmail.fr]]></email>
+<token><![CDATA[pKbS6smHSitE]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8110]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[799]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@makemyvan.fr]]></email>
+<token><![CDATA[82thWcDK4f1h]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8111]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[enquiry@filter-concept.com]]></email>
+<token><![CDATA[HAEftvvJKC3D]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:21]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:21]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8112]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[799]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact@makemyvan.fr]]></email>
+<token><![CDATA[kc8FG1t00AQo]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8113]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[sebastien@aj2m-group.fr]]></email>
+<token><![CDATA[CVqsNTQBS3HA]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8114]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[cvg_mdahman@idcontractors.net]]></email>
+<token><![CDATA[nNv6shSh9G2n]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8115]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[marketing@borgandoverstrom.com]]></email>
+<token><![CDATA[ysVZBgf7q96y]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8116]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[employers-noreply@indeed.com]]></email>
+<token><![CDATA[Vs3b13zHDibP]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8117]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[moussaniakate44_m4s@indeedemail.com]]></email>
+<token><![CDATA[fm6fooQQ8Dw2]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8118]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[amadouthiongane5_jjm@indeedemail.com]]></email>
+<token><![CDATA[AVPvw1ZQVEu6]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8119]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[cvg_mdahman@idcontractors.net]]></email>
+<token><![CDATA[uzihHBsmzwW7]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8120]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[cvg_mdahman@idcontractors.net]]></email>
+<token><![CDATA[UwPVHxx07MRL]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8121]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[yle@jooble.jobs]]></email>
+<token><![CDATA[KVLUJpXba5uK]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8122]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[christhierrytchupettchoud8_q7n@indeedemail.com]]></email>
+<token><![CDATA[9TM9qiSkzu62]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8123]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[julien.fevrier53@gmail.com]]></email>
+<token><![CDATA[K0ZdRFWWYhb4]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8124]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[do-not-reply@indeed.com]]></email>
+<token><![CDATA[gptws6K2qF2G]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8125]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[do-not-reply@indeed.com]]></email>
+<token><![CDATA[XpTN78idZmuy]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8126]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[do-not-reply@indeed.com]]></email>
+<token><![CDATA[j6nBHJRjnwES]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8127]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[662]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[Galaad_Demessence@hotmail.fr]]></email>
+<token><![CDATA[PjC31Di6h6jK]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8128]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[alexander.young@agorize.com]]></email>
+<token><![CDATA[B6fBBDI1L6Ar]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8129]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[imp-sas@telecomnet.onmicrosoft.com]]></email>
+<token><![CDATA[oN8UASFWfhjA]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:22]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:22]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8130]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[839]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[m.aleci@grandlargeservices.com]]></email>
+<token><![CDATA[nEF9wxhIJxVR]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:23]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:23]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8131]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[stephane@dynabuy-regioncentre.fr]]></email>
+<token><![CDATA[tBoo0BGB2Dsa]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:23]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:23]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8132]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[agnesroncin8_ece@indeedemail.com]]></email>
+<token><![CDATA[WQ6MntqwgrEF]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:23]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:23]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8133]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[contact484594_xt6@indeedemail.com]]></email>
+<token><![CDATA[fCEe7yLn5xaU]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:23]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:23]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8134]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[agnesroncin8_ece@indeedemail.com]]></email>
+<token><![CDATA[sU4kdJaS4V9G]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:23]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:23]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8135]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[agnesroncin8_ece@indeedemail.com]]></email>
+<token><![CDATA[jJWB1mVpq49m]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:23]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:23]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8136]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[amal.farhat.91@gmail.com]]></email>
+<token><![CDATA[M7ry9YmVn5mB]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:23]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:23]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8137]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[kdeniautorreele@etu.escem.fr]]></email>
+<token><![CDATA[7k3DHujciFrE]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:23]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:23]]></date_upd>
+</customer_thread>
+<customer_thread><id_customer_thread><![CDATA[8138]]></id_customer_thread>
+<id_lang><![CDATA[2]]></id_lang>
+<id_contact><![CDATA[1]]></id_contact>
+<id_shop><![CDATA[1]]></id_shop>
+<id_customer><![CDATA[0]]></id_customer>
+<id_order><![CDATA[0]]></id_order>
+<id_product><![CDATA[0]]></id_product>
+<email><![CDATA[sepem.industries@a-p-c-t.fr]]></email>
+<token><![CDATA[c9GtdUXahmNF]]></token>
+<status><![CDATA[open]]></status>
+<date_add><![CDATA[2020-02-03 09:14:23]]></date_add>
+<date_upd><![CDATA[2020-02-03 09:14:23]]></date_upd>
+</customer_thread>
+</entity_profile>

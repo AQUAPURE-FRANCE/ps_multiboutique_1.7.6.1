@@ -1,0 +1,4558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<message><id_message><![CDATA[1]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :22J55134LF5014936]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[3]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-04-13 11:51:55]]></date_add>
+</message>
+<message><id_message><![CDATA[2]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :1WH963419K655550A]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[4]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-04-16 11:50:43]]></date_add>
+</message>
+<message><id_message><![CDATA[3]]></id_message>
+<message><![CDATA[Bonjour, merci de me tenir informé sur les délais de livraison. La commende est destinée à un bateau qui doit partir dans les prochains jours.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[4]]></id_order>
+<id_customer><![CDATA[7]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2012-04-24 08:14:55]]></date_add>
+</message>
+<message><id_message><![CDATA[4]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :0G3639177C090983V]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[5]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-05-26 12:51:40]]></date_add>
+</message>
+<message><id_message><![CDATA[5]]></id_message>
+<message><![CDATA[quand recevrez-vous le réapprovisionnement ?]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[5]]></id_order>
+<id_customer><![CDATA[8]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2012-05-26 13:17:42]]></date_add>
+</message>
+<message><id_message><![CDATA[6]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :0BC45924M60564116]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[7]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-06-13 21:45:44]]></date_add>
+</message>
+<message><id_message><![CDATA[7]]></id_message>
+<message><![CDATA[Bonjour, je quitte la france le 29/6 pour 6 mois et j'ai impérativement besoin de ces produits avant de partir . Si il a un supplément d'envoi j'accepte .
+Merci de votre célérité .
+Véronique]]></message>
+<id_cart><![CDATA[50]]></id_cart>
+<id_order><![CDATA[8]]></id_order>
+<id_customer><![CDATA[11]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2012-06-24 16:05:30]]></date_add>
+</message>
+<message><id_message><![CDATA[8]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :2RL87550XT034283X]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[8]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-06-24 16:07:45]]></date_add>
+</message>
+<message><id_message><![CDATA[9]]></id_message>
+<message><![CDATA[Désolée de cette commande en deux parties, pouvez vous ne faire qu'un envoi ?
+Merci et toutes mes excuses.]]></message>
+<id_cart><![CDATA[51]]></id_cart>
+<id_order><![CDATA[9]]></id_order>
+<id_customer><![CDATA[11]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2012-06-24 16:19:40]]></date_add>
+</message>
+<message><id_message><![CDATA[10]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :2W108117LH242970N]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[9]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-06-24 16:21:09]]></date_add>
+</message>
+<message><id_message><![CDATA[11]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :0ER71572BH2714535]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[10]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-06-26 07:42:31]]></date_add>
+</message>
+<message><id_message><![CDATA[12]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :02726537DF937730Y]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[11]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-06-28 16:11:09]]></date_add>
+</message>
+<message><id_message><![CDATA[13]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :08T67876GY063411F]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[12]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-07-12 10:44:48]]></date_add>
+</message>
+<message><id_message><![CDATA[14]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :0EE84256JF647482V]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[14]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-07-29 20:18:07]]></date_add>
+</message>
+<message><id_message><![CDATA[15]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :2HR58783H7863432N]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[15]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-07-30 12:48:03]]></date_add>
+</message>
+<message><id_message><![CDATA[16]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :1N087235JS410090Y]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[16]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-08-14 09:03:12]]></date_add>
+</message>
+<message><id_message><![CDATA[17]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :5BE92704BN0983127]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[17]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-08-17 15:39:34]]></date_add>
+</message>
+<message><id_message><![CDATA[18]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :3W341430303983051]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[18]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-08-29 11:45:36]]></date_add>
+</message>
+<message><id_message><![CDATA[19]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :4T199263DG0666145]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[19]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-09-25 21:23:15]]></date_add>
+</message>
+<message><id_message><![CDATA[20]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :0VJ962614A782441X]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[20]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-09-28 19:59:36]]></date_add>
+</message>
+<message><id_message><![CDATA[21]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :95N6137464264071S]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[21]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-10-11 14:42:39]]></date_add>
+</message>
+<message><id_message><![CDATA[22]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :0DK31661KU124242F]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[22]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-11-01 16:15:16]]></date_add>
+</message>
+<message><id_message><![CDATA[23]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :9H052396YJ5964255]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[23]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-11-02 09:07:21]]></date_add>
+</message>
+<message><id_message><![CDATA[24]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :37R554549G076784E]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[24]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-11-07 23:59:34]]></date_add>
+</message>
+<message><id_message><![CDATA[25]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :4B208848NH3379159]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[25]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-11-12 14:25:05]]></date_add>
+</message>
+<message><id_message><![CDATA[26]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :3XV6235286164490J]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[26]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-11-26 12:17:51]]></date_add>
+</message>
+<message><id_message><![CDATA[27]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :82H67970T6403361B]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[28]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-01 13:39:07]]></date_add>
+</message>
+<message><id_message><![CDATA[28]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :9JU04772HX062920F]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[29]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-05 13:42:43]]></date_add>
+</message>
+<message><id_message><![CDATA[29]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :1XM415983X078683Y]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[30]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-08 15:41:18]]></date_add>
+</message>
+<message><id_message><![CDATA[30]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :97H109604E946415K]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[31]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-10 14:40:04]]></date_add>
+</message>
+<message><id_message><![CDATA[31]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :5LD08167KB2672831]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[32]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-10 16:34:57]]></date_add>
+</message>
+<message><id_message><![CDATA[32]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :37125588K5810281L]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[33]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-10 17:28:29]]></date_add>
+</message>
+<message><id_message><![CDATA[33]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :9S087097XT143073B]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[34]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-11 08:47:45]]></date_add>
+</message>
+<message><id_message><![CDATA[34]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :53E66988E4083712U]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[35]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-11 11:39:24]]></date_add>
+</message>
+<message><id_message><![CDATA[35]]></id_message>
+<message><![CDATA[essai, ne rien m envoyer :)]]></message>
+<id_cart><![CDATA[159]]></id_cart>
+<id_order><![CDATA[0]]></id_order>
+<id_customer><![CDATA[41]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2012-12-11 14:38:46]]></date_add>
+</message>
+<message><id_message><![CDATA[36]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :4MG742048K967251V]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[36]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-11 17:08:03]]></date_add>
+</message>
+<message><id_message><![CDATA[37]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :65R62010K2877873M]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[37]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-11 17:16:26]]></date_add>
+</message>
+<message><id_message><![CDATA[38]]></id_message>
+<message><![CDATA[Veuillez, svp, envoyer le colis à l'adresse suivante:
+Madame Joëlle Roger 23, rte du Champ-Poirier 74500 Lugrins France
+Merci par avance.]]></message>
+<id_cart><![CDATA[164]]></id_cart>
+<id_order><![CDATA[38]]></id_order>
+<id_customer><![CDATA[44]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2012-12-12 13:36:21]]></date_add>
+</message>
+<message><id_message><![CDATA[39]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :11383969K64307902]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[38]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-12 13:51:45]]></date_add>
+</message>
+<message><id_message><![CDATA[40]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :1LL28766H82086641]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[39]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-12 15:57:24]]></date_add>
+</message>
+<message><id_message><![CDATA[41]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :35K70915EW3556321]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[40]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-12 18:19:31]]></date_add>
+</message>
+<message><id_message><![CDATA[42]]></id_message>
+<message><![CDATA[juste les deux cartouche XL a envoyer. pas le first need xl]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[40]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[1]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-12 18:25:57]]></date_add>
+</message>
+<message><id_message><![CDATA[43]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :35L45784YD004504G]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[41]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-13 13:46:30]]></date_add>
+</message>
+<message><id_message><![CDATA[44]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :2KR125638Y776114K]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[42]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-14 15:56:04]]></date_add>
+</message>
+<message><id_message><![CDATA[45]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :5X375079G4213460Y]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[43]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-14 16:26:39]]></date_add>
+</message>
+<message><id_message><![CDATA[46]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :8XL15665NR8437618]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[44]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-15 15:48:24]]></date_add>
+</message>
+<message><id_message><![CDATA[47]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :2GA20169M22197728]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[45]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-19 13:28:25]]></date_add>
+</message>
+<message><id_message><![CDATA[48]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :3VP00001LP642630W]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[46]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-28 11:33:11]]></date_add>
+</message>
+<message><id_message><![CDATA[49]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :48576073616629310]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[47]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2012-12-28 11:37:33]]></date_add>
+</message>
+<message><id_message><![CDATA[50]]></id_message>
+<message><![CDATA[Serai-il possible, pour les produits que je commande ce jour  de me livrer le système first need® XL directement en Nouvelle Calédonie à l'adresse Michel PIERRE  BP 938 98870 BOURAIL ?  Pas  les cartouches qu'il faut livrer à l'adresse déjà saisie en France car pas urgent et je récupérerai ces cartouches lors de mon prochain passage en France. Tenez-moi au courant par mail de la date d'envoi
+J'étais passé au salon nautique sur votre stand. Le kit loisir bateau est installé et fonctionne correctement . 
+Merci]]></message>
+<id_cart><![CDATA[197]]></id_cart>
+<id_order><![CDATA[49]]></id_order>
+<id_customer><![CDATA[35]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2013-01-07 06:40:54]]></date_add>
+</message>
+<message><id_message><![CDATA[51]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :5LU83742DS4866646]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[53]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-01-15 21:56:18]]></date_add>
+</message>
+<message><id_message><![CDATA[52]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :11B58426LC759471Y]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[54]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-01-16 09:16:12]]></date_add>
+</message>
+<message><id_message><![CDATA[53]]></id_message>
+<message><![CDATA[Résultat du remboursement de produit:
+REFUNDTRANSACTIONID: 95C34835UN778423R
+FEEREFUNDAMT: 0.27
+GROSSREFUNDAMT: 15.00
+NETREFUNDAMT: 14.73
+CURRENCYCODE: EUR
+TIMESTAMP: 2013-01-16T15:40:23Z
+CORRELATIONID: c643e833894c0
+ACK: Success
+VERSION: 60.0
+BUILD: 4181146
+]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[53]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-01-16 16:40:23]]></date_add>
+</message>
+<message><id_message><![CDATA[54]]></id_message>
+<message><![CDATA[Résultat du remboursement de produit:
+REFUNDTRANSACTIONID: 582630696U036793D
+FEEREFUNDAMT: 0.27
+GROSSREFUNDAMT: 15.00
+NETREFUNDAMT: 14.73
+CURRENCYCODE: EUR
+TIMESTAMP: 2013-01-16T15:41:24Z
+CORRELATIONID: 983e7e5743fc4
+ACK: Success
+VERSION: 60.0
+BUILD: 4181146
+]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[54]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-01-16 16:41:24]]></date_add>
+</message>
+<message><id_message><![CDATA[55]]></id_message>
+<message><![CDATA[Bonjour,
+Nous venons de recevoir aujourd'hui votre paiement par virement bancaire.
+Souhaitez-vous toujours que nous expédions les  produits first need en Nouvelle-Calédonie ?
+Les frais de port sont compris dans le tarif, lorsqu'il s'agit d'une expédition en France Métropolitaine. L'expédition coûtera dans ce cas 22,00 €.
+Merci de nous informer rapidement de votre décision. Nous sommes actuellement en train de préparer votre commande qui pourrait être expédié ce jour.
+Toute notre équipe vous assure ses plus cordiales salutations.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[49]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[1]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2013-01-18 14:06:35]]></date_add>
+</message>
+<message><id_message><![CDATA[56]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :829362970B804581W]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[55]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-01-18 14:19:11]]></date_add>
+</message>
+<message><id_message><![CDATA[57]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :6FL17608Y1027373X]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[57]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-01-29 16:57:52]]></date_add>
+</message>
+<message><id_message><![CDATA[58]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :8R34203068465314N]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[58]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-02-05 07:45:13]]></date_add>
+</message>
+<message><id_message><![CDATA[59]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :7HB06282VG097961X]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[59]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-02-05 16:58:56]]></date_add>
+</message>
+<message><id_message><![CDATA[60]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :27J16929XM8012523]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[61]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-02-12 16:58:12]]></date_add>
+</message>
+<message><id_message><![CDATA[61]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :2955137871030021W]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[62]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-02-20 21:19:04]]></date_add>
+</message>
+<message><id_message><![CDATA[62]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :1CB22024B1279411T]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[63]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-02-25 19:34:48]]></date_add>
+</message>
+<message><id_message><![CDATA[63]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :7M2770779N828033N]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[64]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-03-02 11:02:25]]></date_add>
+</message>
+<message><id_message><![CDATA[64]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :7C495253L4680835M]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[65]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-03-12 14:16:22]]></date_add>
+</message>
+<message><id_message><![CDATA[65]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :7NB132986A4279840]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[67]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-03-18 16:34:58]]></date_add>
+</message>
+<message><id_message><![CDATA[66]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :4AY57756WT888123T]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[68]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-03-25 19:09:18]]></date_add>
+</message>
+<message><id_message><![CDATA[67]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :5KM78434MA297141F]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[69]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-03-26 19:20:59]]></date_add>
+</message>
+<message><id_message><![CDATA[68]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :41914499T5655742X]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[70]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-03-27 21:46:45]]></date_add>
+</message>
+<message><id_message><![CDATA[69]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :4DJ80159VC394411R]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[71]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-04-11 08:36:43]]></date_add>
+</message>
+<message><id_message><![CDATA[70]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :77691781XW909252P]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[72]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-04-13 09:01:18]]></date_add>
+</message>
+<message><id_message><![CDATA[71]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :8T786307JV871692D]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[73]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-04-14 10:29:59]]></date_add>
+</message>
+<message><id_message><![CDATA[72]]></id_message>
+<message><![CDATA[Bonjour,
+
+J'ai reçu aujourd'hui un colis par Colissimo N° 9C 00154 13113 1 comprenant le New Nature Pure version basique et une cartouche NP de remplacement. Il manque ou il reste à livrer deux cartouches NP de remplacement.
+Je vous saurais de confirmer l'envoi complémentaire de deux cartouches NP.
+
+Cordiales salutations, Guy Bazin]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[73]]></id_order>
+<id_customer><![CDATA[72]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2013-04-19 13:43:02]]></date_add>
+</message>
+<message><id_message><![CDATA[73]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :1LR812653F407181V]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[74]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-05-14 16:08:14]]></date_add>
+</message>
+<message><id_message><![CDATA[74]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :3BU65293TA1312840]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[75]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-05-20 09:56:00]]></date_add>
+</message>
+<message><id_message><![CDATA[75]]></id_message>
+<message><![CDATA[Il faudrait que ce colis nous arrive au plus tard samedi prochain avant dix heures, nous repartons pour le bateau juste après. Sinon nous aurions des difficultés à faire prendre livraison.
+Merci pour votre attention. Nous sommes à votre disposition au 0620422266.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[75]]></id_order>
+<id_customer><![CDATA[78]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2013-05-20 09:59:18]]></date_add>
+</message>
+<message><id_message><![CDATA[76]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :8BM06475PR6525846]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[76]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-05-30 09:24:16]]></date_add>
+</message>
+<message><id_message><![CDATA[77]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :4D117798V27760138]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[77]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-06-19 14:10:26]]></date_add>
+</message>
+<message><id_message><![CDATA[78]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :1PD97253EU1681033]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[78]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-06-20 17:34:39]]></date_add>
+</message>
+<message><id_message><![CDATA[79]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :34P87816JU165871D]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[79]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-06-28 09:24:41]]></date_add>
+</message>
+<message><id_message><![CDATA[80]]></id_message>
+<message><![CDATA[règlement d'une commande livrée]]></message>
+<id_cart><![CDATA[314]]></id_cart>
+<id_order><![CDATA[80]]></id_order>
+<id_customer><![CDATA[85]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2013-07-11 16:26:30]]></date_add>
+</message>
+<message><id_message><![CDATA[81]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :3BW23555L6219744E]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[80]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-07-11 16:31:02]]></date_add>
+</message>
+<message><id_message><![CDATA[82]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :3TS54926TT272414K]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[81]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-07-13 15:48:06]]></date_add>
+</message>
+<message><id_message><![CDATA[83]]></id_message>
+<message><![CDATA[ID de la transaction PayPal :5L559145W19997140]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[82]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-07-29 23:58:06]]></date_add>
+</message>
+<message><id_message><![CDATA[84]]></id_message>
+<message><![CDATA[Commande manuelle - Employé:F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[85]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-09-26 14:01:56]]></date_add>
+</message>
+<message><id_message><![CDATA[85]]></id_message>
+<message><![CDATA[Commande manuelle - Employé:F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[86]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-09-26 16:02:42]]></date_add>
+</message>
+<message><id_message><![CDATA[86]]></id_message>
+<message><![CDATA[Commande manuelle - Employé:F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[87]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-09-27 13:50:07]]></date_add>
+</message>
+<message><id_message><![CDATA[87]]></id_message>
+<message><![CDATA[Commande manuelle - Employé:F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[88]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-09-29 15:58:48]]></date_add>
+</message>
+<message><id_message><![CDATA[88]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[106]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-03 23:16:20]]></date_add>
+</message>
+<message><id_message><![CDATA[89]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[116]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-06 19:56:06]]></date_add>
+</message>
+<message><id_message><![CDATA[90]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[117]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-07 11:00:32]]></date_add>
+</message>
+<message><id_message><![CDATA[91]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[118]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-07 12:02:40]]></date_add>
+</message>
+<message><id_message><![CDATA[92]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[119]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-07 16:22:49]]></date_add>
+</message>
+<message><id_message><![CDATA[93]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[120]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-08 13:36:05]]></date_add>
+</message>
+<message><id_message><![CDATA[94]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[121]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-08 16:25:52]]></date_add>
+</message>
+<message><id_message><![CDATA[95]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[122]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-09 11:31:52]]></date_add>
+</message>
+<message><id_message><![CDATA[96]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[123]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-09 22:59:29]]></date_add>
+</message>
+<message><id_message><![CDATA[97]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[124]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-10 13:32:13]]></date_add>
+</message>
+<message><id_message><![CDATA[98]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;M. de Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[125]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-10 14:58:15]]></date_add>
+</message>
+<message><id_message><![CDATA[99]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[126]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-11 11:50:15]]></date_add>
+</message>
+<message><id_message><![CDATA[100]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[127]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-12 17:27:23]]></date_add>
+</message>
+<message><id_message><![CDATA[101]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[128]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-12 18:46:47]]></date_add>
+</message>
+<message><id_message><![CDATA[102]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[129]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-12 22:04:04]]></date_add>
+</message>
+<message><id_message><![CDATA[103]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[130]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-13 13:16:44]]></date_add>
+</message>
+<message><id_message><![CDATA[104]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[131]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-13 14:33:29]]></date_add>
+</message>
+<message><id_message><![CDATA[105]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[132]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-13 16:08:01]]></date_add>
+</message>
+<message><id_message><![CDATA[106]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[133]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-13 17:16:56]]></date_add>
+</message>
+<message><id_message><![CDATA[107]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[134]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-14 11:19:28]]></date_add>
+</message>
+<message><id_message><![CDATA[108]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[135]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-14 12:38:56]]></date_add>
+</message>
+<message><id_message><![CDATA[109]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[136]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-14 12:57:56]]></date_add>
+</message>
+<message><id_message><![CDATA[110]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[137]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-14 14:03:24]]></date_add>
+</message>
+<message><id_message><![CDATA[111]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[138]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-14 15:46:21]]></date_add>
+</message>
+<message><id_message><![CDATA[112]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[139]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-14 17:32:00]]></date_add>
+</message>
+<message><id_message><![CDATA[113]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[140]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-15 12:58:13]]></date_add>
+</message>
+<message><id_message><![CDATA[114]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[141]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-15 14:08:27]]></date_add>
+</message>
+<message><id_message><![CDATA[115]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[142]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-15 15:49:22]]></date_add>
+</message>
+<message><id_message><![CDATA[116]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[143]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-15 16:25:52]]></date_add>
+</message>
+<message><id_message><![CDATA[117]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[144]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-16 07:33:59]]></date_add>
+</message>
+<message><id_message><![CDATA[118]]></id_message>
+<message><![CDATA[comment se fait-il que le produit était à 95 euros cet après midi et à 115 ce soir ?
+A mon avis, vous avez vraiment un problème sur votre site.
+Bonnes fêtes quand même, et pas trop d'eau même pure. CM]]></message>
+<id_cart><![CDATA[475]]></id_cart>
+<id_order><![CDATA[145]]></id_order>
+<id_customer><![CDATA[139]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2013-12-20 01:35:23]]></date_add>
+</message>
+<message><id_message><![CDATA[119]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[145]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2013-12-20 07:17:31]]></date_add>
+</message>
+<message><id_message><![CDATA[120]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[148]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-03 17:55:59]]></date_add>
+</message>
+<message><id_message><![CDATA[121]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[149]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-06 09:31:11]]></date_add>
+</message>
+<message><id_message><![CDATA[122]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[150]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-06 13:54:55]]></date_add>
+</message>
+<message><id_message><![CDATA[123]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[167]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-07 12:36:19]]></date_add>
+</message>
+<message><id_message><![CDATA[124]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure, risque élevé]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[168]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-08 12:28:26]]></date_add>
+</message>
+<message><id_message><![CDATA[125]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[170]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-08 18:03:46]]></date_add>
+</message>
+<message><id_message><![CDATA[126]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure, risque élevé]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[171]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-08 18:05:01]]></date_add>
+</message>
+<message><id_message><![CDATA[127]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[172]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-08 20:12:59]]></date_add>
+</message>
+<message><id_message><![CDATA[128]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[173]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-09 07:56:06]]></date_add>
+</message>
+<message><id_message><![CDATA[129]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[178]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-27 13:24:22]]></date_add>
+</message>
+<message><id_message><![CDATA[130]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[179]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-01-30 11:36:24]]></date_add>
+</message>
+<message><id_message><![CDATA[131]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[180]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-02-07 18:03:07]]></date_add>
+</message>
+<message><id_message><![CDATA[132]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;M. de Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[181]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-02-10 10:39:47]]></date_add>
+</message>
+<message><id_message><![CDATA[133]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[182]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-02-19 18:23:12]]></date_add>
+</message>
+<message><id_message><![CDATA[134]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[183]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-03-01 04:58:29]]></date_add>
+</message>
+<message><id_message><![CDATA[135]]></id_message>
+<message><![CDATA[livraison au 48 rue gambetta . Merci]]></message>
+<id_cart><![CDATA[558]]></id_cart>
+<id_order><![CDATA[184]]></id_order>
+<id_customer><![CDATA[154]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2014-03-08 20:52:25]]></date_add>
+</message>
+<message><id_message><![CDATA[136]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[185]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-03-12 14:59:27]]></date_add>
+</message>
+<message><id_message><![CDATA[137]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[186]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-03-19 14:54:27]]></date_add>
+</message>
+<message><id_message><![CDATA[138]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[187]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-03-19 15:01:32]]></date_add>
+</message>
+<message><id_message><![CDATA[139]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[188]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-03-20 23:15:17]]></date_add>
+</message>
+<message><id_message><![CDATA[140]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[189]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-03-25 19:44:33]]></date_add>
+</message>
+<message><id_message><![CDATA[141]]></id_message>
+<message><![CDATA[ADRESSE EXACTE DE LIVRAISON : DOURO MARINA   RUA DA PRAIA- CANIDELO   4400- 554  VILLE NOUVELLE DE GAIA PORTUGAL 
+
+NOUS SERONT A CETTE ADRESSE JUSQU'AU 7 AVRIL AU PLUS TARD MERCI DE FAIRE LE NÉCESSAIRE ]]></message>
+<id_cart><![CDATA[576]]></id_cart>
+<id_order><![CDATA[190]]></id_order>
+<id_customer><![CDATA[40]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2014-03-27 12:33:13]]></date_add>
+</message>
+<message><id_message><![CDATA[142]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[190]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-03-27 12:40:43]]></date_add>
+</message>
+<message><id_message><![CDATA[143]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[191]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-03-30 21:53:24]]></date_add>
+</message>
+<message><id_message><![CDATA[144]]></id_message>
+<message><![CDATA[J'aurais besoin de recevoir votre matériel avant mercredi 9 avril prochain date à laquelle je vais au Chantier naval où je fais construire mon bateau et je dois le leur remettre lors de cette visite.Si cela ne vous semble pas possible veuillez me le faire savoir et je vous prierai de le faire parvenir directement au Chantier à l'adresse : Aerofleet SA M. Raphaël Van Vlodorp 135 Rue de Bon Secours 08600 Givet - France.
+Grand merci et avec mes meilleurs messages.
+Raphaël Deslarzes 0041796061400]]></message>
+<id_cart><![CDATA[594]]></id_cart>
+<id_order><![CDATA[192]]></id_order>
+<id_customer><![CDATA[162]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2014-04-01 18:08:23]]></date_add>
+</message>
+<message><id_message><![CDATA[145]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[192]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-01 18:12:18]]></date_add>
+</message>
+<message><id_message><![CDATA[146]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[193]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-03 18:13:13]]></date_add>
+</message>
+<message><id_message><![CDATA[147]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[194]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-06 18:05:42]]></date_add>
+</message>
+<message><id_message><![CDATA[148]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[195]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-08 14:46:21]]></date_add>
+</message>
+<message><id_message><![CDATA[149]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[196]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-11 10:29:41]]></date_add>
+</message>
+<message><id_message><![CDATA[150]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[197]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-12 14:39:44]]></date_add>
+</message>
+<message><id_message><![CDATA[151]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[198]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-16 15:49:56]]></date_add>
+</message>
+<message><id_message><![CDATA[152]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[199]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-17 08:35:26]]></date_add>
+</message>
+<message><id_message><![CDATA[153]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[200]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-20 01:41:20]]></date_add>
+</message>
+<message><id_message><![CDATA[154]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[201]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-22 10:38:39]]></date_add>
+</message>
+<message><id_message><![CDATA[155]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[202]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-22 14:40:34]]></date_add>
+</message>
+<message><id_message><![CDATA[156]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[203]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-04-23 17:55:30]]></date_add>
+</message>
+<message><id_message><![CDATA[157]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[204]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-04 22:29:10]]></date_add>
+</message>
+<message><id_message><![CDATA[158]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[205]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-05 23:35:33]]></date_add>
+</message>
+<message><id_message><![CDATA[159]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[206]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-09 22:48:47]]></date_add>
+</message>
+<message><id_message><![CDATA[160]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[207]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-11 16:25:30]]></date_add>
+</message>
+<message><id_message><![CDATA[161]]></id_message>
+<message><![CDATA[En attente de validation client]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[208]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-12 23:02:12]]></date_add>
+</message>
+<message><id_message><![CDATA[162]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[209]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-15 10:50:43]]></date_add>
+</message>
+<message><id_message><![CDATA[163]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[210]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-19 18:07:08]]></date_add>
+</message>
+<message><id_message><![CDATA[164]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[212]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-22 19:46:57]]></date_add>
+</message>
+<message><id_message><![CDATA[165]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[213]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-25 18:51:23]]></date_add>
+</message>
+<message><id_message><![CDATA[166]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[214]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-26 10:32:48]]></date_add>
+</message>
+<message><id_message><![CDATA[167]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;M. de Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[215]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-05-30 14:14:00]]></date_add>
+</message>
+<message><id_message><![CDATA[168]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[216]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-03 13:16:54]]></date_add>
+</message>
+<message><id_message><![CDATA[169]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[217]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-03 13:50:18]]></date_add>
+</message>
+<message><id_message><![CDATA[170]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[218]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-07 14:19:13]]></date_add>
+</message>
+<message><id_message><![CDATA[171]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[219]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-11 12:22:55]]></date_add>
+</message>
+<message><id_message><![CDATA[172]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[220]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-16 09:26:01]]></date_add>
+</message>
+<message><id_message><![CDATA[173]]></id_message>
+<message><![CDATA[autre adresse email  erik.Landry@Wanadoo.fr]]></message>
+<id_cart><![CDATA[689]]></id_cart>
+<id_order><![CDATA[221]]></id_order>
+<id_customer><![CDATA[193]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2014-06-17 16:10:02]]></date_add>
+</message>
+<message><id_message><![CDATA[174]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[221]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-17 16:12:33]]></date_add>
+</message>
+<message><id_message><![CDATA[175]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[222]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-17 21:37:41]]></date_add>
+</message>
+<message><id_message><![CDATA[176]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[223]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-20 20:11:26]]></date_add>
+</message>
+<message><id_message><![CDATA[177]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[224]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-21 12:05:14]]></date_add>
+</message>
+<message><id_message><![CDATA[178]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[225]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-21 12:10:56]]></date_add>
+</message>
+<message><id_message><![CDATA[179]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[226]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-21 12:55:11]]></date_add>
+</message>
+<message><id_message><![CDATA[180]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[227]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-23 13:29:02]]></date_add>
+</message>
+<message><id_message><![CDATA[181]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[228]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-23 13:36:22]]></date_add>
+</message>
+<message><id_message><![CDATA[182]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[229]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-25 09:20:09]]></date_add>
+</message>
+<message><id_message><![CDATA[183]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[230]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-06-30 17:14:52]]></date_add>
+</message>
+<message><id_message><![CDATA[184]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[231]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-07-11 18:09:15]]></date_add>
+</message>
+<message><id_message><![CDATA[185]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[232]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-07-16 17:18:15]]></date_add>
+</message>
+<message><id_message><![CDATA[186]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure, risque élevé]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[233]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-07-21 14:25:03]]></date_add>
+</message>
+<message><id_message><![CDATA[187]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[235]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-07-23 13:05:53]]></date_add>
+</message>
+<message><id_message><![CDATA[188]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[236]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-08-09 15:34:02]]></date_add>
+</message>
+<message><id_message><![CDATA[189]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[237]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-08-18 11:51:55]]></date_add>
+</message>
+<message><id_message><![CDATA[190]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[238]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-08-19 17:12:14]]></date_add>
+</message>
+<message><id_message><![CDATA[191]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[239]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-08-23 13:58:32]]></date_add>
+</message>
+<message><id_message><![CDATA[192]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[240]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-08-26 13:51:47]]></date_add>
+</message>
+<message><id_message><![CDATA[193]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[241]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-09-13 19:20:45]]></date_add>
+</message>
+<message><id_message><![CDATA[194]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[242]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-09-14 21:19:27]]></date_add>
+</message>
+<message><id_message><![CDATA[195]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[243]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-09-26 17:23:36]]></date_add>
+</message>
+<message><id_message><![CDATA[196]]></id_message>
+<message><![CDATA[Teléphoner au 06 03 78 24 62 pour la livraison (adresse difficile à trouver).]]></message>
+<id_cart><![CDATA[761]]></id_cart>
+<id_order><![CDATA[244]]></id_order>
+<id_customer><![CDATA[214]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2014-09-29 15:54:01]]></date_add>
+</message>
+<message><id_message><![CDATA[197]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[244]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-09-29 15:55:51]]></date_add>
+</message>
+<message><id_message><![CDATA[198]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[245]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-09-30 15:36:05]]></date_add>
+</message>
+<message><id_message><![CDATA[199]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[246]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-10-06 14:34:35]]></date_add>
+</message>
+<message><id_message><![CDATA[200]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[247]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-10-11 16:45:03]]></date_add>
+</message>
+<message><id_message><![CDATA[201]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[248]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-10-16 20:41:55]]></date_add>
+</message>
+<message><id_message><![CDATA[202]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[249]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-10-22 12:14:41]]></date_add>
+</message>
+<message><id_message><![CDATA[203]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[250]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-10-24 12:54:05]]></date_add>
+</message>
+<message><id_message><![CDATA[204]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[251]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-10-31 13:49:22]]></date_add>
+</message>
+<message><id_message><![CDATA[205]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[252]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-11-13 10:37:47]]></date_add>
+</message>
+<message><id_message><![CDATA[206]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[253]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-11-14 11:54:40]]></date_add>
+</message>
+<message><id_message><![CDATA[207]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[254]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-11-20 17:09:02]]></date_add>
+</message>
+<message><id_message><![CDATA[208]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[255]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-11-30 18:53:31]]></date_add>
+</message>
+<message><id_message><![CDATA[209]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[257]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-07 15:42:20]]></date_add>
+</message>
+<message><id_message><![CDATA[210]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[258]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-08 11:14:51]]></date_add>
+</message>
+<message><id_message><![CDATA[211]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[259]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-08 12:49:44]]></date_add>
+</message>
+<message><id_message><![CDATA[212]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[260]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-08 12:58:35]]></date_add>
+</message>
+<message><id_message><![CDATA[213]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[261]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-08 14:05:53]]></date_add>
+</message>
+<message><id_message><![CDATA[214]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[262]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-08 15:18:08]]></date_add>
+</message>
+<message><id_message><![CDATA[215]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[263]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-09 12:42:34]]></date_add>
+</message>
+<message><id_message><![CDATA[216]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[264]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-10 11:57:42]]></date_add>
+</message>
+<message><id_message><![CDATA[217]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[265]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-10 14:47:01]]></date_add>
+</message>
+<message><id_message><![CDATA[218]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[266]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-10 15:12:41]]></date_add>
+</message>
+<message><id_message><![CDATA[219]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[267]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-10 17:36:35]]></date_add>
+</message>
+<message><id_message><![CDATA[220]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;M. de Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[268]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-11 13:46:35]]></date_add>
+</message>
+<message><id_message><![CDATA[221]]></id_message>
+<message><![CDATA[Livraison au chantiers AMEL fin Mars 2015]]></message>
+<id_cart><![CDATA[837]]></id_cart>
+<id_order><![CDATA[269]]></id_order>
+<id_customer><![CDATA[244]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2014-12-11 18:27:09]]></date_add>
+</message>
+<message><id_message><![CDATA[222]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[269]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-11 18:27:22]]></date_add>
+</message>
+<message><id_message><![CDATA[223]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[270]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-12 13:04:41]]></date_add>
+</message>
+<message><id_message><![CDATA[224]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[271]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-12 19:18:59]]></date_add>
+</message>
+<message><id_message><![CDATA[225]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[272]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-13 13:03:38]]></date_add>
+</message>
+<message><id_message><![CDATA[226]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[273]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2014-12-28 23:36:50]]></date_add>
+</message>
+<message><id_message><![CDATA[227]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[274]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-07 17:12:06]]></date_add>
+</message>
+<message><id_message><![CDATA[228]]></id_message>
+<message><![CDATA[Pouvez vous joindre cette article a la commande précédente YLWPXOQPH passée le 07/01/2015 17:12:07 ]]></message>
+<id_cart><![CDATA[535]]></id_cart>
+<id_order><![CDATA[275]]></id_order>
+<id_customer><![CDATA[145]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-01-12 12:34:54]]></date_add>
+</message>
+<message><id_message><![CDATA[229]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[275]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-12 12:36:36]]></date_add>
+</message>
+<message><id_message><![CDATA[230]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[276]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-13 12:11:47]]></date_add>
+</message>
+<message><id_message><![CDATA[231]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[277]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-13 15:33:10]]></date_add>
+</message>
+<message><id_message><![CDATA[232]]></id_message>
+<message><![CDATA[Transaction avec 3D-Secure (risque faible)]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[278]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-13 17:13:58]]></date_add>
+</message>
+<message><id_message><![CDATA[233]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[279]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-13 17:15:07]]></date_add>
+</message>
+<message><id_message><![CDATA[234]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[280]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-14 17:01:07]]></date_add>
+</message>
+<message><id_message><![CDATA[235]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[281]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-16 11:01:11]]></date_add>
+</message>
+<message><id_message><![CDATA[236]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[282]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-16 11:07:22]]></date_add>
+</message>
+<message><id_message><![CDATA[237]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;M. de Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[283]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-16 15:43:21]]></date_add>
+</message>
+<message><id_message><![CDATA[238]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[284]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-23 09:31:22]]></date_add>
+</message>
+<message><id_message><![CDATA[239]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[285]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-27 11:30:36]]></date_add>
+</message>
+<message><id_message><![CDATA[240]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[286]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-01-30 14:19:56]]></date_add>
+</message>
+<message><id_message><![CDATA[241]]></id_message>
+<message><![CDATA[Merci de vérifier la compatibilité" cartouche et joint avec mon matériel actuel cartouche versa-pure SCA2 for AC2]]></message>
+<id_cart><![CDATA[897]]></id_cart>
+<id_order><![CDATA[287]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-02-01 04:55:28]]></date_add>
+</message>
+<message><id_message><![CDATA[242]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[287]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-02-01 05:07:37]]></date_add>
+</message>
+<message><id_message><![CDATA[243]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;M. de Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[289]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-02-02 15:27:49]]></date_add>
+</message>
+<message><id_message><![CDATA[244]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[292]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-03-02 18:40:15]]></date_add>
+</message>
+<message><id_message><![CDATA[245]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[293]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-03-02 20:43:20]]></date_add>
+</message>
+<message><id_message><![CDATA[246]]></id_message>
+<message><![CDATA[Bonjour Madame,
+Je vous envoie la commande pour votre accord. Je vous remercie de me la renvoyer signée accompagnée du chèque. Bien cordialement, Manuela de Rochefort]]></message>
+<id_cart><![CDATA[925]]></id_cart>
+<id_order><![CDATA[294]]></id_order>
+<id_customer><![CDATA[268]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-03-04 15:45:42]]></date_add>
+</message>
+<message><id_message><![CDATA[247]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;M. de Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[294]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-03-04 15:49:54]]></date_add>
+</message>
+<message><id_message><![CDATA[248]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[295]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-03-05 11:40:05]]></date_add>
+</message>
+<message><id_message><![CDATA[249]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[296]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-03-17 14:32:36]]></date_add>
+</message>
+<message><id_message><![CDATA[250]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[297]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-03-19 08:04:19]]></date_add>
+</message>
+<message><id_message><![CDATA[251]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[298]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-03-19 09:32:00]]></date_add>
+</message>
+<message><id_message><![CDATA[252]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[299]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-03-25 16:49:49]]></date_add>
+</message>
+<message><id_message><![CDATA[253]]></id_message>
+<message><![CDATA[Cartouche offerte suite à la défaillance de cartouche du système]]></message>
+<id_cart><![CDATA[950]]></id_cart>
+<id_order><![CDATA[0]]></id_order>
+<id_customer><![CDATA[166]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-04-13 15:33:40]]></date_add>
+</message>
+<message><id_message><![CDATA[254]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;M. de Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[300]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-04-13 15:40:40]]></date_add>
+</message>
+<message><id_message><![CDATA[255]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[301]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-04-14 23:32:43]]></date_add>
+</message>
+<message><id_message><![CDATA[256]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[302]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-04-15 11:04:08]]></date_add>
+</message>
+<message><id_message><![CDATA[257]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[303]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-04-23 15:46:26]]></date_add>
+</message>
+<message><id_message><![CDATA[258]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[304]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-04-30 17:44:34]]></date_add>
+</message>
+<message><id_message><![CDATA[259]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[305]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-05-04 18:43:10]]></date_add>
+</message>
+<message><id_message><![CDATA[260]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[306]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-05-11 19:09:14]]></date_add>
+</message>
+<message><id_message><![CDATA[261]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[307]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-05-13 15:46:50]]></date_add>
+</message>
+<message><id_message><![CDATA[262]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[308]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-05-13 15:46:53]]></date_add>
+</message>
+<message><id_message><![CDATA[263]]></id_message>
+<message><![CDATA[Commande manuelle - Employ&eacute;F. De Rochefort]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[310]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-05-18 10:51:30]]></date_add>
+</message>
+<message><id_message><![CDATA[264]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[311]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-05-29 16:16:08]]></date_add>
+</message>
+<message><id_message><![CDATA[265]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[313]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-04 22:25:23]]></date_add>
+</message>
+<message><id_message><![CDATA[266]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[314]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-05 15:43:52]]></date_add>
+</message>
+<message><id_message><![CDATA[267]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[315]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-06 10:05:32]]></date_add>
+</message>
+<message><id_message><![CDATA[268]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[316]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-06 11:55:53]]></date_add>
+</message>
+<message><id_message><![CDATA[269]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[317]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-08 10:41:50]]></date_add>
+</message>
+<message><id_message><![CDATA[270]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[318]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-09 16:36:53]]></date_add>
+</message>
+<message><id_message><![CDATA[271]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[321]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-10 16:35:41]]></date_add>
+</message>
+<message><id_message><![CDATA[272]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[322]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-11 09:43:17]]></date_add>
+</message>
+<message><id_message><![CDATA[273]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[323]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-11 10:38:31]]></date_add>
+</message>
+<message><id_message><![CDATA[274]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[324]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-11 16:35:56]]></date_add>
+</message>
+<message><id_message><![CDATA[275]]></id_message>
+<message><![CDATA[je quitte le chantier vendredi soir. Merci de choisir un mode de livraison permettant une livraison avant vendredi. Si une livraison avant vendredi n'est pas possible, merci de me contacte]]></message>
+<id_cart><![CDATA[1289]]></id_cart>
+<id_order><![CDATA[325]]></id_order>
+<id_customer><![CDATA[296]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-06-15 09:18:32]]></date_add>
+</message>
+<message><id_message><![CDATA[276]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[325]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-15 09:21:25]]></date_add>
+</message>
+<message><id_message><![CDATA[277]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[326]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-15 14:43:34]]></date_add>
+</message>
+<message><id_message><![CDATA[278]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[327]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-17 11:54:15]]></date_add>
+</message>
+<message><id_message><![CDATA[279]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[328]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-24 22:05:54]]></date_add>
+</message>
+<message><id_message><![CDATA[280]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[329]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-06-26 01:58:50]]></date_add>
+</message>
+<message><id_message><![CDATA[281]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[330]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-01 00:39:41]]></date_add>
+</message>
+<message><id_message><![CDATA[282]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[331]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-02 10:44:21]]></date_add>
+</message>
+<message><id_message><![CDATA[283]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[332]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-10 16:16:52]]></date_add>
+</message>
+<message><id_message><![CDATA[284]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[333]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-14 12:57:30]]></date_add>
+</message>
+<message><id_message><![CDATA[285]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[334]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-14 20:41:57]]></date_add>
+</message>
+<message><id_message><![CDATA[286]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[335]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-15 14:38:32]]></date_add>
+</message>
+<message><id_message><![CDATA[287]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[336]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-17 12:37:03]]></date_add>
+</message>
+<message><id_message><![CDATA[288]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[337]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-21 20:22:24]]></date_add>
+</message>
+<message><id_message><![CDATA[289]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[338]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-23 14:04:43]]></date_add>
+</message>
+<message><id_message><![CDATA[290]]></id_message>
+<message><![CDATA[Les adaptateurs 3/8'' (DIN) sont offerts. De même 4 cartouches RS-2QC sont inclues en échange standard.]]></message>
+<id_cart><![CDATA[1170]]></id_cart>
+<id_order><![CDATA[339]]></id_order>
+<id_customer><![CDATA[293]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-07-23 15:50:04]]></date_add>
+</message>
+<message><id_message><![CDATA[291]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[339]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-23 15:50:14]]></date_add>
+</message>
+<message><id_message><![CDATA[292]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[340]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-27 12:00:33]]></date_add>
+</message>
+<message><id_message><![CDATA[293]]></id_message>
+<message><![CDATA[EXWORKS Cerdon (45) France.]]></message>
+<id_cart><![CDATA[1024]]></id_cart>
+<id_order><![CDATA[341]]></id_order>
+<id_customer><![CDATA[288]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-07-30 11:01:29]]></date_add>
+</message>
+<message><id_message><![CDATA[294]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[341]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-30 11:01:30]]></date_add>
+</message>
+<message><id_message><![CDATA[295]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[342]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-07-30 19:55:42]]></date_add>
+</message>
+<message><id_message><![CDATA[296]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[0]]></id_cart>
+<id_order><![CDATA[343]]></id_order>
+<id_customer><![CDATA[0]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-08-01 17:23:59]]></date_add>
+</message>
+<message><id_message><![CDATA[297]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1482]]></id_cart>
+<id_order><![CDATA[345]]></id_order>
+<id_customer><![CDATA[237]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-08-06 11:41:42]]></date_add>
+</message>
+<message><id_message><![CDATA[298]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1492]]></id_cart>
+<id_order><![CDATA[346]]></id_order>
+<id_customer><![CDATA[313]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-08-07 15:39:34]]></date_add>
+</message>
+<message><id_message><![CDATA[299]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1500]]></id_cart>
+<id_order><![CDATA[347]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-08-11 12:16:06]]></date_add>
+</message>
+<message><id_message><![CDATA[300]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1519]]></id_cart>
+<id_order><![CDATA[348]]></id_order>
+<id_customer><![CDATA[316]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-08-16 20:17:30]]></date_add>
+</message>
+<message><id_message><![CDATA[301]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1529]]></id_cart>
+<id_order><![CDATA[349]]></id_order>
+<id_customer><![CDATA[17]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-08-19 19:45:14]]></date_add>
+</message>
+<message><id_message><![CDATA[302]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1531]]></id_cart>
+<id_order><![CDATA[350]]></id_order>
+<id_customer><![CDATA[302]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-08-20 10:54:03]]></date_add>
+</message>
+<message><id_message><![CDATA[303]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1552]]></id_cart>
+<id_order><![CDATA[351]]></id_order>
+<id_customer><![CDATA[319]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-08-27 18:00:38]]></date_add>
+</message>
+<message><id_message><![CDATA[304]]></id_message>
+<message><![CDATA[Un flexible de remplacement est offert avec la commande]]></message>
+<id_cart><![CDATA[1598]]></id_cart>
+<id_order><![CDATA[0]]></id_order>
+<id_customer><![CDATA[320]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-09-10 12:31:49]]></date_add>
+</message>
+<message><id_message><![CDATA[305]]></id_message>
+<message><![CDATA[Un flexible de remplacement est offert avec la commande]]></message>
+<id_cart><![CDATA[1599]]></id_cart>
+<id_order><![CDATA[352]]></id_order>
+<id_customer><![CDATA[320]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-09-10 13:47:34]]></date_add>
+</message>
+<message><id_message><![CDATA[306]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1599]]></id_cart>
+<id_order><![CDATA[352]]></id_order>
+<id_customer><![CDATA[320]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-09-10 13:53:17]]></date_add>
+</message>
+<message><id_message><![CDATA[307]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1603]]></id_cart>
+<id_order><![CDATA[353]]></id_order>
+<id_customer><![CDATA[321]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-09-12 01:43:59]]></date_add>
+</message>
+<message><id_message><![CDATA[308]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1606]]></id_cart>
+<id_order><![CDATA[354]]></id_order>
+<id_customer><![CDATA[322]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-09-13 09:01:43]]></date_add>
+</message>
+<message><id_message><![CDATA[309]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1609]]></id_cart>
+<id_order><![CDATA[355]]></id_order>
+<id_customer><![CDATA[172]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-09-14 00:15:53]]></date_add>
+</message>
+<message><id_message><![CDATA[310]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1611]]></id_cart>
+<id_order><![CDATA[356]]></id_order>
+<id_customer><![CDATA[220]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-09-16 11:10:18]]></date_add>
+</message>
+<message><id_message><![CDATA[311]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1325]]></id_cart>
+<id_order><![CDATA[357]]></id_order>
+<id_customer><![CDATA[301]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-09-24 10:32:33]]></date_add>
+</message>
+<message><id_message><![CDATA[312]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[678]]></id_cart>
+<id_order><![CDATA[358]]></id_order>
+<id_customer><![CDATA[188]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-10-06 14:12:38]]></date_add>
+</message>
+<message><id_message><![CDATA[313]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1708]]></id_cart>
+<id_order><![CDATA[359]]></id_order>
+<id_customer><![CDATA[330]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-10-07 08:17:43]]></date_add>
+</message>
+<message><id_message><![CDATA[314]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1714]]></id_cart>
+<id_order><![CDATA[360]]></id_order>
+<id_customer><![CDATA[332]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-10-08 10:22:25]]></date_add>
+</message>
+<message><id_message><![CDATA[315]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1718]]></id_cart>
+<id_order><![CDATA[361]]></id_order>
+<id_customer><![CDATA[210]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-10-08 13:12:40]]></date_add>
+</message>
+<message><id_message><![CDATA[316]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1729]]></id_cart>
+<id_order><![CDATA[362]]></id_order>
+<id_customer><![CDATA[334]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-10-12 12:20:53]]></date_add>
+</message>
+<message><id_message><![CDATA[317]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1681]]></id_cart>
+<id_order><![CDATA[363]]></id_order>
+<id_customer><![CDATA[329]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-10-21 12:06:38]]></date_add>
+</message>
+<message><id_message><![CDATA[318]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1742]]></id_cart>
+<id_order><![CDATA[364]]></id_order>
+<id_customer><![CDATA[335]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-10-22 10:03:58]]></date_add>
+</message>
+<message><id_message><![CDATA[319]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1763]]></id_cart>
+<id_order><![CDATA[365]]></id_order>
+<id_customer><![CDATA[336]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-10-24 10:45:28]]></date_add>
+</message>
+<message><id_message><![CDATA[320]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1764]]></id_cart>
+<id_order><![CDATA[366]]></id_order>
+<id_customer><![CDATA[337]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-10-24 13:51:03]]></date_add>
+</message>
+<message><id_message><![CDATA[321]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[486]]></id_cart>
+<id_order><![CDATA[367]]></id_order>
+<id_customer><![CDATA[141]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-01 22:45:28]]></date_add>
+</message>
+<message><id_message><![CDATA[322]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1768]]></id_cart>
+<id_order><![CDATA[368]]></id_order>
+<id_customer><![CDATA[338]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-02 20:09:14]]></date_add>
+</message>
+<message><id_message><![CDATA[323]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1780]]></id_cart>
+<id_order><![CDATA[369]]></id_order>
+<id_customer><![CDATA[339]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-04 13:01:42]]></date_add>
+</message>
+<message><id_message><![CDATA[324]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1781]]></id_cart>
+<id_order><![CDATA[370]]></id_order>
+<id_customer><![CDATA[341]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-05 17:50:07]]></date_add>
+</message>
+<message><id_message><![CDATA[325]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[940]]></id_cart>
+<id_order><![CDATA[371]]></id_order>
+<id_customer><![CDATA[273]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-11 14:36:05]]></date_add>
+</message>
+<message><id_message><![CDATA[326]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1782]]></id_cart>
+<id_order><![CDATA[372]]></id_order>
+<id_customer><![CDATA[333]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-11 14:37:31]]></date_add>
+</message>
+<message><id_message><![CDATA[329]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1854]]></id_cart>
+<id_order><![CDATA[375]]></id_order>
+<id_customer><![CDATA[343]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-12 18:52:16]]></date_add>
+</message>
+<message><id_message><![CDATA[330]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1860]]></id_cart>
+<id_order><![CDATA[376]]></id_order>
+<id_customer><![CDATA[88]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-13 17:05:06]]></date_add>
+</message>
+<message><id_message><![CDATA[331]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1863]]></id_cart>
+<id_order><![CDATA[377]]></id_order>
+<id_customer><![CDATA[344]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-19 17:04:37]]></date_add>
+</message>
+<message><id_message><![CDATA[332]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1864]]></id_cart>
+<id_order><![CDATA[378]]></id_order>
+<id_customer><![CDATA[345]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-19 17:31:18]]></date_add>
+</message>
+<message><id_message><![CDATA[333]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1865]]></id_cart>
+<id_order><![CDATA[379]]></id_order>
+<id_customer><![CDATA[346]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-24 14:47:44]]></date_add>
+</message>
+<message><id_message><![CDATA[334]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1869]]></id_cart>
+<id_order><![CDATA[381]]></id_order>
+<id_customer><![CDATA[145]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-28 20:04:51]]></date_add>
+</message>
+<message><id_message><![CDATA[335]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1871]]></id_cart>
+<id_order><![CDATA[382]]></id_order>
+<id_customer><![CDATA[348]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-29 18:48:12]]></date_add>
+</message>
+<message><id_message><![CDATA[336]]></id_message>
+<message><![CDATA[Merci de joindre une facture avec la TVA]]></message>
+<id_cart><![CDATA[1872]]></id_cart>
+<id_order><![CDATA[383]]></id_order>
+<id_customer><![CDATA[349]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2015-11-29 22:09:25]]></date_add>
+</message>
+<message><id_message><![CDATA[337]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1872]]></id_cart>
+<id_order><![CDATA[383]]></id_order>
+<id_customer><![CDATA[349]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-11-29 22:13:17]]></date_add>
+</message>
+<message><id_message><![CDATA[338]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1883]]></id_cart>
+<id_order><![CDATA[384]]></id_order>
+<id_customer><![CDATA[351]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-12-04 16:05:05]]></date_add>
+</message>
+<message><id_message><![CDATA[339]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1889]]></id_cart>
+<id_order><![CDATA[385]]></id_order>
+<id_customer><![CDATA[217]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-12-07 18:47:19]]></date_add>
+</message>
+<message><id_message><![CDATA[340]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1899]]></id_cart>
+<id_order><![CDATA[387]]></id_order>
+<id_customer><![CDATA[214]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-12-15 18:51:16]]></date_add>
+</message>
+<message><id_message><![CDATA[341]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1894]]></id_cart>
+<id_order><![CDATA[388]]></id_order>
+<id_customer><![CDATA[353]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-12-16 19:09:26]]></date_add>
+</message>
+<message><id_message><![CDATA[342]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1930]]></id_cart>
+<id_order><![CDATA[389]]></id_order>
+<id_customer><![CDATA[113]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-12-19 16:19:49]]></date_add>
+</message>
+<message><id_message><![CDATA[343]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1942]]></id_cart>
+<id_order><![CDATA[391]]></id_order>
+<id_customer><![CDATA[356]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2015-12-30 18:02:40]]></date_add>
+</message>
+<message><id_message><![CDATA[344]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1943]]></id_cart>
+<id_order><![CDATA[392]]></id_order>
+<id_customer><![CDATA[239]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-01-01 16:46:33]]></date_add>
+</message>
+<message><id_message><![CDATA[345]]></id_message>
+<message><![CDATA[Merci d'effectuer le virement habituel (50% à la commande | 50% : 30 jours après livraison). ]]></message>
+<id_cart><![CDATA[1947]]></id_cart>
+<id_order><![CDATA[393]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2016-01-04 11:30:38]]></date_add>
+</message>
+<message><id_message><![CDATA[346]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1947]]></id_cart>
+<id_order><![CDATA[393]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-01-04 11:30:38]]></date_add>
+</message>
+<message><id_message><![CDATA[347]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1948]]></id_cart>
+<id_order><![CDATA[394]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-01-07 10:20:05]]></date_add>
+</message>
+<message><id_message><![CDATA[348]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1965]]></id_cart>
+<id_order><![CDATA[395]]></id_order>
+<id_customer><![CDATA[359]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-01-07 14:25:42]]></date_add>
+</message>
+<message><id_message><![CDATA[349]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1973]]></id_cart>
+<id_order><![CDATA[396]]></id_order>
+<id_customer><![CDATA[284]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-01-12 11:53:41]]></date_add>
+</message>
+<message><id_message><![CDATA[350]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1962]]></id_cart>
+<id_order><![CDATA[397]]></id_order>
+<id_customer><![CDATA[358]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-01-12 12:23:12]]></date_add>
+</message>
+<message><id_message><![CDATA[351]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1957]]></id_cart>
+<id_order><![CDATA[398]]></id_order>
+<id_customer><![CDATA[357]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-01-12 21:48:36]]></date_add>
+</message>
+<message><id_message><![CDATA[352]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[1912]]></id_cart>
+<id_order><![CDATA[399]]></id_order>
+<id_customer><![CDATA[354]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-01-15 17:03:03]]></date_add>
+</message>
+<message><id_message><![CDATA[353]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2074]]></id_cart>
+<id_order><![CDATA[400]]></id_order>
+<id_customer><![CDATA[363]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-02-01 09:53:16]]></date_add>
+</message>
+<message><id_message><![CDATA[354]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2080]]></id_cart>
+<id_order><![CDATA[401]]></id_order>
+<id_customer><![CDATA[361]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-02-02 09:51:59]]></date_add>
+</message>
+<message><id_message><![CDATA[355]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2086]]></id_cart>
+<id_order><![CDATA[402]]></id_order>
+<id_customer><![CDATA[365]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-02-07 13:58:29]]></date_add>
+</message>
+<message><id_message><![CDATA[356]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2091]]></id_cart>
+<id_order><![CDATA[403]]></id_order>
+<id_customer><![CDATA[65]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-02-19 11:54:01]]></date_add>
+</message>
+<message><id_message><![CDATA[357]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2118]]></id_cart>
+<id_order><![CDATA[404]]></id_order>
+<id_customer><![CDATA[366]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-02-22 17:57:32]]></date_add>
+</message>
+<message><id_message><![CDATA[358]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2126]]></id_cart>
+<id_order><![CDATA[405]]></id_order>
+<id_customer><![CDATA[368]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-02-25 15:45:25]]></date_add>
+</message>
+<message><id_message><![CDATA[359]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2139]]></id_cart>
+<id_order><![CDATA[406]]></id_order>
+<id_customer><![CDATA[370]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-03-01 14:38:13]]></date_add>
+</message>
+<message><id_message><![CDATA[360]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2136]]></id_cart>
+<id_order><![CDATA[407]]></id_order>
+<id_customer><![CDATA[371]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-03-01 19:54:47]]></date_add>
+</message>
+<message><id_message><![CDATA[361]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2142]]></id_cart>
+<id_order><![CDATA[408]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-03-02 18:35:59]]></date_add>
+</message>
+<message><id_message><![CDATA[362]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2172]]></id_cart>
+<id_order><![CDATA[409]]></id_order>
+<id_customer><![CDATA[373]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-03-02 22:09:19]]></date_add>
+</message>
+<message><id_message><![CDATA[363]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2431]]></id_cart>
+<id_order><![CDATA[410]]></id_order>
+<id_customer><![CDATA[36]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-03-12 13:33:14]]></date_add>
+</message>
+<message><id_message><![CDATA[364]]></id_message>
+<message><![CDATA[FAIRE APPARAITRE NOTRE NUMERO DE COMMANDE 18012 SUR BL+FACTURE.]]></message>
+<id_cart><![CDATA[2434]]></id_cart>
+<id_order><![CDATA[411]]></id_order>
+<id_customer><![CDATA[376]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2016-03-15 11:34:52]]></date_add>
+</message>
+<message><id_message><![CDATA[365]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2438]]></id_cart>
+<id_order><![CDATA[412]]></id_order>
+<id_customer><![CDATA[378]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-03-18 12:52:23]]></date_add>
+</message>
+<message><id_message><![CDATA[366]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2453]]></id_cart>
+<id_order><![CDATA[413]]></id_order>
+<id_customer><![CDATA[362]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-03-18 14:04:34]]></date_add>
+</message>
+<message><id_message><![CDATA[367]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[155]]></id_cart>
+<id_order><![CDATA[415]]></id_order>
+<id_customer><![CDATA[39]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-03-23 10:42:13]]></date_add>
+</message>
+<message><id_message><![CDATA[368]]></id_message>
+<message><![CDATA[Bonjour
+Merci de livré ma commande au 48 rue gambetta 59142 villers outreaux en priorité.
+
+Merci 
+cordialement]]></message>
+<id_cart><![CDATA[2479]]></id_cart>
+<id_order><![CDATA[0]]></id_order>
+<id_customer><![CDATA[154]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2016-03-24 09:07:54]]></date_add>
+</message>
+<message><id_message><![CDATA[369]]></id_message>
+<message><![CDATA[Price paid on paypal is not the same that on PrestaShop.]]></message>
+<id_cart><![CDATA[2489]]></id_cart>
+<id_order><![CDATA[417]]></id_order>
+<id_customer><![CDATA[34]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-03-26 09:31:00]]></date_add>
+</message>
+<message><id_message><![CDATA[370]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2530]]></id_cart>
+<id_order><![CDATA[419]]></id_order>
+<id_customer><![CDATA[381]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-04-08 04:13:23]]></date_add>
+</message>
+<message><id_message><![CDATA[371]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2534]]></id_cart>
+<id_order><![CDATA[420]]></id_order>
+<id_customer><![CDATA[382]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-04-09 10:45:27]]></date_add>
+</message>
+<message><id_message><![CDATA[372]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2550]]></id_cart>
+<id_order><![CDATA[421]]></id_order>
+<id_customer><![CDATA[21]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-04-12 12:23:32]]></date_add>
+</message>
+<message><id_message><![CDATA[373]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2551]]></id_cart>
+<id_order><![CDATA[422]]></id_order>
+<id_customer><![CDATA[383]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-04-12 12:45:48]]></date_add>
+</message>
+<message><id_message><![CDATA[374]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2659]]></id_cart>
+<id_order><![CDATA[426]]></id_order>
+<id_customer><![CDATA[257]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-04-26 09:50:30]]></date_add>
+</message>
+<message><id_message><![CDATA[375]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2639]]></id_cart>
+<id_order><![CDATA[427]]></id_order>
+<id_customer><![CDATA[398]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-04-27 10:15:18]]></date_add>
+</message>
+<message><id_message><![CDATA[376]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2718]]></id_cart>
+<id_order><![CDATA[428]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-04-27 16:49:32]]></date_add>
+</message>
+<message><id_message><![CDATA[377]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2719]]></id_cart>
+<id_order><![CDATA[429]]></id_order>
+<id_customer><![CDATA[399]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-04-27 18:45:09]]></date_add>
+</message>
+<message><id_message><![CDATA[378]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2737]]></id_cart>
+<id_order><![CDATA[430]]></id_order>
+<id_customer><![CDATA[112]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-01 21:31:44]]></date_add>
+</message>
+<message><id_message><![CDATA[379]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2738]]></id_cart>
+<id_order><![CDATA[431]]></id_order>
+<id_customer><![CDATA[233]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-02 14:55:28]]></date_add>
+</message>
+<message><id_message><![CDATA[380]]></id_message>
+<message><![CDATA[Livraison Début Juin]]></message>
+<id_cart><![CDATA[2740]]></id_cart>
+<id_order><![CDATA[432]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2016-05-02 21:20:26]]></date_add>
+</message>
+<message><id_message><![CDATA[381]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2740]]></id_cart>
+<id_order><![CDATA[432]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-02 21:21:01]]></date_add>
+</message>
+<message><id_message><![CDATA[382]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2754]]></id_cart>
+<id_order><![CDATA[433]]></id_order>
+<id_customer><![CDATA[185]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-10 22:05:59]]></date_add>
+</message>
+<message><id_message><![CDATA[383]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2751]]></id_cart>
+<id_order><![CDATA[434]]></id_order>
+<id_customer><![CDATA[400]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-13 13:19:20]]></date_add>
+</message>
+<message><id_message><![CDATA[384]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2755]]></id_cart>
+<id_order><![CDATA[435]]></id_order>
+<id_customer><![CDATA[401]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-14 15:45:51]]></date_add>
+</message>
+<message><id_message><![CDATA[385]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2756]]></id_cart>
+<id_order><![CDATA[436]]></id_order>
+<id_customer><![CDATA[402]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-15 21:55:48]]></date_add>
+</message>
+<message><id_message><![CDATA[386]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2757]]></id_cart>
+<id_order><![CDATA[437]]></id_order>
+<id_customer><![CDATA[403]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-17 13:55:48]]></date_add>
+</message>
+<message><id_message><![CDATA[387]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2759]]></id_cart>
+<id_order><![CDATA[438]]></id_order>
+<id_customer><![CDATA[404]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-18 15:45:25]]></date_add>
+</message>
+<message><id_message><![CDATA[388]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2766]]></id_cart>
+<id_order><![CDATA[439]]></id_order>
+<id_customer><![CDATA[104]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-23 16:11:25]]></date_add>
+</message>
+<message><id_message><![CDATA[389]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2777]]></id_cart>
+<id_order><![CDATA[440]]></id_order>
+<id_customer><![CDATA[405]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-29 18:19:53]]></date_add>
+</message>
+<message><id_message><![CDATA[390]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2519]]></id_cart>
+<id_order><![CDATA[441]]></id_order>
+<id_customer><![CDATA[300]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-30 11:29:28]]></date_add>
+</message>
+<message><id_message><![CDATA[391]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2803]]></id_cart>
+<id_order><![CDATA[442]]></id_order>
+<id_customer><![CDATA[305]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-05-30 12:04:17]]></date_add>
+</message>
+<message><id_message><![CDATA[392]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2830]]></id_cart>
+<id_order><![CDATA[443]]></id_order>
+<id_customer><![CDATA[22]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-06-07 15:59:38]]></date_add>
+</message>
+<message><id_message><![CDATA[393]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2842]]></id_cart>
+<id_order><![CDATA[444]]></id_order>
+<id_customer><![CDATA[406]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-06-11 14:39:53]]></date_add>
+</message>
+<message><id_message><![CDATA[394]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2843]]></id_cart>
+<id_order><![CDATA[445]]></id_order>
+<id_customer><![CDATA[407]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-06-12 09:52:26]]></date_add>
+</message>
+<message><id_message><![CDATA[395]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2850]]></id_cart>
+<id_order><![CDATA[446]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-06-14 10:14:49]]></date_add>
+</message>
+<message><id_message><![CDATA[396]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2851]]></id_cart>
+<id_order><![CDATA[447]]></id_order>
+<id_customer><![CDATA[293]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-06-14 14:36:38]]></date_add>
+</message>
+<message><id_message><![CDATA[397]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[817]]></id_cart>
+<id_order><![CDATA[448]]></id_order>
+<id_customer><![CDATA[223]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-06-20 15:53:04]]></date_add>
+</message>
+<message><id_message><![CDATA[398]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2894]]></id_cart>
+<id_order><![CDATA[449]]></id_order>
+<id_customer><![CDATA[329]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-06-22 11:39:33]]></date_add>
+</message>
+<message><id_message><![CDATA[399]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2903]]></id_cart>
+<id_order><![CDATA[450]]></id_order>
+<id_customer><![CDATA[409]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-06-30 19:43:31]]></date_add>
+</message>
+<message><id_message><![CDATA[400]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2906]]></id_cart>
+<id_order><![CDATA[451]]></id_order>
+<id_customer><![CDATA[56]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-07-08 10:04:19]]></date_add>
+</message>
+<message><id_message><![CDATA[401]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2907]]></id_cart>
+<id_order><![CDATA[452]]></id_order>
+<id_customer><![CDATA[411]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-07-13 09:39:29]]></date_add>
+</message>
+<message><id_message><![CDATA[402]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2908]]></id_cart>
+<id_order><![CDATA[453]]></id_order>
+<id_customer><![CDATA[325]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-07-13 12:43:24]]></date_add>
+</message>
+<message><id_message><![CDATA[403]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2910]]></id_cart>
+<id_order><![CDATA[454]]></id_order>
+<id_customer><![CDATA[410]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-07-16 14:47:49]]></date_add>
+</message>
+<message><id_message><![CDATA[404]]></id_message>
+<message><![CDATA[Merci de veiller à faire un emballage solide car nous habitons loin...]]></message>
+<id_cart><![CDATA[2912]]></id_cart>
+<id_order><![CDATA[456]]></id_order>
+<id_customer><![CDATA[412]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2016-07-18 07:12:46]]></date_add>
+</message>
+<message><id_message><![CDATA[405]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2913]]></id_cart>
+<id_order><![CDATA[455]]></id_order>
+<id_customer><![CDATA[413]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-07-18 23:59:21]]></date_add>
+</message>
+<message><id_message><![CDATA[406]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2912]]></id_cart>
+<id_order><![CDATA[456]]></id_order>
+<id_customer><![CDATA[412]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-07-19 03:34:32]]></date_add>
+</message>
+<message><id_message><![CDATA[407]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2914]]></id_cart>
+<id_order><![CDATA[457]]></id_order>
+<id_customer><![CDATA[414]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-07-19 10:57:30]]></date_add>
+</message>
+<message><id_message><![CDATA[408]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2950]]></id_cart>
+<id_order><![CDATA[458]]></id_order>
+<id_customer><![CDATA[19]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-07-29 14:50:45]]></date_add>
+</message>
+<message><id_message><![CDATA[409]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2952]]></id_cart>
+<id_order><![CDATA[459]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-01 11:35:26]]></date_add>
+</message>
+<message><id_message><![CDATA[410]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2953]]></id_cart>
+<id_order><![CDATA[460]]></id_order>
+<id_customer><![CDATA[415]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-03 16:44:39]]></date_add>
+</message>
+<message><id_message><![CDATA[411]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2965]]></id_cart>
+<id_order><![CDATA[461]]></id_order>
+<id_customer><![CDATA[416]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-11 15:22:02]]></date_add>
+</message>
+<message><id_message><![CDATA[412]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2966]]></id_cart>
+<id_order><![CDATA[462]]></id_order>
+<id_customer><![CDATA[417]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-12 15:04:19]]></date_add>
+</message>
+<message><id_message><![CDATA[413]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2969]]></id_cart>
+<id_order><![CDATA[463]]></id_order>
+<id_customer><![CDATA[325]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-18 12:49:31]]></date_add>
+</message>
+<message><id_message><![CDATA[414]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2973]]></id_cart>
+<id_order><![CDATA[464]]></id_order>
+<id_customer><![CDATA[293]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-25 10:54:45]]></date_add>
+</message>
+<message><id_message><![CDATA[415]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2977]]></id_cart>
+<id_order><![CDATA[465]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-26 09:16:46]]></date_add>
+</message>
+<message><id_message><![CDATA[416]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[693]]></id_cart>
+<id_order><![CDATA[466]]></id_order>
+<id_customer><![CDATA[195]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-28 14:47:07]]></date_add>
+</message>
+<message><id_message><![CDATA[417]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2981]]></id_cart>
+<id_order><![CDATA[467]]></id_order>
+<id_customer><![CDATA[76]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-29 16:50:58]]></date_add>
+</message>
+<message><id_message><![CDATA[418]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1663]]></id_cart>
+<id_order><![CDATA[467]]></id_order>
+<id_customer><![CDATA[76]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-08-30 11:23:39]]></date_add>
+</message>
+<message><id_message><![CDATA[419]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2992]]></id_cart>
+<id_order><![CDATA[468]]></id_order>
+<id_customer><![CDATA[196]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-01 10:00:55]]></date_add>
+</message>
+<message><id_message><![CDATA[420]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2994]]></id_cart>
+<id_order><![CDATA[469]]></id_order>
+<id_customer><![CDATA[419]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-01 19:39:36]]></date_add>
+</message>
+<message><id_message><![CDATA[421]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2997]]></id_cart>
+<id_order><![CDATA[470]]></id_order>
+<id_customer><![CDATA[420]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-06 21:32:50]]></date_add>
+</message>
+<message><id_message><![CDATA[422]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3002]]></id_cart>
+<id_order><![CDATA[471]]></id_order>
+<id_customer><![CDATA[421]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-08 19:32:11]]></date_add>
+</message>
+<message><id_message><![CDATA[423]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3001]]></id_cart>
+<id_order><![CDATA[472]]></id_order>
+<id_customer><![CDATA[372]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-09 14:40:01]]></date_add>
+</message>
+<message><id_message><![CDATA[424]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2985]]></id_cart>
+<id_order><![CDATA[474]]></id_order>
+<id_customer><![CDATA[361]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-27 09:35:52]]></date_add>
+</message>
+<message><id_message><![CDATA[425]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2944]]></id_cart>
+<id_order><![CDATA[475]]></id_order>
+<id_customer><![CDATA[361]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-27 09:36:31]]></date_add>
+</message>
+<message><id_message><![CDATA[426]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[739]]></id_cart>
+<id_order><![CDATA[476]]></id_order>
+<id_customer><![CDATA[197]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-27 10:04:11]]></date_add>
+</message>
+<message><id_message><![CDATA[427]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3088]]></id_cart>
+<id_order><![CDATA[477]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-28 10:13:09]]></date_add>
+</message>
+<message><id_message><![CDATA[428]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3090]]></id_cart>
+<id_order><![CDATA[478]]></id_order>
+<id_customer><![CDATA[425]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-29 00:31:42]]></date_add>
+</message>
+<message><id_message><![CDATA[429]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3089]]></id_cart>
+<id_order><![CDATA[479]]></id_order>
+<id_customer><![CDATA[426]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-09-29 11:06:08]]></date_add>
+</message>
+<message><id_message><![CDATA[430]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3099]]></id_cart>
+<id_order><![CDATA[480]]></id_order>
+<id_customer><![CDATA[106]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-01 11:36:40]]></date_add>
+</message>
+<message><id_message><![CDATA[431]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3100]]></id_cart>
+<id_order><![CDATA[481]]></id_order>
+<id_customer><![CDATA[428]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-01 15:38:08]]></date_add>
+</message>
+<message><id_message><![CDATA[432]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3112]]></id_cart>
+<id_order><![CDATA[482]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-07 20:50:16]]></date_add>
+</message>
+<message><id_message><![CDATA[433]]></id_message>
+<message><![CDATA[En cas de fermeture Capitainerie, le livreur me telephone sur mon portable 0687097326 et je viens prendre la livraison a la capitainerie
+Cordialement]]></message>
+<id_cart><![CDATA[3147]]></id_cart>
+<id_order><![CDATA[484]]></id_order>
+<id_customer><![CDATA[241]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2016-10-13 11:58:33]]></date_add>
+</message>
+<message><id_message><![CDATA[434]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3147]]></id_cart>
+<id_order><![CDATA[484]]></id_order>
+<id_customer><![CDATA[241]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-13 12:03:07]]></date_add>
+</message>
+<message><id_message><![CDATA[435]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[988]]></id_cart>
+<id_order><![CDATA[485]]></id_order>
+<id_customer><![CDATA[284]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-13 15:43:17]]></date_add>
+</message>
+<message><id_message><![CDATA[436]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3158]]></id_cart>
+<id_order><![CDATA[486]]></id_order>
+<id_customer><![CDATA[293]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-19 08:25:23]]></date_add>
+</message>
+<message><id_message><![CDATA[437]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3162]]></id_cart>
+<id_order><![CDATA[487]]></id_order>
+<id_customer><![CDATA[25]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-22 15:18:18]]></date_add>
+</message>
+<message><id_message><![CDATA[438]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3163]]></id_cart>
+<id_order><![CDATA[488]]></id_order>
+<id_customer><![CDATA[431]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-23 01:49:55]]></date_add>
+</message>
+<message><id_message><![CDATA[439]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3165]]></id_cart>
+<id_order><![CDATA[489]]></id_order>
+<id_customer><![CDATA[234]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-24 10:40:43]]></date_add>
+</message>
+<message><id_message><![CDATA[440]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3167]]></id_cart>
+<id_order><![CDATA[490]]></id_order>
+<id_customer><![CDATA[432]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-10-24 22:18:24]]></date_add>
+</message>
+<message><id_message><![CDATA[441]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3174]]></id_cart>
+<id_order><![CDATA[491]]></id_order>
+<id_customer><![CDATA[433]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-11-03 12:50:25]]></date_add>
+</message>
+<message><id_message><![CDATA[442]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1932]]></id_cart>
+<id_order><![CDATA[492]]></id_order>
+<id_customer><![CDATA[353]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-11-04 16:47:19]]></date_add>
+</message>
+<message><id_message><![CDATA[443]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3249]]></id_cart>
+<id_order><![CDATA[493]]></id_order>
+<id_customer><![CDATA[436]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-11-09 10:22:07]]></date_add>
+</message>
+<message><id_message><![CDATA[444]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1298]]></id_cart>
+<id_order><![CDATA[494]]></id_order>
+<id_customer><![CDATA[296]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-11-09 11:32:27]]></date_add>
+</message>
+<message><id_message><![CDATA[445]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3241]]></id_cart>
+<id_order><![CDATA[495]]></id_order>
+<id_customer><![CDATA[283]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-11-16 10:05:11]]></date_add>
+</message>
+<message><id_message><![CDATA[446]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[2845]]></id_cart>
+<id_order><![CDATA[496]]></id_order>
+<id_customer><![CDATA[407]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-11-25 13:47:16]]></date_add>
+</message>
+<message><id_message><![CDATA[447]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3372]]></id_cart>
+<id_order><![CDATA[497]]></id_order>
+<id_customer><![CDATA[438]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-11-26 14:26:51]]></date_add>
+</message>
+<message><id_message><![CDATA[448]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3414]]></id_cart>
+<id_order><![CDATA[498]]></id_order>
+<id_customer><![CDATA[439]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-11-29 14:35:53]]></date_add>
+</message>
+<message><id_message><![CDATA[449]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3420]]></id_cart>
+<id_order><![CDATA[499]]></id_order>
+<id_customer><![CDATA[89]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-01 13:30:08]]></date_add>
+</message>
+<message><id_message><![CDATA[450]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1348]]></id_cart>
+<id_order><![CDATA[500]]></id_order>
+<id_customer><![CDATA[275]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-08 20:50:40]]></date_add>
+</message>
+<message><id_message><![CDATA[451]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3421]]></id_cart>
+<id_order><![CDATA[501]]></id_order>
+<id_customer><![CDATA[440]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-08 21:58:12]]></date_add>
+</message>
+<message><id_message><![CDATA[452]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3443]]></id_cart>
+<id_order><![CDATA[502]]></id_order>
+<id_customer><![CDATA[33]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-09 10:57:36]]></date_add>
+</message>
+<message><id_message><![CDATA[453]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3444]]></id_cart>
+<id_order><![CDATA[503]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-09 12:31:10]]></date_add>
+</message>
+<message><id_message><![CDATA[454]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3459]]></id_cart>
+<id_order><![CDATA[504]]></id_order>
+<id_customer><![CDATA[443]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-12 10:32:10]]></date_add>
+</message>
+<message><id_message><![CDATA[455]]></id_message>
+<message><![CDATA[Livraison aux heures ouvrées]]></message>
+<id_cart><![CDATA[1136]]></id_cart>
+<id_order><![CDATA[505]]></id_order>
+<id_customer><![CDATA[291]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2016-12-13 21:05:25]]></date_add>
+</message>
+<message><id_message><![CDATA[456]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1136]]></id_cart>
+<id_order><![CDATA[505]]></id_order>
+<id_customer><![CDATA[291]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-13 21:07:50]]></date_add>
+</message>
+<message><id_message><![CDATA[457]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3299]]></id_cart>
+<id_order><![CDATA[506]]></id_order>
+<id_customer><![CDATA[437]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-15 11:51:43]]></date_add>
+</message>
+<message><id_message><![CDATA[458]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3467]]></id_cart>
+<id_order><![CDATA[507]]></id_order>
+<id_customer><![CDATA[445]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-16 14:01:28]]></date_add>
+</message>
+<message><id_message><![CDATA[459]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3470]]></id_cart>
+<id_order><![CDATA[508]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-19 11:34:08]]></date_add>
+</message>
+<message><id_message><![CDATA[460]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3480]]></id_cart>
+<id_order><![CDATA[509]]></id_order>
+<id_customer><![CDATA[447]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2016-12-27 19:48:46]]></date_add>
+</message>
+<message><id_message><![CDATA[461]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3489]]></id_cart>
+<id_order><![CDATA[510]]></id_order>
+<id_customer><![CDATA[297]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-01-05 22:31:35]]></date_add>
+</message>
+<message><id_message><![CDATA[462]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3502]]></id_cart>
+<id_order><![CDATA[511]]></id_order>
+<id_customer><![CDATA[293]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-01-13 10:48:02]]></date_add>
+</message>
+<message><id_message><![CDATA[463]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3501]]></id_cart>
+<id_order><![CDATA[512]]></id_order>
+<id_customer><![CDATA[450]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-01-17 12:05:22]]></date_add>
+</message>
+<message><id_message><![CDATA[464]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3509]]></id_cart>
+<id_order><![CDATA[513]]></id_order>
+<id_customer><![CDATA[356]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-01-18 23:52:18]]></date_add>
+</message>
+<message><id_message><![CDATA[465]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3503]]></id_cart>
+<id_order><![CDATA[514]]></id_order>
+<id_customer><![CDATA[368]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-01-20 15:40:06]]></date_add>
+</message>
+<message><id_message><![CDATA[466]]></id_message>
+<message><![CDATA[Suite avoir du 20/01/2017, je vous prie de bien vouloir procéder à l'envoi de 3 cartouches RS-2QC.]]></message>
+<id_cart><![CDATA[3360]]></id_cart>
+<id_order><![CDATA[556]]></id_order>
+<id_customer><![CDATA[286]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2017-01-20 20:36:47]]></date_add>
+</message>
+<message><id_message><![CDATA[467]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3512]]></id_cart>
+<id_order><![CDATA[515]]></id_order>
+<id_customer><![CDATA[365]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-01-22 18:56:43]]></date_add>
+</message>
+<message><id_message><![CDATA[468]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3511]]></id_cart>
+<id_order><![CDATA[516]]></id_order>
+<id_customer><![CDATA[368]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-01-23 10:30:07]]></date_add>
+</message>
+<message><id_message><![CDATA[469]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3521]]></id_cart>
+<id_order><![CDATA[517]]></id_order>
+<id_customer><![CDATA[455]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-01-30 19:14:22]]></date_add>
+</message>
+<message><id_message><![CDATA[470]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3522]]></id_cart>
+<id_order><![CDATA[518]]></id_order>
+<id_customer><![CDATA[456]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-01-31 11:44:46]]></date_add>
+</message>
+<message><id_message><![CDATA[471]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3525]]></id_cart>
+<id_order><![CDATA[519]]></id_order>
+<id_customer><![CDATA[457]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-02-02 09:08:49]]></date_add>
+</message>
+<message><id_message><![CDATA[472]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3508]]></id_cart>
+<id_order><![CDATA[520]]></id_order>
+<id_customer><![CDATA[256]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-02-07 16:17:16]]></date_add>
+</message>
+<message><id_message><![CDATA[473]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[909]]></id_cart>
+<id_order><![CDATA[521]]></id_order>
+<id_customer><![CDATA[36]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-02-09 21:34:01]]></date_add>
+</message>
+<message><id_message><![CDATA[474]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3574]]></id_cart>
+<id_order><![CDATA[522]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-02-21 00:32:25]]></date_add>
+</message>
+<message><id_message><![CDATA[475]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3580]]></id_cart>
+<id_order><![CDATA[523]]></id_order>
+<id_customer><![CDATA[97]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-02-28 02:14:03]]></date_add>
+</message>
+<message><id_message><![CDATA[476]]></id_message>
+<message><![CDATA[URGENT ! doit être livré jeudi au plus tard. Merci
+www.unefamilleenvadrouille.fr
+
+Si malgré vos efforts, vous n'êtes pas en mesure d'assurer la livraison pour jeudi, merci d'annuler la commande]]></message>
+<id_cart><![CDATA[3581]]></id_cart>
+<id_order><![CDATA[524]]></id_order>
+<id_customer><![CDATA[410]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2017-02-28 15:54:33]]></date_add>
+</message>
+<message><id_message><![CDATA[477]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3581]]></id_cart>
+<id_order><![CDATA[524]]></id_order>
+<id_customer><![CDATA[410]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-02-28 16:00:48]]></date_add>
+</message>
+<message><id_message><![CDATA[478]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3583]]></id_cart>
+<id_order><![CDATA[525]]></id_order>
+<id_customer><![CDATA[459]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-01 13:36:37]]></date_add>
+</message>
+<message><id_message><![CDATA[479]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3585]]></id_cart>
+<id_order><![CDATA[526]]></id_order>
+<id_customer><![CDATA[460]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-05 17:45:15]]></date_add>
+</message>
+<message><id_message><![CDATA[480]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3596]]></id_cart>
+<id_order><![CDATA[527]]></id_order>
+<id_customer><![CDATA[295]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-14 10:50:56]]></date_add>
+</message>
+<message><id_message><![CDATA[481]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3490]]></id_cart>
+<id_order><![CDATA[528]]></id_order>
+<id_customer><![CDATA[141]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-14 23:55:54]]></date_add>
+</message>
+<message><id_message><![CDATA[482]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3600]]></id_cart>
+<id_order><![CDATA[530]]></id_order>
+<id_customer><![CDATA[461]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-17 09:15:10]]></date_add>
+</message>
+<message><id_message><![CDATA[483]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2140]]></id_cart>
+<id_order><![CDATA[531]]></id_order>
+<id_customer><![CDATA[370]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-19 19:44:53]]></date_add>
+</message>
+<message><id_message><![CDATA[484]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3629]]></id_cart>
+<id_order><![CDATA[532]]></id_order>
+<id_customer><![CDATA[256]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-22 19:55:24]]></date_add>
+</message>
+<message><id_message><![CDATA[485]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3630]]></id_cart>
+<id_order><![CDATA[533]]></id_order>
+<id_customer><![CDATA[464]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-25 14:40:06]]></date_add>
+</message>
+<message><id_message><![CDATA[487]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3584]]></id_cart>
+<id_order><![CDATA[535]]></id_order>
+<id_customer><![CDATA[256]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-28 15:56:00]]></date_add>
+</message>
+<message><id_message><![CDATA[488]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[1717]]></id_cart>
+<id_order><![CDATA[536]]></id_order>
+<id_customer><![CDATA[210]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-03-30 15:23:34]]></date_add>
+</message>
+<message><id_message><![CDATA[489]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3684]]></id_cart>
+<id_order><![CDATA[537]]></id_order>
+<id_customer><![CDATA[123]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-01 11:20:21]]></date_add>
+</message>
+<message><id_message><![CDATA[490]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3687]]></id_cart>
+<id_order><![CDATA[538]]></id_order>
+<id_customer><![CDATA[38]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-04 16:12:18]]></date_add>
+</message>
+<message><id_message><![CDATA[491]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[2171]]></id_cart>
+<id_order><![CDATA[539]]></id_order>
+<id_customer><![CDATA[372]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-04 16:49:36]]></date_add>
+</message>
+<message><id_message><![CDATA[492]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3689]]></id_cart>
+<id_order><![CDATA[540]]></id_order>
+<id_customer><![CDATA[465]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-04 19:11:17]]></date_add>
+</message>
+<message><id_message><![CDATA[493]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3702]]></id_cart>
+<id_order><![CDATA[541]]></id_order>
+<id_customer><![CDATA[466]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-08 15:05:14]]></date_add>
+</message>
+<message><id_message><![CDATA[494]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3703]]></id_cart>
+<id_order><![CDATA[542]]></id_order>
+<id_customer><![CDATA[467]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-10 18:05:02]]></date_add>
+</message>
+<message><id_message><![CDATA[495]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3704]]></id_cart>
+<id_order><![CDATA[543]]></id_order>
+<id_customer><![CDATA[62]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-10 19:27:35]]></date_add>
+</message>
+<message><id_message><![CDATA[496]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3760]]></id_cart>
+<id_order><![CDATA[544]]></id_order>
+<id_customer><![CDATA[462]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-19 15:51:02]]></date_add>
+</message>
+<message><id_message><![CDATA[497]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3764]]></id_cart>
+<id_order><![CDATA[545]]></id_order>
+<id_customer><![CDATA[292]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-19 19:55:09]]></date_add>
+</message>
+<message><id_message><![CDATA[498]]></id_message>
+<message><![CDATA[Commande manuelle - Employé A. FRANCE]]></message>
+<id_cart><![CDATA[3765]]></id_cart>
+<id_order><![CDATA[546]]></id_order>
+<id_customer><![CDATA[468]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-20 10:12:25]]></date_add>
+</message>
+<message><id_message><![CDATA[499]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3799]]></id_cart>
+<id_order><![CDATA[547]]></id_order>
+<id_customer><![CDATA[330]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-04-23 13:48:00]]></date_add>
+</message>
+<message><id_message><![CDATA[500]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3883]]></id_cart>
+<id_order><![CDATA[548]]></id_order>
+<id_customer><![CDATA[469]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-05-01 15:05:40]]></date_add>
+</message>
+<message><id_message><![CDATA[501]]></id_message>
+<message><![CDATA[Je suis un particulier.]]></message>
+<id_cart><![CDATA[3949]]></id_cart>
+<id_order><![CDATA[549]]></id_order>
+<id_customer><![CDATA[471]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[0]]></private>
+<date_add><![CDATA[2017-05-06 17:03:13]]></date_add>
+</message>
+<message><id_message><![CDATA[502]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[3949]]></id_cart>
+<id_order><![CDATA[549]]></id_order>
+<id_customer><![CDATA[471]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-05-06 17:07:36]]></date_add>
+</message>
+<message><id_message><![CDATA[503]]></id_message>
+<message><![CDATA[Payment accepted.]]></message>
+<id_cart><![CDATA[4011]]></id_cart>
+<id_order><![CDATA[550]]></id_order>
+<id_customer><![CDATA[116]]></id_customer>
+<id_employee><![CDATA[0]]></id_employee>
+<private><![CDATA[1]]></private>
+<date_add><![CDATA[2017-05-10 10:21:50]]></date_add>
+</message>
+</entity_profile>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<contact><id_contact><![CDATA[1]]></id_contact>
+<email><![CDATA[contact@aquapure.fr]]></email>
+<customer_service><![CDATA[1]]></customer_service>
+<datalanguage iso_code="ca" >
+<name><![CDATA[Service Technique]]></name>
+<description><![CDATA[Si un problème technique survient ou que vous souhaitez émettre des suggestions]]></description>
+</datalanguage>
+<datalanguage iso_code="de" >
+<name><![CDATA[Webmaster]]></name>
+<description><![CDATA[Falls ein technisches Problem auf der Webseite auftritt]]></description>
+</datalanguage>
+<datalanguage iso_code="en" >
+<name><![CDATA[Service Technique]]></name>
+<description><![CDATA[Si un problème technique survient ou que vous souhaitez émettre des suggestions]]></description>
+</datalanguage>
+<datalanguage iso_code="es" >
+<name><![CDATA[Webmaster]]></name>
+<description><![CDATA[Si se produce un problema técnico en el sitio]]></description>
+</datalanguage>
+<datalanguage iso_code="fr" default="1" >
+<name><![CDATA[Service Technique]]></name>
+<description><![CDATA[Si un problème technique survient ou que vous souhaitez émettre des suggestions]]></description>
+</datalanguage>
+<datalanguage iso_code="gb" >
+<name><![CDATA[Service Technique]]></name>
+<description><![CDATA[Si un problème technique survient ou que vous souhaitez émettre des suggestions]]></description>
+</datalanguage>
+<datalanguage iso_code="gl" >
+<name><![CDATA[Service Technique]]></name>
+<description><![CDATA[Si un problème technique survient ou que vous souhaitez émettre des suggestions]]></description>
+</datalanguage>
+<datalanguage iso_code="it" >
+<name><![CDATA[Webmaster]]></name>
+<description><![CDATA[Se nel sito interviene un problema tecnico]]></description>
+</datalanguage>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="5"></datashop>
+<datashop id_shop="8"></datashop>
+</contact>
+<contact><id_contact><![CDATA[2]]></id_contact>
+<email><![CDATA[panier@aquapure.fr]]></email>
+<customer_service><![CDATA[1]]></customer_service>
+<datalanguage iso_code="ca" >
+<name><![CDATA[Service Client]]></name>
+<description><![CDATA[Pour toute question sur une commande ou des informations complémentaires sur nos produits.]]></description>
+</datalanguage>
+<datalanguage iso_code="de" >
+<name><![CDATA[Kundenservice]]></name>
+<description><![CDATA[Bei Fragen oder Reklamationen zu einer Bestellung]]></description>
+</datalanguage>
+<datalanguage iso_code="en" >
+<name><![CDATA[Service client]]></name>
+<description><![CDATA[Pour toute question sur une commande ou des informations complémentaires sur nos produits.]]></description>
+</datalanguage>
+<datalanguage iso_code="es" >
+<name><![CDATA[Service client]]></name>
+<description><![CDATA[Para cualquier pregunta o queja acerca de un pedido]]></description>
+</datalanguage>
+<datalanguage iso_code="fr" default="1" >
+<name><![CDATA[Service Client]]></name>
+<description><![CDATA[Pour toute question sur une commande ou des informations complémentaires sur nos produits.]]></description>
+</datalanguage>
+<datalanguage iso_code="gb" >
+<name><![CDATA[Service client]]></name>
+<description><![CDATA[Pour toute question sur une commande ou des informations complémentaires sur nos produits.]]></description>
+</datalanguage>
+<datalanguage iso_code="gl" >
+<name><![CDATA[Service Client]]></name>
+<description><![CDATA[Pour toute question sur une commande ou des informations complémentaires sur nos produits.]]></description>
+</datalanguage>
+<datalanguage iso_code="it" >
+<name><![CDATA[Servizio clienti]]></name>
+<description><![CDATA[Per qualsiasi domanda o reclamo riguardo ad un ordine]]></description>
+</datalanguage>
+<datashop id_shop="1"></datashop>
+<datashop id_shop="2"></datashop>
+<datashop id_shop="3"></datashop>
+<datashop id_shop="4"></datashop>
+<datashop id_shop="5"></datashop>
+<datashop id_shop="6"></datashop>
+<datashop id_shop="7"></datashop>
+<datashop id_shop="8"></datashop>
+</contact>
+</entity_profile>
