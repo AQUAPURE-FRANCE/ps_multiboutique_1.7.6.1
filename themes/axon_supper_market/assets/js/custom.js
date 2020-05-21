@@ -272,7 +272,7 @@ $(document).ready(function(){
 				// Video Starting if first click
 			    Video.trigger('play');
 			    Video.on('ended',function(){
-				    carTabs.removeClass("unplayed").addClass("played");
+				    carTabs.removeClass("unplayed").addClass("played tabs-played");
 			    });
 		    }
 		});
@@ -282,16 +282,21 @@ $(document).ready(function(){
 			var mechanism = $('.mechanism-effect #' +idCar);
 			var carVideo = $('.filtration-item#' +idCar+ ' video');
 			var item = $('.filtration-item#' + idCar);			
-			if (!$(this).hasClass('actived') && carTabs.hasClass("played") || carTabs.hasClass('tabs-played')){							    
+			if (carTabs.hasClass("played")){							    
 				var dot = $(this).find('.dot');
 				var line = $(this).find('.line');
 				var carBtn = $(this).parent().parent().parent().find('.carousel-btn.actived');							
-				// Lines & Dots Animation if not fisrt time		
+				// Lines & Dots Animation if not fisrt time
 				if (carBtn) {
+					if (carTabs.hasClass('tabs-played')) {
+						var actId = idCar;
+					}
+					else {
+						var actId = carBtn.attr("data-mechanism");
+					};	
 					var dots = carBtn.find('.dot');
-					var lines = carBtn.find('.line');
-					var actId = carBtn.attr("data-mechanism");
-					var actItem = 	$('.filtration-item#' + actId);
+					var lines = carBtn.find('.line');					
+					var actItem = $('.filtration-item#' + actId);
 					console.log(actId);			
 					carBtn.removeClass('actived');
 					dots.removeClass('showed');
@@ -301,8 +306,8 @@ $(document).ready(function(){
 				    dots.delay(600).animate({opacity:"0"}, {duration:500, queue: true});
 				    var actMech = $('.mechanism-effect #' + actId);
 					var actVideo = $('.filtration-item#' + actId + ' video');
-					actMech.slideUp(1000, function(){actVideo.get(0).pause()});				
-					mechanism.slideDown(1000, function(){actVideo.get(0).currentTime = 0});				     
+					actMech.slideUp(1000, function(){actVideo.get(0).pause()});			
+					mechanism.slideDown(1000, function(){actVideo.get(0).currentTime = 0; carTabs.removeClass('tabs-played')});				     
 				}
 				// Lines & Dots Animation
 				dot.animate({opacity:"1"}, {duration:500, queue: false});
@@ -314,7 +319,7 @@ $(document).ready(function(){
 				$(this).addClass('actived');
 				item.slideDown(1000);				
 				carVideo.get(0).play();
-				actItem.slideUp(1000);			
+				if(!carTabs.hasClass('tabs-played')) {actItem.slideUp(1000)};			
 				// Mechanisms Animation
 				
 			}
@@ -322,7 +327,7 @@ $(document).ready(function(){
 			if (carTabs.hasClass("unplayed") && $(this).hasClass("actived")){				
 			    Video.trigger('play');
 			    Video.on('ended',function(){
-				    carTabs.removeClass("unplayed").addClass("played");
+				    carTabs.removeClass("unplayed").addClass("played tabs-played");
 				    slider.addClass('opened');
 			    });			    
 		    }
@@ -330,7 +335,7 @@ $(document).ready(function(){
 			if(carTabs.hasClass("unplayed")){
 				Video.trigger('play');
 				Video.on('ended',function(){
-				    carTabs.removeClass("unplayed").addClass("played");
+				    carTabs.removeClass("unplayed").addClass("played tabs-played");
 			    });
 			}  
 		});
