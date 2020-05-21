@@ -247,7 +247,7 @@ class smartbloghomelatestnews extends Module {
                             }
                         }
                         if (isset($title) && $title){
-                            Configuration::updateValue('NRT_SMARTBLOG_TITLE', $title, true);
+                            Configuration::updateValue('NRT_SMARTBLOG_TITLE', $true);
                         }
                         foreach ($languages as $language){
                             if (Tools::isSubmit('NRT_SMARTBLOG_TITLE_LINK_'.$language['id_lang'])){
