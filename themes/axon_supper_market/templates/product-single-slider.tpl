@@ -25,9 +25,9 @@
 
 {if isset($nodecontent.products) && $nodecontent.products}
 
- <div class="single-product" itemscope itemtype="https://schema.org/Product">
+<div class="single-product" itemscope itemtype="https://schema.org/Product">
 	 <meta itemprop="url" content="{$product.url}">
- <div class="row">
+	 <div class="row">
             {foreach from=$nodecontent.products item="product"}
             <div class="row single-product {$product.category}">
 	            {block name='page_content_container'}
@@ -234,8 +234,8 @@
 	        </div>
             {/foreach}
             
-    </div>
-{*      '<pre>'{$product|@var_dump}'</pre>'*}
+    
+	 </div>
  </div>
 {else}
 	<p class="alert alert-warning" style="clear:both;margin-bottom:30px;">{l s='No products at this time.'}</p>
