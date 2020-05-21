@@ -1,4 +1,3 @@
-/modules/*
 /node_modules/*
 /backoffice/*
 /bin/*
@@ -40,3 +39,4 @@ vendor
 !.gitignore
 !themes/axon_supper_market
 !themes/axon_default
+!modules
