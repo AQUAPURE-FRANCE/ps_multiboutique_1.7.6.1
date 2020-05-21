@@ -185,6 +185,7 @@ class smartbloghomelatestnews extends Module {
     }
     public function hookHeader($params)
 	{
+		$this->context->controller->addCSS(($this->_path).'css/style.css', 'all');
 		$image_types = BlogImageType::GetImageAll();
 		 foreach($image_types as $image_type){
 		$this->smarty->assign('size_'.str_replace('-','_',$image_type['type_name']).'_'.$image_type['type'],$image_type);
