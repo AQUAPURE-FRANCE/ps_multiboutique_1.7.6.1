@@ -24,11 +24,10 @@
 *}
 
 {if isset($nodecontent.products) && $nodecontent.products}
-
-<div class="single-product" itemscope itemtype="https://schema.org/Product">
-	 <meta itemprop="url" content="{$product.url}">
-	 <div class="row">
-            {foreach from=$nodecontent.products item="product"}
+<div class="single-product" itemscope itemtype="https://schema.org/Product">	 
+	 <div class="row">           
+            {foreach from=$nodecontent.products item="product"}            
+            <meta itemprop="url" content="{$product.url}">
             <div class="row single-product {$product.category}">
 	            {block name='page_content_container'}
 	                {block name='page_content'}
@@ -39,8 +38,8 @@
 	                        {if isset($product.on_sale) && $product.on_sale && isset($product.show_price) && $product.show_price }
 	                            <span class="action sale"><span>{l s='Sale'}</span></span>
 	                        {/if}
-	                    {/block}
-	
+	                    {/block}	
+
 	                    {block name='product_cover_tumbnails'}
 	                        {include file='catalog/_partials/product-cover-thumbnails.tpl'}
 	                    {/block}
