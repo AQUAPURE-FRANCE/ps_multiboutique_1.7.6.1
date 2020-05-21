@@ -411,8 +411,10 @@
 										<option value="3" {if isset($node.content.view) && $node.content.view == 3}selected{/if} >{l s='Slider - info next to small image ' mod='nrtpageeditors'}</option>
 										<option value="disabled" disabled>{l s='------------------'}</option>
 										<option value="4"  {if isset($node.content.view) && $node.content.view == 4}selected{/if}>{l s='Slider - Full ( Products per line is 1 in every screen )' mod='nrtpageeditors'}</option>
+{*
 										<option value="disabled" disabled>{l s='------------------'}</option>
 										<option value="5"  {if isset($node.content.view) && $node.content.view == 5}selected{/if}>{l s='Slider - Single ( Single Product Custom ! )' mod='nrtpageeditors'}</option>
+*}
 									</select>
 								</div>
 							</div>
