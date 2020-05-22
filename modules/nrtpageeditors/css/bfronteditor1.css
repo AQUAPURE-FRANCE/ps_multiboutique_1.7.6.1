@@ -1,0 +1,99 @@
+/**
+* 2007-2014 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2014 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*
+* Don't forget to prefix your containers with your own identifier
+* to avoid any conflicts with others containers.
+*/
+
+#header, #nav-sidebar, .bootstrap .page-head, #footer {
+display: none!important;
+}
+#content.bootstrap, #main{
+  padding: 0px!important;
+  margin: 0px!important;
+}
+#main, #content, #content > .row,  #content > .row > div{
+  height: 100% !important;
+}
+
+body.nrtfronteditor{
+  overflow: hidden !important;
+  background: #FBFBFB url('../img/pattern38.png') repeat;
+}
+#ffpreview{
+  margin: 0 auto;
+  border: 0px;
+  margin-top: 48px;
+  display: block;
+  -moz-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+
+#fronteditor-toolbar{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 50px;
+    width: 100%;
+    background: #fff;
+    z-index: 1000;
+    border-bottom: 1px solid #D8D8D8 !important;
+    -moz-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    line-height: 45px;
+}
+#fronteditor-toolbar .toolbar-action{
+    line-height: 48px;
+    padding: 0 10px;
+    display: inline-block;
+}
+
+#fronteditor-toolbar .update-fronteditor-action i{
+  margin: 0px;
+}
+
+#preloader {
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background-color:#fff; /* change if the mask should have another color then white */
+  z-index:9999; /* makes sure it stays on top */
+}
+
+#status {
+  width:200px;
+  height:200px;
+  position:absolute;
+  left:50%; /* centers the loading animation horizontally one the screen */
+  top:50%; /* centers the loading animation vertically one the screen */
+  background-image:url('../img/status.gif'); /* path to your loading animation */
+  background-repeat:no-repeat;
+  background-position:center;
+  margin:-100px 0 0 -100px; /* is width and height divided by two */
+}

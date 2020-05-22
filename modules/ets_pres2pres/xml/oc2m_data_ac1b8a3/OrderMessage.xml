@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity_profile>
+<order_message><id_order_message><![CDATA[1]]></id_order_message>
+<date_add><![CDATA[2012-01-31 21:51:40]]></date_add>
+<datalanguage iso_code="ca" >
+<name><![CDATA[Délai]]></name>
+<message><![CDATA[Bonjour,
+
+Un des éléments de votre commande est actuellement en réapprovisionnement, ce qui peut légèrement retarder son envoi.
+
+Merci de votre compréhension.
+
+Cordialement,]]></message>
+</datalanguage>
+<datalanguage iso_code="de" >
+<name><![CDATA[Frist]]></name>
+<message><![CDATA[Hi,
+
+Leider ist einer der Artikel aus Ihrer Bestellung momentan nicht auf Lager. Dies kann zu einer leichten Lieferverzögerung führen. Wir entschuldigen uns hierfür und bemühen uns schnellstens um Abhilfe.
+
+Mit freundlichen Grüßen,]]></message>
+</datalanguage>
+<datalanguage iso_code="en" >
+<name><![CDATA[Délai]]></name>
+<message><![CDATA[Bonjour,
+
+Un des éléments de votre commande est actuellement en réapprovisionnement, ce qui peut légèrement retarder son envoi.
+
+Merci de votre compréhension.
+
+Cordialement,]]></message>
+</datalanguage>
+<datalanguage iso_code="es" >
+<name><![CDATA[Plazo]]></name>
+<message><![CDATA[Hola,
+
+Uno de los elementos de su solicitud se encuentra actualmente la reposición, el cual poco puede retrasar el envío.
+
+Gracias por su comprensión.
+
+Saludos cordiales,]]></message>
+</datalanguage>
+<datalanguage iso_code="fr" default="1" >
+<name><![CDATA[Délai]]></name>
+<message><![CDATA[Bonjour,
+
+Un des éléments de votre commande est actuellement en réapprovisionnement, ce qui peut légèrement retarder son envoi.
+
+Merci de votre compréhension.
+
+Cordialement,]]></message>
+</datalanguage>
+<datalanguage iso_code="gb" >
+<name><![CDATA[Délai]]></name>
+<message><![CDATA[Bonjour,
+
+Un des éléments de votre commande est actuellement en réapprovisionnement, ce qui peut légèrement retarder son envoi.
+
+Merci de votre compréhension.
+
+Cordialement,]]></message>
+</datalanguage>
+<datalanguage iso_code="gl" >
+<name><![CDATA[Délai]]></name>
+<message><![CDATA[Bonjour,
+
+Un des éléments de votre commande est actuellement en réapprovisionnement, ce qui peut légèrement retarder son envoi.
+
+Merci de votre compréhension.
+
+Cordialement,]]></message>
+</datalanguage>
+<datalanguage iso_code="it" >
+<name><![CDATA[Ritardo]]></name>
+<message><![CDATA[Salve,
+
+purtroppo un articolo che hai ordinato non è al momento in magazzino. Questo potrebbe provocare un leggero ritardo nella consegna.
+Ti preghiamo di scusarci; ci stiamo organizzando per ovviare a questo inconveniente.
+
+Cordialmente,]]></message>
+</datalanguage>
+</order_message>
+</entity_profile>

@@ -1,0 +1,41 @@
+.important-button {
+    font-weight: bold;
+    background: #fff;
+    padding: 5px 10px;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.35);
+}
+
+.warning-text {
+    color: #da3b44;
+    font-size: 13px;
+}
+
+.success-text {
+    color: #2a803e;
+    font-size: 13px;
+}
+
+/* Tabs */
+#nrtthemecustomizer-tabs {
+    display: block;
+    overflow: hidden;
+}
+
+#nrtthemecustomizer-tabs .tab {
+    cursor: pointer;
+    font-weight: bold;
+}
+#nrtthemecustomizer-tabs .tab[data-tab=fieldset_nrt-categorypages_2],#nrtthemecustomizer-tabs .tab[data-tab=fieldset_nrt-productpages_3]{
+	display:none;	
+}
+#nrtthemecustomizer-tabs .tab.active {
+    background: #eb5f60;
+    border-color: #eb5f60;
+    color: #ffffff;
+}
+
+/* Form related */
+#NRT_customCSS,
+#NRT_customJS {
+    min-height: 200px!important;
+}
