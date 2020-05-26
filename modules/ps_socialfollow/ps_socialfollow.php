@@ -55,6 +55,7 @@ class Ps_Socialfollow extends Module implements WidgetInterface
     {
         return (parent::install() &&
             Configuration::updateValue('BLOCKSOCIAL_FACEBOOK', '') &&
+            Configuration::updateValue('BLOCKSOCIAL_WHATSAPP', '') &&
             Configuration::updateValue('BLOCKSOCIAL_TWITTER', '') &&
             Configuration::updateValue('BLOCKSOCIAL_RSS', '') &&
             Configuration::updateValue('BLOCKSOCIAL_YOUTUBE', '') &&
@@ -68,6 +69,7 @@ class Ps_Socialfollow extends Module implements WidgetInterface
     public function uninstall()
     {
         return (Configuration::deleteByName('BLOCKSOCIAL_FACEBOOK') &&
+        	Configuration::deleteByName('BLOCKSOCIAL_WHATSAPP') &&
             Configuration::deleteByName('BLOCKSOCIAL_TWITTER') &&
             Configuration::deleteByName('BLOCKSOCIAL_RSS') &&
             Configuration::deleteByName('BLOCKSOCIAL_YOUTUBE') &&
@@ -82,6 +84,7 @@ class Ps_Socialfollow extends Module implements WidgetInterface
     {
         if (Tools::isSubmit('submitModule')) {
             Configuration::updateValue('BLOCKSOCIAL_FACEBOOK', Tools::getValue('blocksocial_facebook', ''));
+            Configuration::updateValue('BLOCKSOCIAL_WHATSAPP', Tools::getValue('blocksocial_whatsapp', ''));
             Configuration::updateValue('BLOCKSOCIAL_TWITTER', Tools::getValue('blocksocial_twitter', ''));
             Configuration::updateValue('BLOCKSOCIAL_RSS', Tools::getValue('blocksocial_rss', ''));
             Configuration::updateValue('BLOCKSOCIAL_YOUTUBE', Tools::getValue('blocksocial_youtube', ''));
@@ -117,6 +120,12 @@ class Ps_Socialfollow extends Module implements WidgetInterface
                         'label' => $this->trans('Facebook URL', array(), 'Modules.Socialfollow.Admin'),
                         'name' => 'blocksocial_facebook',
                         'desc' => $this->trans('Your Facebook fan page.', array(), 'Modules.Socialfollow.Admin'),
+                    ),
+                    array(
+                        'type' => 'text',
+                        'label' => $this->trans('Whatsapp URL', array(), 'Modules.Socialfollow.Admin'),
+                        'name' => 'blocksocial_whatsapp',
+                        'desc' => $this->trans('Your Whatsapp Account.', array(), 'Modules.Socialfollow.Admin'),
                     ),
                     array(
                         'type' => 'text',
@@ -182,6 +191,7 @@ class Ps_Socialfollow extends Module implements WidgetInterface
     {
         return array(
             'blocksocial_facebook' => Tools::getValue('blocksocial_facebook', Configuration::get('BLOCKSOCIAL_FACEBOOK')),
+            'blocksocial_whatsapp' => Tools::getValue('blocksocial_whatsapp', Configuration::get('BLOCKSOCIAL_WHATSAPP')),
             'blocksocial_twitter' => Tools::getValue('blocksocial_twitter', Configuration::get('BLOCKSOCIAL_TWITTER')),
             'blocksocial_rss' => Tools::getValue('blocksocial_rss', Configuration::get('BLOCKSOCIAL_RSS')),
             'blocksocial_youtube' => Tools::getValue('blocksocial_youtube', Configuration::get('BLOCKSOCIAL_YOUTUBE')),
@@ -210,6 +220,14 @@ class Ps_Socialfollow extends Module implements WidgetInterface
                 'label' => $this->trans('Facebook', array(), 'Modules.Socialfollow.Shop'),
                 'class' => 'facebook',
                 'url' => $sf_facebook,
+            );
+        }
+        
+        if ($sf_facebook = Configuration::get('BLOCKSOCIAL_WHATSAPP')) {
+            $social_links['whatsapp'] = array(
+                'label' => $this->trans('Whatsapp', array(), 'Modules.Socialfollow.Shop'),
+                'class' => 'whatsapp',
+                'url' => $sf_whatsapp,
             );
         }
 
