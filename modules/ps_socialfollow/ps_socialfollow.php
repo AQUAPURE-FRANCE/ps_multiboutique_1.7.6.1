@@ -223,7 +223,7 @@ class Ps_Socialfollow extends Module implements WidgetInterface
             );
         }
         
-        if ($sf_facebook = Configuration::get('BLOCKSOCIAL_WHATSAPP')) {
+        if ($sf_whatsapp = Configuration::get('BLOCKSOCIAL_WHATSAPP')) {
             $social_links['whatsapp'] = array(
                 'label' => $this->trans('Whatsapp', array(), 'Modules.Socialfollow.Shop'),
                 'class' => 'whatsapp',
