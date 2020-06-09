@@ -1,0 +1,178 @@
+/**
+* 2007-2016 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2016 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*
+* Don't forget to prefix your containers with your own identifier
+* to avoid any conflicts with others containers.
+*/
+#chart-show{
+  cursor: pointer;
+}
+#chart-show:hover {
+	opacity: 75%;
+}
+
+.box-cart-bottom .add_to_cart_container #nrtsizechart-show{
+  text-align: center;
+  margin-top: 10px;
+}
+.box-cart-bottom .add_to_cart_container #nrtsizechart-show:before{
+  line-height: 12px;
+}
+#nrtsizechart-show:before{
+  content: "\f0ce";
+font: 400 15px/31px "FontAwesome";
+margin-right: 5px;
+display: inline-block;
+}
+#nrtsizechart-show:hover{
+    color:#f2532f;
+    transition:all 0.4s ease 0s;
+}
+
+#nrtsizechart .page-heading{
+border: 0 none;
+display: block;
+font-size: 36px;
+line-height: 1;
+margin: 0 0 30px;
+padding: 0;
+text-align: center;
+text-transform:uppercase;
+padding-bottom:25px;
+border-bottom:1px solid #ebebeb;
+}
+.backgroundc{
+    background:#e3e3e3;
+}
+.title-measure{
+   font-size: 24px;
+line-height:24px;
+margin: 0px 0 20px;
+ text-transform: uppercase;
+}
+.title-measure.a2{
+    margin-bottom:20px;
+}
+#nrtsizechart-global .table-sizegudie{
+    border:1px solid #e5e5e5;
+	margin:0;
+}
+#nrtsizechart .border-right{
+   border-right:1px solid #e5e5e5;
+}
+.left-content-size{
+    float:left;
+}
+.text-measure li em{
+    color:#eb5f60;
+}
+.text-measure li{
+    font-size:14px;
+    line-height:20px;
+    margin-bottom: 10px;
+}
+.rte ul.text-measure{
+      list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 36px;
+}
+.text-measure li:before{
+    content: "\f111";
+    font-family: "fontawesome";
+    font-size: 10px;
+    line-height:22px;
+    margin-right: 5px;
+    vertical-align: bottom;
+}
+#nrtsizechart-overlay {
+  background-color: #000;
+  height: 100%;
+  left: 0;
+  display: none;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 5103;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
+  opacity: 0.7; }
+
+* html #nrtsizechart-overlay {
+  position: absolute;
+  left: 0;
+  margin-left: -160px;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
+  opacity: 0.7; }
+
+#nrtsizechart {
+  background-color: #fefefe;
+  height:auto !important;
+  max-width:100%;
+}
+#moda_sizechart .modal-dialog {
+    max-width: 75rem;
+    width: auto;
+}
+#nrtsizechart .table > thead > tr > th.nobordered-cell  {
+background: none !important;
+border-top: 1px solid white;
+border-left: 1px solid white;
+}
+#nrtsizechart .bordered-cell, #nrtsizechart .table > thead > tr > th {
+background: #fff none repeat scroll 0 0 !important;
+color: #555555;
+font-size: 18px;
+text-transform: uppercase;
+}
+.hover_banner_img img{
+    max-width:100%;
+    height:auto;
+}
+.hover_banner_img img:hover{
+    opacity:0.7;
+}
+
+#nrtsizechart .table-striped > tbody > tr:nth-child(odd) > td, #nrtsizechart .table-striped > tbody > tr:nth-child(odd) > th{
+  background-color: #FAFAFA;
+}
+.table.table-sizegudie td, .table.table-sizegudie th {
+    border-top: 1px solid #f6f6f6;
+    font-size: 14px;
+    padding: 0.75rem;
+    text-align: center;
+    vertical-align: top;
+}
+@media only screen and (max-width: 543px){
+.table.table-sizegudie td, .table.table-sizegudie th {
+    font-size: 12px;
+    padding: 5px;
+}
+#nrtsizechart .bordered-cell, #nrtsizechart .table > thead > tr > th{
+	font-size:10px;	
+}
+}	  
+@media only screen and (max-width: 991px){
+.left-content-size,.right-content-size{
+	width:100%;	
+}
+}
