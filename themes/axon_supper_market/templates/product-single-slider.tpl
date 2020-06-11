@@ -131,13 +131,15 @@
 									<div class="title">{l s='Indices de Valeurs'}
 										<div class="global-indices pull-right">{hook h='displayProductSizeGuide' product=$product}</div>
 									</div>
+									{assign var='ids_feature' value=[]}
 									{foreach from=$product.features item=feature}
-										{if $feature.id_feature < 10}
+										{if $feature.id_feature < 10 and !$feature.id_feature|in_array:$ids_feature}
+											{$ids_feature[] = $feature.id_feature}
 											<div class="skill-bar feature_{$feature.id_feature}">
 												<div class="name">{$feature.name}<span class="skill-bar-perc"></span></div>
 												<div class="bar">
 													<span 
-														data-units="{if $feature.id_feature == 1 || $feature.id_feature == 2 || $feature.id_feature == 3}{l s='€/L'}
+														data-units="{if $feature.id_feature == 1 || $feature.id_feature == 2 || $feature.id_feature == "3"}{l s='€/L'}
 																	{elseif $feature.id_feature == 4}{l s='€/m3'}
 																	{elseif $feature.id_feature == 5 || 6 || 7}{l s='Kg/mois'}
 																	{elseif $feature.id_feature == 8}{l s='m3/mois'}
@@ -200,7 +202,7 @@
 						{block name='product_prices'}
 							{include file='catalog/_partials/product-prices.tpl'}
 						{/block}
-	{*	                {hook h='displayRightColumnProduct'}*}
+		                {* {hook h='displayRightColumnProduct'} *}
 
 						<!-- /Accessories -->
 						<!-- Product actions -->
@@ -254,7 +256,9 @@
             {/foreach}
     </div>
 
-{*      '<pre>'{$product|@var_dump}'</pre>'*}
+    '<pre>'{$product.features|@var_dump}'</pre>'
+	'<pre>'{$ids_feature|@var_dump}'</pre>'
+
 
 </div>
 
