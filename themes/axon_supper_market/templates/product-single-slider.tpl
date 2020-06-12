@@ -23,6 +23,7 @@
  * International Registered Trademark & Property of PrestaShop SA
 *}
 
+
 {if isset($nodecontent.products) && $nodecontent.products}
 	<div class="single-product" itemscope itemtype="https://schema.org/Product">
 		<meta itemprop="url" content="{$product.url}">
@@ -202,7 +203,10 @@
 						{block name='product_prices'}
 							{include file='catalog/_partials/product-prices.tpl'}
 						{/block}
-		                {* {hook h='displayRightColumnProduct'} *}
+                		{hook h='displayMultiAccessoriesHome'}
+
+{* {assign var="urltest" value=HsMultiAccessoriesAbstract::getMyCurrentURL()}
+'<pre>'{$urltest|@var_dump}'</pre>' *}
 
 						<!-- /Accessories -->
 						<!-- Product actions -->
@@ -256,8 +260,8 @@
             {/foreach}
     </div>
 
-    '<pre>'{$product.features|@var_dump}'</pre>'
-	'<pre>'{$ids_feature|@var_dump}'</pre>'
+    {* '<pre>'{$product.features|@var_dump}'</pre>'
+	'<pre>'{$ids_feature|@var_dump}'</pre>' *}
 
 
 </div>

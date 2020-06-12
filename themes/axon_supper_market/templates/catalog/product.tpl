@@ -144,8 +144,10 @@
 
                     <div class="indice-features">
 	                    <div class="title">{l s='Indices de Valeurs'}<div class="global-indices pull-right">{hook h='displayProductSizeGuide' product=$product}</div></div>
-	                    {foreach from=$product.features item=feature}
-	                    {if $feature.id_feature < 10}
+						{assign var='ids_feature' value=[]}
+							{foreach from=$product.features item=feature}
+								{if $feature.id_feature < 10 and !$feature.id_feature|in_array:$ids_feature}
+									{$ids_feature[] = $feature.id_feature}
 	                    <div class="skill-bar feature_{$feature.id_feature}">
 		                    <div class="name">{$feature.name}<span class="skill-bar-perc"></span></div>
 							<div class="bar">
@@ -211,7 +213,8 @@
                 {block name='product_prices'}
                     {include file='catalog/_partials/product-prices.tpl'}
                 {/block}
-                {hook h='displayRightColumnProduct'}
+                {hook h='displayMultiAccessoriesProduct'}
+
                 <!-- /Accessories -->
                 <!-- Product actions -->
                 <div class="product-actions">
