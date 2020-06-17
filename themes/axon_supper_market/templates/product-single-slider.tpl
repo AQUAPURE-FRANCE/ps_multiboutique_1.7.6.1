@@ -187,6 +187,7 @@
 							{/if}
 						</div>
 
+
 						{hook h='buttoncompare' product=$product}
 						{hook h='displayProductListFunctionalButtons' product=$product}
 
@@ -203,10 +204,14 @@
 						{block name='product_prices'}
 							{include file='catalog/_partials/product-prices.tpl'}
 						{/block}
-                		{hook h='displayMultiAccessoriesHome'}
+						{* {hook h='displayMultiAccessoriesProduct' mod='hsmultiaccessoriespro'} *}
+						{hook h='displayMultiAccessoriesProduct' mod='hsmultiaccessoriespro' product=$product}
 
-{* {assign var="urltest" value=HsMultiAccessoriesAbstract::getMyCurrentURL()}
-'<pre>'{$urltest|@var_dump}'</pre>' *}
+						{* {include file="../../../modules/hsmultiaccessoriespro/views/templates/hook/multi_accessories_home.tpl" product=$product} *}
+
+{* {assign var="multiaccdata" value=HsMultiAccessoriesPro::getHsMultiAccessoriesData($product)}
+{$multiaccdata} *}
+
 
 						<!-- /Accessories -->
 						<!-- Product actions -->
@@ -218,7 +223,7 @@
 									<input type="hidden" name="id_product" value="{$product.id}" id="product_page_product_id">
 									<input type="hidden" name="id_customization" value="{$product.id_customization}" id="product_customization_id">
 
-									{hook h='displayLeftColumn' mod='hsmulti'}
+									{* {hook h='displayLeftColumn' mod='hsmulti'} *}
 									{* {block name='product_variants'}
 										{include file='catalog/_partials/product-variants.tpl' groups=$groups}
 									{/block} *}
@@ -260,8 +265,8 @@
             {/foreach}
     </div>
 
-    {* '<pre>'{$product.features|@var_dump}'</pre>'
-	'<pre>'{$ids_feature|@var_dump}'</pre>' *}
+    {* '<pre>'{$product|@var_dump}'</pre>' *}
+	{* '<pre>'{$ids_feature|@var_dump}'</pre>' *}
 
 
 </div>
@@ -269,6 +274,5 @@
 {else}
 	<p class="alert alert-warning" style="clear:both;margin-bottom:30px;">{l s='No products at this time.'}</p>
 {/if}
-
 
 

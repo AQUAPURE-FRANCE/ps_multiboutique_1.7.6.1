@@ -1,3 +1,121 @@
+/*********************************************************************************
+ * 			MODIFY ID, NAME & VALUE ATTRIBUTES ON TECHNOLOGIES SECTION
+ *********************************************************************************/
+
+(function () {
+	const NrtHomepageAjax = {
+		DOM: {
+			productId: '#product_page_product_id',
+			tokenName: 'form input[name="token"]',
+			customizationId: '#product_customization_id',
+			quantityWanted: '#quantity_wanted',
+			contentClass: '.content-76',
+			invisibleInputId: 'form input[_id]',
+			productVariantsClass: 'form .product-variants',
+			pathNamePage: '/aquahome/fr/',
+			noAttrMsg: 'Element ---nodeName--- has no attribute ---attr---'
+		},
+
+		addUnderscore(element, attr) {
+			if (!element.hasAttribute('_' + attr)) {
+				element.setAttribute('_' + attr, element.getAttribute(attr))
+			}
+		},
+
+		makeFormVisible(element) { this.makeAttributeVisible(element, 'id') },
+
+		makeFormInvisible(element) {
+			let form = element.closest('form');
+			['id', 'action'].map(attr => {
+				this.addUnderscore(form, attr);
+				form.removeAttribute(attr);
+			});
+		},
+
+		makeAttributeVisible(element, attrs) {
+			attrs.map(attr => {
+				let _attr = '_' + attr;
+				if (target.hasAttribute(_attr)) {
+					element.setAttribute(attr.replace(/_/, ''), element.getAttribute(attr));
+					element.removeAttribute(attr);
+				} else {
+					console.log(this.DOM.noAttrMsg.replace(/---nodeName---/, element.nodeName).replace(/---attr---/, attr));
+				}
+			});
+		},
+
+		makeAttributeInvisible(element, attrs) {
+			attrs[0].map(attr => {
+				if (element.hasAttribute(attr)) {
+					this.addUnderscore(element, attr);
+					element.removeAttribute(attr);
+				} else {
+					console.log(this.DOM.noAttrMsg.replace(/---nodeName---/, element.nodeName).replace(/---attr---/, attr));
+				}
+			});
+		},
+
+		getInactiveTabs(id = null) {
+			let inactiveTabs = [];
+			document.querySelector(this.DOM.contentClass).querySelectorAll('[data-toggle]').forEach(link => {
+				if (link.href.match(/#content-tab/) !== null) {
+					let tab = document.querySelector(link.href.replace(/.*(?=#content-tab-)/, ''));
+					if (tab.id !== id) {
+						inactiveTabs.push(tab);
+					}
+				}
+			});
+			return inactiveTabs;
+		},
+
+		makeTabActive(link, targetSelector, ...attrs) {
+			let tab = document.querySelector(link.href.replace(/.*(?=#content-tab-)/, ''));
+			this.makeFormVisible(tab);
+
+			let target = tab.querySelector(this.DOM.invisibleInputId);
+
+			if (target !== null) {
+				this.makeAttributeVisible(target, attrs);
+			}
+		},
+
+		removeTabAttributes(selector, idTab = null, ...attrs) {
+			let element, tabs = this.getInactiveTabs(idTab);
+			for (let i = 0; i < tabs.length; i++) {
+				element = tabs[i].querySelector(selector);
+				this.makeFormInvisible(element);
+				this.makeAttributeInvisible(element, attrs);
+			}
+		},
+
+		onload(selector, ...attrs) { this.removeTabAttributes(selector, this.getInactiveTabs()[0].id, attrs) },
+
+		init() {
+			if (window.location.pathname === this.DOM.pathNamePage) {
+				this.onload(this.DOM.productId, 'id', 'name', 'value');
+				this.onload(this.DOM.tokenName, 'name', 'value');
+				this.onload(this.DOM.customizationId, 'id', 'name', 'value');
+				this.onload(this.DOM.productVariantsClass, 'class');
+				this.onload(this.DOM.quantityWanted, 'id', 'name');
+
+				document.addEventListener('DOMContentLoaded', () => {
+					document.addEventListener('click', Event => {
+						if (Event.target.classList.contains('ui-tabs-anchor') && Event.target.closest(this.DOM.contentClass)) {
+							let idTab = Event.target.href.replace(/.*(?=content-tab-\d+)/, '');
+
+							this.makeTabActive(Event.target, this.DOM.productId, 'id', 'name', 'value');
+							this.removeTabAttributes(this.DOM.productId, idTab, 'id', 'name', 'value');
+							this.removeTabAttributes(this.DOM.tokenName, idTab, 'name', 'value');
+							this.removeTabAttributes(this.DOM.customizationId, idTab, 'id', 'name', 'value');
+						}
+					});
+				});
+			}
+		},
+	};
+	NrtHomepageAjax.init();
+}());
+
 /*
  * Custom code goes here.
  * A template should always ship with an empty custom.js
