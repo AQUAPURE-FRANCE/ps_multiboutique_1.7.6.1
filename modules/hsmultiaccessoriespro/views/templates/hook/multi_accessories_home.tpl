@@ -6,4 +6,4 @@
 * @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *}
 
-{include file="../../../abstract/views/templates/hook/{$path_theme}multi_accessories_home.tpl"}
+{include file="../../../abstract/views/templates/hook/{$path_theme}multi_accessories.tpl"}
